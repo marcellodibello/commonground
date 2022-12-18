@@ -1,6 +1,6 @@
 
 ---
-title: "Common Ground"
+title: "PHI 420/591 Common Ground"
 subtitle: "Spring 23"
 author: "[Marcello Di Bello](https://www.marcellodibello.com/)  - mdibello@asu.edu"
 output:
@@ -168,7 +168,7 @@ Office hours: Thursday after class or by appointment
 
 # Topic
 
-This seminar examines the idea of the common ground as a condition for meaningful disagreement, valid reasoning, rational inquiry about matters of fact, and political decision-making. The motivation for thinking about the common ground stems from the growing [political polarization](https://www.pewresearch.org/politics/2017/10/05/the-partisan-divide-on-political-values-grows-even-wider/) on issues such as climate change, immigration, vaccines, abortion, race, the #metoo movement, the nature of the American project, and more. The list is quite long. This polarization exists along with deep divisions along several lines: income and wealth, education, health, geography, lived experiences, etc. Seeking a common ground is often touted as the solution to the problem of polarization, and the lack of a common ground  as the cause. But what is a common ground, in the first place? Is seeking one the solution to polarization? If so, what kind of common ground should we be seeking? Is a common ground even possible or does it necessarily lead to the exclusion of some people?   As is often the case in philosophy, this course will not offer definitive answers, but rather, a framework of analysis.
+This seminar examines the idea of the common ground as a condition for meaningful disagreement, valid reasoning, rational inquiry about matters of fact, and political decision-making. The motivation for thinking about the common ground stems from the growing [political polarization](https://www.pewresearch.org/politics/2017/10/05/the-partisan-divide-on-political-values-grows-even-wider/) on issues such as [climate change](https://journals.sagepub.com/doi/full/10.1177/1075547019900290), [vaccines](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263746), [abortion](https://www.pewresearch.org/fact-tank/2022/07/15/key-facts-about-the-abortion-debate-in-america/), [race](https://www.nber.org/papers/w29245), [the 1619 project](https://www.theatlantic.com/ideas/archive/2019/12/historians-clash-1619-project/604093/),  [#MeToo](https://fivethirtyeight.com/features/are-americans-more-divided-on-metoo-issues/), and more. This polarization in people's opinions, committments, values and beliefs exists along with deep material divisions in income and wealth, education, health, lived experiences, etc. Seeking a common ground is sometimes touted as the solution to the problem of polarization, and the lack of a common ground  as the cause. But what is a common ground, in the first place? Is seeking one the solution to polarization? If so, what kind of common ground should we be seeking? Is a common ground even possible or does it necessarily lead to the exclusion of some people?  This seminar examines these questions from a philosophical standpoint. It will not offer answers, but rather, a framework of analysis.
 
 <!---
 This course examines works by authors not usually read together, drawing from classical texts in the history of philosophy (Aristotle, Locke, Leopardi), philosophy of language (David Lewis, Bob Stalnaker, Donald Davidson), epistemology (Jennifer Lakey, David Christensen, Thomas Kelly), political philosophy (John Rawls, Charles Mills, Elizabeth Anderson) and postcolonial theory (Frantz Fanon, Edward Said, Gaytri Spivak). 
@@ -176,7 +176,7 @@ This course examines works by authors not usually read together, drawing from cl
 
 # Objectives
 
-This course is meant for advanced undergraduates and graduates students. 
+This course is meant for advanced undergraduates and graduate students. 
 You will become familiar with different conceptions of the common ground 
 in various sub-disciplines of philosophy. The goal is to 
 understand these conceptions and utilize them to illuminate trends in 
@@ -268,12 +268,22 @@ included in the course materials.
 
 **Introduction**
 
-The need for a common ground can manifest itself in different areas of human engagement. In this course, we focus on four in particular: communication, reasoning, rational inquiry about the world, and political deliberation. These four areas fall (roughly) within the purview of four sub-disciplines of philosophy: philosophy of language; logic and argumentation theory;  epistemology and philosophy of science; and finally, value theory, including moral, social and political philosophy. To these four, we will add a fifth area of investigation, what we might call the question of inclusion and belonging. To address this question, we will sometimes reach beyond the boundaries of contemporary analytic philosophy and read works in post-colonial theory. 
+The readings in this course are organized systemically to cover different areas of philosophy.  The need for a common ground can manifest itself in different areas of human engagement. We will focus on four in particular: communication, reasoning, rational inquiry about the world, and political deliberation. These four areas fall (roughly) within the purview of four sub-disciplines of philosophy: philosophy of language; logic and argumentation theory;  epistemology and philosophy of science; and finally, value theory, including moral, social and political philosophy. To these four, we will add a fifth area of investigation, what we might call the question of inclusion and belonging. 
 
+In this first class meeting, however, we will read beyond philosophy. We will consider a family of explanations for why our society is divided and polarized. They can all be stated as follows: excess of individualism and loss of community drive division and polarization. We will look at three possible causes for the excess of individualism and loss of community: the logic of market capitalism; the principles of liberal democracy; the legacy of racism. These are not meant to be definitive, but simply a starting point for the conversation. We can return back to them throughout the course. The more specific philosophical readings that follow about questions of language, logic and reasoning, rational inquiry and political deliberation can all be situated within these overarching explanations. 
+
+*Essential readings*
+
+- Rodgers (2011), The Rediscovery of the Market (Chapter 2 of [The Age of Fracture](https://www.hup.harvard.edu/catalog.php?isbn=9780674064362))
+
+- Deneen (2018), The Degradation of Citizenship (Chapter 7 of [Why Liberalism Failed](https://yalebooks.yale.edu/book/9780300240023/why-liberalism-failed/))
+
+- McGhee (2021), Racism Drained the Pool (Chapter 2 of [The Sum of Us](https://www.penguinrandomhouse.com/books/564989/the-sum-of-us-by-heather-mcghee/))
 
 
 ## Wk 2 - 1/19
 
+*Presuppositions*
 
 The first perspective on the common ground---and perhaps the most basic---is that the common ground is what allows us to communicate meaningfully with one another. In this sense, it comprises rules of communication, the meanings of words, and shared beliefs. 
 But the common ground can also be what allows and makes possible more divisive forms of communication, such as hate speech. In this sense, the common ground 
@@ -301,7 +311,7 @@ is shared by a select group of people, but not everybody. This raises the questi
 **Radical Interpretation**
 
 What would happen if your interlocutor spoke a radically different 
-language so that you could not understand what they say? This is the problem of radical interpretation. To carry out a translation, one needs to figure out what the other person means, and in order to figure out what the other person means, one needs to figure out what they believe. Without a grasp of what they mean or believe, no translation seems possible. To avoid this impasse, the principle of charity might help, that is, to assume that what we believe is what others would believe in similar circumstances. This assumed similarity of beliefs can then be used to carry out the translation. If this is right, the challenge of radical interpretation might not be too radical in the end. We share more with others than we might have thought. 
+language so that you could not understand what they say? This is the problem of radical interpretation. To carry out a translation, one needs to figure out what the other person means, and in order to figure out what the other person means, one needs to figure out what they believe. Without a grasp of what they mean or believe, no translation seems possible. To avoid this impasse, the principle of charity might help, that is, to assume that what we believe is what others would believe in similar circumstances. This putative similarity of beliefs can then be used to carry out a translation. If this is right, the challenge of radical interpretation might not be too radical in the end. We share more with others than we might have thought. 
 
 
 *Essential readings*
@@ -321,7 +331,7 @@ language so that you could not understand what they say? This is the problem of 
 ## Wk 4  - 2/2
 
 
-**Language Incommensurabiility**
+**Language Incommensurability**
 
 In grappling with the problem of radical interpretation, we did not take seriously 
 the possibility that other people who do not speak the same language as our own could hold radically different conceptions of the world. They could carve out the world, so to speak, in radically different ways from us. If that is so, how could we assume---as the principle of charity suggests---that we all share the same beliefs? The absence of a common ground, from a linguistic and conceptual perspective, is what is sometimes called incommensurability. 
@@ -333,18 +343,21 @@ There are many forms of incommensurability: one's language can be incommensurabl
 - Davidson (1973), [On the Very Idea of a Conceptual Scheme](https://www2.southeastern.edu/Academics/Faculty/jbell/conceptualscheme.pdf)
 (Using a Tarski-style theory of meaning, the paper argues that it impossible for two languages to be incommensurable)
 
-- Popper (1976), [The Myth of the Framework](https://link.springer.com/chapter/10.1007/978-94-009-3779-6_2)
+- Povinelli (2001), [Radical Worlds: The Anthropology of Incommensurability and Inconceivability]()
 
 *Additional readings and materials*
 
 - Borges, [Avverroes](https://www.pierre-legrand.com/borges-averroess-search.pdf)
 (A story about how the Islamic philosopher Averroes could not understand the meaning of words such as "comedy" and "tragedy" because he had no idea about Ancient Greek theater.)
 
+- Popper (1976), [The Myth of the Framework](https://link.springer.com/chapter/10.1007/978-94-009-3779-6_2)
+
+
 - Kuhn (1982), [Commensurability, Comparability, Communicability]()
 
 - Sankey (1997), [Incommensurability: The current state of play](https://philpapers.org/archive/SANITC.pdf)
 
-- Povinelli (2001), [Radical Worlds: The Anthropology of Incommensurability and Inconceivability]()
+
 
 - Chang (1997), [Introduction](https://static1.squarespace.com/static/5c4d055b365f02de29e99730/t/5c4e8d06032be4c4182f061f/1548651785192/Chang_IntroductionIncommensurabilityBook.pdf) (to the edited Volume Incommensurability, Incomparability, and Practical reason)
 
@@ -354,7 +367,7 @@ There are many forms of incommensurability: one's language can be incommensurabl
 **Logic and Argumentation**
 
 The second perspective on the common ground we will examine 
-has to do with logic, reasoning and argumentation. It would seem that, in virtue of sharing certain principles of reasoning, we can debate, disagree and resolve our disagreements. The scholastic philosophers of the Middle Ages used to say "contra impugnantes principia non est disputandum (which can be translated as "against those who reject the principles of logic, there cannot be a discussion"). Here, the common ground comprises certain fundamental logical principles and rules of rational discussion. Such common ground makes rational discussion possible.  
+has to do with logic, reasoning and argumentation. It would seem that, in virtue of sharing certain principles of reasoning, we can debate, disagree and resolve our disagreements. The scholastic philosophers of the Middle Ages used to say "contra impugnantes principia non est disputandum (which can be translated as  "against those who reject the principles of logic, there cannot be a discussion"). Here, the common ground comprises certain fundamental logical principles and rules of rational discussion. Such common ground makes rational discussion possible.  
 
 And yet, it is surprising hard to justify even the most basic logical principle of all, the principle of non-contradiction---that one should not assert p and its negation at the same time. And, more recently, some logicians have even come to endorse logical pluralism, the view that in fact there can be a multiplicity of logical principles. If logical pluralism is correct, the validity of a piece of reasoning will vary on a case-by-case basis.  Perhaps, then, we should not aim to find a common ground by attempting to justify logical principles from scratch---that is very hard to do. Turning from logic to argumentation theory, a more more modest approach for finding a common ground is to agree on argumentative rules about rational inquiry as the conditions that make this inquiry possible. 
 
@@ -380,9 +393,10 @@ And yet, it is surprising hard to justify even the most basic logical principle 
 **Skepticism, Tradition and Common-sense**
 
 We now turn from logic and argumentation theory to epistemology. Broadly speaking, we  all agree that as we aim to figure out facts about the world, we should gather pertinent evidence, conscientiously assess it and draw conclusions from it. 
-So, the common ground, from an epistemological perspective, seems to be that we should be responsive to evidence if we aim to figure out what the world is like. But what does it mean to be 'responsive to evidence'? And why should be we responsive to evidence in the first place?
+So, the common ground, from an epistemological perspective, seems to be that we should be responsive to evidence if we aim to figure out what the world is like. But what does it mean to be 'responsive to evidence'? And why should we be responsive to evidence in the first place?
 
-Being responsive to evidence will likely include a set of epistemic rules of and practices, such as follow the deliverance of the senses; perform experiments in such-and-such a way; and so.  The problem, however, is that whatever these epistemic rules and practices are, it would be hard to justify them in a non-circular way. This is the skeptical challenge. We might insist that common epistemic rules and practices are truth conducive. But how can we argue that being evidence-responsive is truth-condusive without, in a circular manner, appeal to evidence? And this challenge is not only theoretical. Scientists have suggested that "most published research is false"---that common rules and practices used to gather, analyze and  draw inference from evidence leads to falsehoods rather than truths. 
+Being responsive to evidence will likely include a set of epistemic rules and practices, such as follow the deliverance of the senses; perform experiments in such-and-such a way; and so.  The problem, however, is that whatever these epistemic rules and practices are, it would be hard to justify them in a non-circular way. This is the skeptical challenge. We might insist that common epistemic rules and practices are truth conducive. 
+In fact, scientists have suggested---albeit perhaps in an exaggerated manner---that common rules and practices used to gather, analyze and  draw inferences from evidence lead to falsehoods rather than truths. And even if these claims are an exaggeration, the skeptical doubt remains.  For how can we argue that being evidence-responsive is truth-conducive without, in a circular manner, appeal to evidence? 
 
 Instead of attempting to ground our epistemology from first principles, the common ground could include a reference to common-sense and traditions rooted in history. But this would seem a capitulation of reason and would still leave open the question, why should we follow common-sense or tradition in the first place?  Why should that be our common ground? The skeptical challenge persists. 
 
@@ -403,7 +417,7 @@ Instead of attempting to ground our epistemology from first principles, the comm
 **Rational Polarization**
 
 
-It is instructive to ask whether skepticism might be responsible for belief polarization about matters such as climate change or vaccines. Perhaps, those who doubt the effectiveness of vaccine or challenge the scientific evidence about climate change are skeptics who are doubting the very principles of scientific inquiry. Admittedly, this seems a far-fetched explanation. The challenge of skepticism has always been with us, and polarization seems instead a phenomenon more circumscribed and historically situated.  
+It is instructive to ask whether skepticism might be responsible for belief polarization about matters such as climate change or vaccines. Perhaps, those who doubt the effectiveness of vaccines or challenge the scientific evidence about climate change are skeptics who  doubt the very principles of scientific inquiry. Admittedly, this seems a far-fetched explanation. The challenge of skepticism has always been with us, and polarization seems instead a phenomenon more circumscribed and historically situated.  
 
 Let us assume---perhaps somewhat optimistically---that people are often engaged in an empirically-informed rational inquiry and share a conception of what counts as evidence for a claim and criteria to assess the strength of this evidence. So long as this epistemological common ground exists and the inquirers share the same evidence, we should hope that no irredeemable disagreement can emerge. But a lot depends on what we mean by "sharing the same evidence". While two people might share the same "brute" evidence---say, they have access to the same data, documents, readings, etc.---they might interpret it differently. Or the same evidence might be ambiguous and thus invite different interpretations. 
 
@@ -423,14 +437,14 @@ Attitude Polarization: The Effects of Prior Theories on Subsequently Considered 
 -  Gilovich (1991), Seeing What we Expect to See (Chapter 3 of How We Know What Isn’t So)
 
 
-## Wk 8 - 2/2 
+## Wk 8 - 3/2 
 
 **First essay due**
 
 
 **Bubbles and Chambers**
 
-Another explanation for belief polarization is that---because of the structure of information cascading on social media---people will have selective access to information and inhabit epistemic bubbles and echo chambers (though we will see these the two are different). Echo chambers and bubbles are failures of common ground---not in the sense that people do not share the principles of logic or reasoning---but in the sense that people do not share the same evidence. Given these circumstances, then, belief polarization is quite inevitable, and in many ways, entirely unsurprising. The cure, then, is simple: escape your epistemic bubble and eco chamber; go talk to those with whom you disagree; etc. As we will see, though, it is much harder to escape an echo chamber than an epistemic bubble. 
+Another explanation for belief polarization is that---because of the structure of information cascading on social media---people will have selective access to information and inhabit epistemic bubbles and echo chambers (though we will see that the two are different). Echo chambers and bubbles are failures of common ground---not in the sense that people do not share the principles of logic or reasoning---but in the sense that people do not share the same evidence. Given these circumstances, then, belief polarization is quite inevitable, and in many ways, entirely unsurprising. The cure, then, is simple: escape your epistemic bubble and eco chamber; go talk to those with whom you disagree; etc. As we will see, though, it is much harder to escape an echo chamber than an epistemic bubble. 
 
 *Essential readings*
 
@@ -458,7 +472,7 @@ Another explanation for belief polarization is that---because of the structure o
 
 **Epistemic Injustice**
 
-Epistemic bubbles and echo chambers are ecosystem of information, with their own interval rules and regulations. They constitute, in some sense, ca ommon ground, at least for those who are part of them. A common ground, then, can also exclude, and perhaps it needs to exclude in order to include. So what happens when some people---along with their knowledge, evidence, testimony, experience---are excluded? Recently, a number of philosophers within the analytic tradition have theorized about what can be broadly called "epistemic injustice", which takes various forms: testimonial, hermeneutical, oppressive, racial ignorance. Before that, one of the foundational text of post-colonial theory took up the question that certain voices are excluded from the conversation---and cannot even articulate their position. We will read texts in both traditions.  
+Epistemic bubbles and echo chambers are ecosystems of information, with their own interval rules and regulations. They constitute, in some sense, a common ground, at least for those who are part of them. A common ground, then, can also exclude, and perhaps it needs to exclude in order to include. So what happens when some people---along with their knowledge, evidence, testimony, experience---are excluded? Recently, a number of philosophers within the analytic tradition have theorized about what can be broadly called "epistemic injustice", which takes various forms: testimonial, hermeneutical, oppressive. Before that, one of the foundational texts of post-colonial theory took up the question whether certain voices are systematically excluded from the conversation---and cannot even articulate their position. 
 
 *Essential readings:*
 
@@ -480,7 +494,7 @@ Epistemic bubbles and echo chambers are ecosystem of information, with their own
 
 **Overlapping Consensus**
 
-We now turn from epistemology to the political. It is political discussions that are often polarized. Here, disagreements are not only about matters of facts, but also about matters of value (though the line between facts and values might be fuzzy). Citizens in liberal democracies often hold radically different views about the good life, religion, education, the common good. A question that has shaped political philosophy in the analytic tradition over the last three decades is, how can political deliberations and judicial decisions be carried out---and be legitimate---despite the fact of radical disagreement about matters of values among the citizenry? One answer is that, in the end, reasonable people will share a political common ground, an "an overlapping consensus", which makes possible the exercise of public reason and its legitimacy. 
+We now turn from the epistemological to the political. It is political discussions that are often polarized. Here, disagreements are not only about matters of facts, but also about matters of value (though the line between facts and values might be fuzzy). Citizens in liberal democracies often hold radically different views about the good life, religion, education, the common good. A question that has shaped political philosophy in the analytic tradition over the last three decades is, how can political deliberations and judicial decisions be carried out---and be legitimate---despite the fact of radical disagreement about matters of values among the citizenry? One answer is that, in the end, reasonable people will share a political common ground, an "overlapping consensus", which makes possible the exercise of public reason and its legitimacy. 
 
 On this view, an important qualification must be made, however. That is, an overlapping consensus must be sought between reasonable people. Those who can be termed "unreasonable" do not enter the overlapping consensus, and thus are not entitled to pursue objections that may threaten the integrity and legitimacy of public reason. 
 
@@ -513,7 +527,7 @@ On this view, an important qualification must be made, however. That is, an over
 
 **Self-organization**
 
-The idea of an overlapping consensus presupposes that there is a minimal, essential set of values that we share (or procedures that we endorse), despite deep, widespread disagreement on many issues. But one wonders whether this overlapping consensus exists, and even if it does, one wonder whether it can ever be enough to give legitimacy to political deliberations. Another model suggests we need not worry about whether we have an overlapping consensus. A convergence might emerge, not as a matter of a theoretical commitment to a set of shared values, but as an self-organizing, natural order of social behaviors and practices. 
+The idea of an overlapping consensus presupposes that there is a minimal, essential set of values that we share (or procedures that we endorse), despite deep, widespread disagreement on many issues. But one wonders whether this overlapping consensus exists, and even if it does, one wonder whether it can ever be enough to give legitimacy to political deliberations. Another model suggests we need not worry about whether we have an overlapping consensus. A convergence might emerge, not as a matter of theoretical commitments to shared values, but as a self-organizing order of preferences, behaviors and practices. 
 
 
 *Essential readings*
@@ -536,7 +550,6 @@ worth exploring. First, an individualistic, competition-driven market logic that
 
 *Additional readings and materials*
 
-- Rodgers (2011), The Rediscovery of the Market (Chapter 2 of [The Age of Fracture](https://www.hup.harvard.edu/catalog.php?isbn=9780674064362))
 
 - Schmitt, The Concept of the Political
 
