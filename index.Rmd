@@ -384,6 +384,8 @@ And yet, it is surprising hard to justify even the most basic logical principle 
 
 - Aristotle, [Metaphysics 4](http://www.perseus.tufts.edu/hopper/text?doc=Aristot.+Met.+4&fromdoc=Perseus%3Atext%3A1999.01.0052)
 
+- Ballatyne (2022), [The Fog of Debate](https://www.dropbox.com/s/y03w1gq60saq9dm/Ballantyne_FogOfDebate_2022.pdf?dl=0)
+
 - SEP, [Logical Pluralism](https://plato.stanford.edu/entries/logical-pluralism/)
 
 - SEP, [Aristotle on Non-contradiction](https://plato.stanford.edu/entries/aristotle-noncontradiction/)
