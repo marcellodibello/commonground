@@ -449,7 +449,7 @@ Another explanation for belief polarization is that---because of the structure o
 
 *Essential readings*
 
-- Nguyen, [Eco Chambers and Epistemic Bubbles]()
+- Nguyen, [Eco Chambers and Epistemic Bubbles](https://www.marcellodibello.com/commonground/readings/ChambersBubbles.pdf)
 
 - Lakey, [Disagreement and Belief Dependence: Why Numbers Matter]()
 
