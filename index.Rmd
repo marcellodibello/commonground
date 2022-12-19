@@ -276,11 +276,11 @@ They all place blame, to different degrees, on individualism and loss of communi
 
 *Essential readings*
 
-- Rodgers (2011), The Rediscovery of the Market (Chapter 2 of [The Age of Fracture](https://www.hup.harvard.edu/catalog.php?isbn=9780674064362)) - *Check Canvas for pdf*
+- Rodgers (2011), The Rediscovery of the Market (Chapter 2 of [The Age of Fracture](https://www.hup.harvard.edu/catalog.php?isbn=9780674064362)) - *Check Canvas*
 
-- Deneen (2018), The Degradation of Citizenship (Chapter 7 of [Why Liberalism Failed](https://yalebooks.yale.edu/book/9780300240023/why-liberalism-failed/))  - *Check Canvas for pdf*
+- Deneen (2018), The Degradation of Citizenship (Chapter 7 of [Why Liberalism Failed](https://yalebooks.yale.edu/book/9780300240023/why-liberalism-failed/))  - *Check Canvas*
 
-- McGhee (2021), Racism Drained the Pool (Chapter 2 of [The Sum of Us](https://www.penguinrandomhouse.com/books/564989/the-sum-of-us-by-heather-mcghee/))  - *Check Canvas for pdf*
+- McGhee (2021), Racism Drained the Pool (Chapter 2 of [The Sum of Us](https://www.penguinrandomhouse.com/books/564989/the-sum-of-us-by-heather-mcghee/))  - *Check Canvas*
 
 
 ## 1/19
@@ -350,7 +350,7 @@ the possibility that other people could hold radically different conceptions of 
 - Borges, [Avverroes](https://www.pierre-legrand.com/borges-averroess-search.pdf)
 (A story about how the Islamic philosopher Averroes could not understand the meaning of words such as "comedy" and "tragedy" because he had no idea about Ancient Greek theater.)
 
-- Popper (1976), [The Myth of the Framework](https://link.springer.com/chapter/10.1007/978-94-009-3779-6_2)
+- Popper (1976), The Myth of the Framework (essay in in [The Myth of the Framework: In Defence of Science and Rationality](https://www.routledge.com/The-Myth-of-the-Framework-In-Defence-of-Science-and-Rationality/Notturno-Popper/p/book/9780415135559) - *Check Canvas*
 
 
 - Kuhn (1982), [Commensurability, Comparability, Communicability](https://www.marcellodibello.com/commonground/readings/KuhnComComCom.pdf)
@@ -375,7 +375,7 @@ And yet, it is surprising hard to justify even the most basic logical principle 
 
 - Beall and Restall (2000), [Logical pluralism](https://consequently.org/papers/pluralism.pdf)
 
-- van Eemeren (2003), Rules for a Critical Discussion (Chapter 6 of A Systematic Theory of Argumentation) - *Check Canvas for pdf*
+- van Eemeren (2003), Rules for a Critical Discussion (Chapter 6 of A Systematic Theory of Argumentation) - *Check Canvas*
 
 
 *Additional readings and materials*
@@ -401,7 +401,7 @@ Instead of attempting to ground our epistemology from first principles, the comm
 
 *Essential readings*
 
-- Lynch (2012), Nothing by Dreams and Smoke and Reasons Ends: Tradition and Common Sense (Chapters 3 and 4 of [In Praise of Reasons](https://mitpress.mit.edu/9780262526050/in-praise-of-reason/))  
+- Lynch (2012), Nothing by Dreams and Smoke and Reasons Ends: Tradition and Common Sense (Chapters 3 and 4 of [In Praise of Reason](https://mitpress.mit.edu/9780262526050/in-praise-of-reason/))  - *Check Canvas*
 
 
 *Additional readings and materials*
@@ -429,10 +429,10 @@ But, perhaps surprisingly, even people who share the same evidence and share the
 
 *Additional readings and materials*
 
--  Lord,  Ross, and Lepper (1979), Biased Assimilation and
-Attitude Polarization: The Effects of Prior Theories on Subsequently Considered Evidence
+-  Lord,  Ross, and Lepper (1979), [Biased Assimilation and
+Attitude Polarization](https://www.marcellodibello.com/commonground/readings/BiasedAssim.pdf)
 
--  Gilovich (1991), Seeing What we Expect to See (Chapter 3 of How We Know What Isn’t So)
+-  Gilovich (1991), Seeing What we Expect to See (Chapter 3 of [How We Know What Isn’t So](https://www.simonandschuster.com/books/How-We-Know-What-Isnt-So/Thomas-Gilovich/9780029117064) - *Check Canvas*
 
 
 ## 3/2 
@@ -448,16 +448,16 @@ Another explanation for belief polarization is that---because of the structure o
 
 - Nguyen, [Echo Chambers and Epistemic Bubbles](https://www.marcellodibello.com/commonground/readings/ChambersBubbles.pdf)
 
-- Lakey, [Disagreement and Belief Dependence: Why Numbers Matter]()
+- Lakey, [Disagreement and Belief Dependence: Why Numbers Matter](essay in [The Epistemology of Disagreement](https://academic.oup.com/book/5080)) - check Canvas
 
 
 *Additional readings and materials*
 
 - Let's Find Common Ground (podcast), [Bridging the Rural-Urban Divide](https://commongroundcommittee.org/bridging-the-rural-urban-divide/)
 
-- Nguyen (2018), [Escape the echo chamber](https://aeon.co/essays/why-its-as-hard-to-escape-an-echo-chamber-as-it-is-to-flee-a-cult)
-
 - Vosoughi, Roy and Aral (2018),[The spread of true and false news online](https://www.science.org/doi/10.1126/science.aap9559)
+
+- Hendricks and Vestergaard, Alternative Facts, Misinformation, and Fake News, (Chapter from [Reality Lost](https://link.springer.com/book/10.1007/978-3-030-00813-0)) - *Check Canvas*
 
 
 ## 3/9
@@ -474,16 +474,17 @@ Epistemic bubbles and echo chambers are ecosystems of information, with their ow
 
 *Essential readings*
 
-- Fricker (2007), Hermeneutical Injustice (Chapter 7 of [Epistemic Injustice](https://academic.oup.com/book/32817)) - *Check Canvas for pdf*
+- Fricker (2007), Hermeneutical Injustice (Chapter 7 of [Epistemic Injustice](https://academic.oup.com/book/32817)) - *Check Canvas*
 
-- Spivak (1988), [Can The Subaltern Speak?](https://abahlali.org/files/Can_the_subaltern_speak.pdf) (abridged version [here](https://jan.ucc.nau.edu/~sj6/Spivak%20CanTheSubalternSpeak.pdf))
+- Spivak (1988), [Can the Subaltern Speak?](https://abahlali.org/files/Can_the_subaltern_speak.pdf) (abridged version [here](https://jan.ucc.nau.edu/~sj6/Spivak%20CanTheSubalternSpeak.pdf))
 
 
 *Additional readings and materials*
 
-- Mills (2007), [White Ignorance]()
+- Mills (2007), [White Ignorance](Chapter 4 of [Black Rights/ White Wrongs
+The Critique of Racial Liberalism](https://academic.oup.com/book/5106)) - check Canvas
 
-- Dostson (2014), [Conceptualizing Epistemic Oppression]()
+- Dostson (2014), [Conceptualizing Epistemic Oppression](https://www.marcellodibello.com/commonground/readings/DotsonEpistOppression.pdf)
 
 - Spiegel (2022), [The Epistemic Injustice of Epistemic Injustice, Part I,](https://social-epistemology.com/2022/09/30/the-epistemic-injustice-of-epistemic-injustice-part-i-thomas-j-spiegel/)
 
