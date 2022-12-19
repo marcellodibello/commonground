@@ -336,7 +336,7 @@ language so that you could not understand what they say? This is the problem of 
 **Week 4: Incommensurability**
 
 In grappling with the problem of radical interpretation, we did not take seriously 
-the possibility that other people could hold radically different conceptions of the world. They could carve out the world, so to speak, in radically different ways from us. If that is so, how could we assume---as the principle of charity does---that we all share the same beliefs? The absence of a common ground, from a linguistic and conceptual perspective, is what is sometimes called incommensurability. There are many forms of incommensurability: linguistic, conceptual, moral, etc. We will focus primarily on linguistic and conceptual incommensurability. 
+the possibility that other people could hold radically different conceptions of the world. They could carve out the world, so to speak, in radically different ways from us. If that is so, how could we assume---as the principle of charity does---that we all share the same beliefs? The absence of a common ground, from a linguistic and conceptual perspective, is what is sometimes called incommensurability. There are many forms of incommensurability: linguistic, conceptual, moral, etc. We will focus primarily on linguistic and conceptual incommensurability, but also consider its social implications. 
 
 *Essential readings*
 
@@ -353,7 +353,7 @@ the possibility that other people could hold radically different conceptions of 
 - Popper (1976), [The Myth of the Framework](https://link.springer.com/chapter/10.1007/978-94-009-3779-6_2)
 
 
-- Kuhn (1982), [Commensurability, Comparability, Communicability]()
+- Kuhn (1982), [Commensurability, Comparability, Communicability](https://www.marcellodibello.com/commonground/readings/KuhnComComCom.pdf)
 
 - Sankey (1997), [Incommensurability: The current state of play](https://philpapers.org/archive/SANITC.pdf)
 
