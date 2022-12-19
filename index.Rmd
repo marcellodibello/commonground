@@ -236,7 +236,7 @@ Your response should contain a careful summary of the the specific thesis and ar
 
 **2**. After doing independent research, collect and summarize a **case study** that illustrates the idea of the common ground (or lack thereof). The first part of your essay (1-2 pages) should describe your case study. Topics for your case study could include, but are not limited to, debates about abortion, vaccine, race, climate change. The second part (3-4 pages) should use some of the course readings to analyze your case study from the point of view of philosophy of language, logic or epistemology. 
 
-**3**. Write a **philosophical argumentative essay** that attempts to answer the question "What Is the Common Ground and Why Does it Matter?" In answering the first part of the question, I recommend that you focus on a specific notion of the common ground, as is discussed in philosophy of language, logic, epistemology, social and political philosophy, or post-colonial theory. In answering the second part of the question, I recommend that you draw from current trends in society and politics. You may (but need not to) build on the case study you discussed in your second graded assignment. Keep in mind that in answering that second part of the question ("Why Does it Matter?"), you may argue that the common plays a positive role, a negative role, or some combination or the two.  You are encouraged to think critically about the common ground. 
+**3**. Write a **philosophical argumentative essay** that attempts to answer the question "What Is the Common Ground and Why Does it Matter?" In answering the first part of the question, I recommend that you focus on a specific notion of the common ground, as is discussed in philosophy of language, logic, epistemology, social and political philosophy, or post-colonial theory. In answering the second part of the question, I recommend that you draw from current trends in society and politics. You may (but need not to) build on the case study you discussed in your second graded assignment.  You are encouraged to think critically about the common ground, highlighting its positive as as well as its negative implications. 
 
 
 ### Research paper 
@@ -318,7 +318,7 @@ language so that you could not understand what they say? This is the problem of 
 
 *Essential readings*
 
-- Davidson (1973), [Radical Interpretation]()
+- Davidson (1973), [Radical Interpretation](https://www.marcellodibello.com/commonground/readings/DavidsonRadicalInt.pdf)
 
 - Lewis (1974), [Radical Interpretation](https://wilsonhellie.typepad.com/files/radicalinterp.pdf)
 
@@ -531,8 +531,15 @@ The idea of an overlapping consensus presupposes that there is a minimal, essent
 
 *Essential readings*
 
- - Gerald Gaus (2018), [Self-Organizing Moral Systems: Beyond Social Contract
+ -  Gaus (2018), [Self-Organizing Moral Systems: Beyond Social Contract
 Theory](http://www.gaus.biz/Gaus-Self-organizing.pdf)
+
+- Gaus (2018), [The Complexity of a Diverse Moral Order](https://www.law.georgetown.edu/public-policy-journal/wp-content/uploads/sites/23/2018/11/16-S-Complexity-Diverse-Moral-Order.pdf) 
+
+*Additional readings and materials*
+
+- Troitzsch (2018), [Can Lawlike Rules Emerge without the Intervention of Legislators?](https://www.frontiersin.org/articles/10.3389/fsoc.2018.00002/full)
+
 
 ## 4/6
 
