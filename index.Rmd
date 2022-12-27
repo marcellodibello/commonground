@@ -1,6 +1,6 @@
 
 ---
-title: "PHI 420/591 Common Ground"
+title: "PHI 420/591 The Common Ground"
 subtitle: "Spring 23"
 author: "[Marcello Di Bello](https://www.marcellodibello.com/)  - mdibello@asu.edu"
 output:
@@ -292,19 +292,23 @@ But the common ground can also be what makes possible more divisive forms of com
 is shared by a select group of people, not everybody. This raises the question, whose common ground are we talking about? Does it even make sense to talk about a common ground that is shared by all?
 
 
+**Q&A with Sam Berstler**
+
+The first part of the class will consist in a Q&A session with [Sam Berstler](https://samberstler.com/), a philosopher at the Massachusetts Institute of Technology whose research in philosophy of language examines the question of the common ground. She is the author of one of the readings assigned for today. *Please come prepared to ask questions.*
 
 
 *Essential readings*
 
-- Stalnaker (2002), [Common Ground](https://semantics.uchicago.edu/kennedy/classes/f07/pragmatics/stalnaker02.pdf)
+- Berstler (2021), [Against Cheap Common Ground](https://drive.google.com/file/d/1nxdga6D6m7QZfTggEY-JMcutWtAScBQn/view)
 
 - Langton (2012), [Beyond Belief: Pragmatics in Hate Speech and Pornography](http://www.mit.edu/~shaslang/resch/LangtonBB.pdf)
 
 *Additional readings and materials*
 
-- Grice (1975), [Logic and Conversation](https://www.ucl.ac.uk/ls/studypacks/Grice-Logic.pdf)
+- Stalnaker (2002), [Common Ground](https://semantics.uchicago.edu/kennedy/classes/f07/pragmatics/stalnaker02.pdf)
 
-- Berstler (2021), [Against Cheap Common Ground](https://drive.google.com/file/d/1nxdga6D6m7QZfTggEY-JMcutWtAScBQn/view)
+
+- Grice (1975), [Logic and Conversation](https://www.ucl.ac.uk/ls/studypacks/Grice-Logic.pdf)
 
 -  Miller (2022), [Merely Verbal Disputes and Common Ground](https://onlinelibrary.wiley.com/doi/pdf/10.1111/theo.12449)
 
@@ -339,6 +343,12 @@ language so that you could not understand what they say? This is the problem of 
 
 In grappling with the problem of radical interpretation, we did not take seriously 
 the possibility that other people could hold radically different conceptions of the world. They could carve out the world, so to speak, in radically different ways from us. If that is so, how could we assume---as the principle of charity does---that we all share the same beliefs? The absence of a common ground, from a linguistic and conceptual perspective, is what is sometimes called incommensurability. There are many forms of incommensurability: linguistic, conceptual, moral, etc. We will focus primarily on linguistic and conceptual incommensurability, but also consider its social implications. 
+
+
+**Q&A with Elizabeth Povinelli**
+
+The first part of the class will consist in a Q&A session with [Elizabeth Povinelli](https://anthropology.columbia.edu/content/elizabeth-povinelli), an anthropologist at Columbia Universality and a [filmmaker](https://karrabing.info/). Her paper on the anthropology of incommensurability is one of the readings assigned for today. *Please come prepared to ask questions.*
+
 
 *Essential readings*
 
@@ -425,6 +435,11 @@ Perhaps, those who doubt the effectiveness of vaccines or challenge the scientif
 Let us assume---somewhat optimistically---that people are often engaged in an empirically-informed rational inquiry, share a conception of what counts as evidence for a claim and criteria to assess the strength of this evidence. <!---So long as this epistemological common ground exists and the inquirers share the same evidence, we should hope that no irredeemable disagreement can emerge. But a lot depends on what we mean by "sharing the same evidence". While two people might share the same "brute" evidence---say, they have access to the same data, documents, readings, etc.---they might interpret it differently. Or the same evidence might be ambiguous and thus invite different interpretations. --->
 But, perhaps surprisingly, even people who share the same evidence and share the same standards for assessing the evidence might end up endorsing radically different positions---a phenomenon that has been called "rational polarization". How widespread or worried we should be about this phenomenon is another matter. Is rational polarization the most plausible explanation for widespread polarization? This is hard to say, but there is empirical evidence that rational polarization plays an important role in explaining actual belief polarization. 
 
+**Q&A with Kevin Dorst**
+
+The first part of the class will consist in a Q&A session with [Kevin Dorst](https://www.kevindorst.com/), a philosopher at the Massachusetts Institute of Technology whose paper on rational polarization is one of the readings assigned for today. *Please come prepared to ask questions.*
+
+
 *Essential readings*
 
 - Kelly (2008), [Disagreement, Dogmatism, and Belief Polarization](http://www.princeton.edu/~tkelly/BF2.pdf)
@@ -502,6 +517,10 @@ We now turn from the epistemological to the political. Citizens in liberal democ
 
 On this view, an important qualification must be made: an overlapping consensus must be sought between reasonable people. Those who are "unreasonable" do not enter the overlapping consensus, and thus are not entitled to pursue objections that may threaten the integrity and legitimacy of public reason. 
 
+**Q&A with Jonathan Quong**
+
+The first part of the class will consist in a Q&A session with [Jonathan Quong](https://dornsife.usc.edu/cf/phil/faculty_display.cfm?Person_ID=1048339), a moral and political philosopher at the University of Southern California whose work on unreasonable citizens is one of the readings assigned for today. *Please come prepared to ask questions.*
+
 
 *Essential readings*
 
@@ -574,6 +593,10 @@ Mouffe (1993), Politics and the Limits of Liberalism (Chapter 7 of [The Return o
 
 If we still think that the ideal of an overlapping consensus and public reason are good ones---we might not---the question is how to regain a functioning public reason via targeted interventions. One proposal focuses on reestablishing trust, between people of opposing views and between citizens and public institutions. Another proposal emphasizes the virtue of civility. These proposals are not exclusive, and they both 
 underscore that attitudes toward each other---not only an agreement about content---are essential for a functioning public reason. 
+
+**Q&A with Cheshire Calhoun**
+
+The first part of the class will consist in a Q&A session with [Cheshire Calhoun](https://en.wikipedia.org/wiki/Cheshire_Calhoun), a moral and political philosopher at Arizona State University whose work on the virtue of civility is one of the readings assigned for today. *Please come prepared to ask questions.*
 
 *Essential readings*
 
