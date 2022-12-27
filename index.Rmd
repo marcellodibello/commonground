@@ -168,7 +168,7 @@ Office hours: Thursday after class or by appointment
 
 # Topic
 
-This seminar examines the idea of the common ground as a condition for meaningful disagreement, valid reasoning, rational inquiry about matters of fact, and political decision-making. The motivation for thinking about the common ground stems from the growing [political polarization](https://www.pewresearch.org/politics/2017/10/05/the-partisan-divide-on-political-values-grows-even-wider/) on issues such as [climate change](https://journals.sagepub.com/doi/full/10.1177/1075547019900290), [vaccines](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263746), [abortion](https://www.pewresearch.org/fact-tank/2022/07/15/key-facts-about-the-abortion-debate-in-america/), [race](https://www.nber.org/papers/w29245), [the 1619 project](https://www.theatlantic.com/ideas/archive/2019/12/historians-clash-1619-project/604093/),  [#MeToo](https://fivethirtyeight.com/features/are-americans-more-divided-on-metoo-issues/), and more. This polarization in people's opinions, commitments, values and beliefs exists along deep divisions in income and wealth, education, health, housing, lived experiences, etc. Seeking a common ground is sometimes touted as the [solution](https://commongroundcommittee.org/podcasts/)  to the problem of polarization, and the lack of a common ground  as the cause. But what is a common ground, in the first place? If it is the solution to polarization, what kind of common ground should we be seeking? Is a common ground even possible or does it necessarily lead to the exclusion of some people?  Perhaps, trying to overcome polarization by seeking a common ground is the [wrong way](https://www.bostonreview.net/articles/polarization-or-propaganda/) of going about things. This seminar examines these questions from a philosophical standpoint. It will not offer answers, but rather, a framework of analysis. 
+This seminar examines the idea of the common ground as a condition for meaningful disagreement, valid reasoning, rational inquiry about matters of fact, and political decision-making. The motivation for thinking about the common ground stems from the growing [political polarization](https://www.pewresearch.org/politics/2017/10/05/the-partisan-divide-on-political-values-grows-even-wider/) on issues such as [climate change](https://journals.sagepub.com/doi/full/10.1177/1075547019900290), [vaccines](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263746), [abortion](https://www.pewresearch.org/fact-tank/2022/07/15/key-facts-about-the-abortion-debate-in-america/), [race](https://www.nber.org/papers/w29245), [the 1619 project](https://www.theatlantic.com/ideas/archive/2019/12/historians-clash-1619-project/604093/),  [#MeToo](https://fivethirtyeight.com/features/are-americans-more-divided-on-metoo-issues/), and more. This polarization in people's opinions, commitments, and values exists alongside deep divisions in wealth, education, housing, health, lived experiences. Seeking a common ground is sometimes touted as the [solution](https://commongroundcommittee.org/podcasts/)  to the problem of polarization, and the lack of a common ground  as its cause. On the other hand, attempting to overcome polarization by seeking a common ground is sometimes also considered the [wrong way](https://www.bostonreview.net/articles/polarization-or-propaganda/) of addressing the problem. But what is a common ground, in the first place? If it is the solution to polarization, what kind of common ground should we be seeking? Is a common ground even possible or does it necessarily lead to the exclusion of  people's identities?   This seminar examines these questions from a philosophical standpoint. It will not offer answers, but rather, a framework of analysis.  
 
 <!---
 This course examines works by authors not usually read together, drawing from classical texts in the history of philosophy (Aristotle, Locke, Leopardi), philosophy of language (David Lewis, Bob Stalnaker, Donald Davidson), epistemology (Jennifer Lakey, David Christensen, Thomas Kelly), political philosophy (John Rawls, Charles Mills, Elizabeth Anderson) and postcolonial theory (Frantz Fanon, Edward Said, Gaytri Spivak). 
@@ -236,7 +236,7 @@ Your response should contain a careful summary of the the specific thesis and ar
 
 **2**. After doing independent research, collect and summarize a **case study** that illustrates the idea of the common ground (or lack thereof). The first part of your essay (1-2 pages) should describe your case study. Topics for your case study could include, but are not limited to, debates about abortion, vaccine, race, climate change. The second part (3-4 pages) should use some of the course readings to analyze your case study from the point of view of philosophy of language, logic or epistemology. 
 
-**3**. Write a **philosophical argumentative essay** that attempts to answer the question "What Is the Common Ground and Why Does it Matter?" In answering the first part of the question, I recommend that you focus on a specific notion of the common ground, as is discussed in philosophy of language, logic, epistemology, social and political philosophy, or post-colonial theory. In answering the second part of the question, I recommend that you draw from current trends in society and politics. You may (but need not to) build on the case study you discussed in your second graded assignment.  You are encouraged to think critically about the common ground, highlighting its positive as as well as its negative implications. 
+**3**. Write a **philosophical argumentative essay** that attempts to answer the question "What Is the Common Ground and Why Does it Matter?" In answering the first part of the question, I recommend that you focus on a specific notion of the common ground, as is discussed in philosophy of language, logic, epistemology, social and political philosophy, or post-colonial theory. In answering the second part of the question, I recommend that you draw from current trends in society and politics. You may (but need not to) build on the case study you discussed in your second graded assignment.  You are encouraged to think critically about the common ground, highlighting its positive as well as its negative implications. 
 
 
 ### Research paper 
@@ -272,7 +272,7 @@ The need for a common ground can manifest itself in different areas of human eng
 
 The readings in this course are organized systemically to cover different areas of philosophy. In the first class meeting, however, we will read beyond philosophy. We will 
 consider a family of explanations for why our society is divided and polarized, focusing on the logic of market capitalism, the principles of liberalism, the legacy of racism.
-They all place blame, to different degrees, on individualism and loss of community. These explanations are not meant to be exhaustive or definitive, but simply a starting point for the conversation. We will return back to them throughout the course. The more specific philosophical readings that follow about questions of language, logic and reasoning, rational inquiry and political deliberation can all be situated within these overarching explanations. 
+They all place blame, to different degrees, on individualism and the loss of a sense of community. These explanations are not meant to be exhaustive or definitive, but simply a starting point for the conversation. We will return back to them throughout the course. The philosophical readings that follow about questions of language, logic and reasoning, rational inquiry and political deliberation can all be situated within these overarching explanations. 
 
 *Essential readings*
 
@@ -343,7 +343,7 @@ the possibility that other people could hold radically different conceptions of 
 *Essential readings*
 
 - Davidson (1973), [On the Very Idea of a Conceptual Scheme](https://www2.southeastern.edu/Academics/Faculty/jbell/conceptualscheme.pdf)
-(Using a Tarski-style theory of meaning, the paper argues that it impossible for two languages to be incommensurable)
+(Using a Tarski-style theory of meaning, the paper argues that it is impossible for two languages to be incommensurable)
 
 - Povinelli (2001), [Radical Worlds: The Anthropology of Incommensurability and Inconceivability](https://www.marcellodibello.com/commonground/readings/PovinelliRadicalWorlds.pdf)
 
@@ -352,12 +352,12 @@ the possibility that other people could hold radically different conceptions of 
 - Borges, [Avverroes](https://www.pierre-legrand.com/borges-averroess-search.pdf)
 (A story about how the Islamic philosopher Averroes could not understand the meaning of words such as "comedy" and "tragedy" because he had no idea about Ancient Greek theater.)
 
-- Popper (1976), The Myth of the Framework (essay in in [The Myth of the Framework: In Defence of Science and Rationality](https://www.routledge.com/The-Myth-of-the-Framework-In-Defence-of-Science-and-Rationality/Notturno-Popper/p/book/9780415135559) - *Check Canvas*
+- Popper (1976), The Myth of the Framework (essay in [The Myth of the Framework: In Defence of Science and Rationality](https://www.routledge.com/The-Myth-of-the-Framework-In-Defence-of-Science-and-Rationality/Notturno-Popper/p/book/9780415135559) - *Check Canvas*
 
 
 - Kuhn (1982), [Commensurability, Comparability, Communicability](https://www.marcellodibello.com/commonground/readings/KuhnComComCom.pdf)
 
-- Sankey (1997), [Incommensurability: The current state of play](https://philpapers.org/archive/SANITC.pdf)
+- Sankey (1997), [Incommensurability: The Current State of Play](https://philpapers.org/archive/SANITC.pdf)
 
 
 - Chang (1997), [Introduction](https://static1.squarespace.com/static/5c4d055b365f02de29e99730/t/5c4e8d06032be4c4182f061f/1548651785192/Chang_IntroductionIncommensurabilityBook.pdf) (to the edited Volume Incommensurability, Incomparability, and Practical reason)
@@ -397,15 +397,15 @@ And yet, it is surprising hard to justify even the most basic logical principle 
 **Week 6: Skepticism, Tradition and Common-sense**
 
 We now turn from logic and argumentation theory to epistemology. <!---Broadly speaking, we  all agree that as we aim to figure out facts about the world, we should gather pertinent evidence, conscientiously assess it and draw conclusions from it. --->
-The common ground, from an epistemological perspective, seems to be that we should be responsive to evidence if we aim to figure out what the world is like. But what does it mean to be responsive to evidence? And why should we be responsive to evidence?
+From an epistemological perspective, it is common ground we should be responsive to evidence if we aim to figure out what the world is like. But the skeptic will ask, why should we be responsive to evidence?
 <!---
-Being responsive to evidence will likely include a set of epistemic rules and practices, such as follow the deliverance of the senses; perform experiments in such-and-such a way; and so.  The problem, however, is that whatever these epistemic rules and practices are, it would be hard to justify them in a non-circular way. This is the skeptical challenge. ---> We might say that evidence is truth-conducive. Scientists themselves, however, have suggested that common rules and practices used to gather, analyze and  draw inferences from evidence lead to falsehoods rather than truths. These claims might be an exaggeration, but even if they are, the skeptical doubt remains.  For how can we claim that being evidence-responsive is truth-conducive without, in a circular manner, appeal to evidence? 
+Being responsive to evidence will likely include a set of epistemic rules and practices, such as follow the deliverance of the senses; perform experiments in such-and-such a way; and so.  The problem, however, is that whatever these epistemic rules and practices are, it would be hard to justify them in a non-circular way. This is the skeptical challenge. ---> <!---We might say that evidence is truth-conducive. ---> Scientists themselves have suggested that common rules and practices used to gather, analyze and  draw inferences from evidence more often lead to falsehoods rather than truths. These claims might be exaggerated, but even if they are, the skeptical doubt remains.  For how can we claim that being evidence-responsive is truth-conducive without, in a circular manner, appeal to evidence? 
 
 Instead of attempting to ground our epistemology from first principles, the common ground could include a reference to common-sense and traditions rooted in history. But this would seem a capitulation of reason and would still leave open the question, why should we follow common-sense or tradition in the first place?  Why should that be our common ground? The skeptical challenge persists. 
 
 *Essential readings*
 
-- Lynch (2012), Nothing by Dreams and Smoke and Reasons Ends: Tradition and Common Sense (Chapters 3 and 4 of [In Praise of Reason](https://mitpress.mit.edu/9780262526050/in-praise-of-reason/))  - *Check Canvas*
+- Lynch (2012), Nothing but Dreams and Smoke and Reasons Ends: Tradition and Common Sense (Chapters 3 and 4 of [In Praise of Reason](https://mitpress.mit.edu/9780262526050/in-praise-of-reason/))  - *Check Canvas*
 
 
 *Additional readings and materials*
