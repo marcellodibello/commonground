@@ -251,11 +251,14 @@ included in the course materials.
 *Please come talk to me before you start working on the research paper.* 
 
 
-<!---
+
 # Handouts 
 
-[Week 1](https://www.marcellodibello.com/algorithmicfairness/handout/) | 
+[Week 1](https://www.marcellodibello.com/commonground/handout/introduction.html) | 
 
+
+
+<!---
 **Additional class notes** 
 
 - *To be added here*
