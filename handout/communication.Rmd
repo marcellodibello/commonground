@@ -1,0 +1,177 @@
+---
+title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Communication"
+author: "Marcello Di Bello - ASU - Spring 2022 - Week #2"
+output:
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+      background-color:white;
+  }
+  
+</style>
+
+# Against Cheap Common Ground
+
+----------------
+
+Berlster's paper against cheap common ground shows Stalnaker's most recent definition of 
+common ground in terms of mere joint acceptance runs into trouble: if one accepts an 
+intentionalist view of meaning (which Stalnaker accepts, following Grice), common ground-as-joint-acceptance 
+can no longer explain the relationship between meaning and rationality, and this is particularly clear in cases 
+of cheap common ground. The solution is probably to bring belief back into the definition of common ground. 
+
+Let's consider some of the key moves in the argument. 
+
+
+(a) `r tufte::newthought('First')`: Two definitions
+
+
+
+*Definition 1*: $p$ is common ground in a conversation if and only if the participants in the conversation 
+*jointly believe that they accept* $p$ for the sake of the conversation
+
+*Definition 2*: $p$ is common ground in a conversation if and only if the participants in the conversation 
+*jointly accept* $p$
+
+What is acceptance? Roughly, one can accept $p$ if they believe $p$ but also if they assume, 
+pretend or behave as though $p$ is true for the sake of the conversation.
+
+
+
+(b) `r tufte::newthought('Second')`: Theoretical virtues
+
+
+The concept of common ground illuminates a number of question in 
+philosophy of language, such as
+
+What is it to mean that $p$? 
+
+> "... in the default case, in order to mean that p, 
+I must intend to make it joint belief that I mean that p.
+Why? This is just the nature of meaning." (p. 18)
+
+Or, how can I make sure my interlocutor understand 
+that, when I say $p$, I actually mean $[p]$? 
+
+> "In the default case, when we jointly know we are rational, and
+when I want you to recognize that I mean that p, I can (and usually must) rationally rely on [what] 
+we alreadyjointly believe in order to make my meaning manifest to you. And you may (and usually must) rationally
+rely on what we already jointly believe in order to lock onto what I meant." (p. 19) 
+
+Or, when I assert $p$, what do I intend to accomplish?
+
+>" ...given the nature of
+coordination and our typical patterns of interests 
+in a conversation, there is generally a principled
+relationship between my speech acts and what we jointly 
+believe. When I assert in a conversation, I
+normally aim to make the contents of my assertion common ground." (p. 19)
+
+
+
+(c) `r tufte::newthought('Third')`: Humpty Dumpty
+
+The common ground also clarifies the relationship 
+between meaning and rationality. What does that mean?
+
+If one is an internationalist about maening (like Grice, Stalnaker), could any string of sounds mean 
+anything, say $x$, so long as $x$ is the speaker's *intended* meaning?
+For example, could I mean [your paper is due tomorrow] by making the 
+sound "blerg blerg" in front of my students as long as [your paper is due tomorrow] is 
+what I intend to mean with the sound "blerg blerg"? This is the Humpty Dumpty problem. 
+
+There is something irrational---*linguistically* irrational, if you wish---here. I cannot possibly 
+mean [your paper is due tomorrow] with the sound "blerg blerg" provided I am 
+in my right mind. We need an explanation of why that is.
+The notion of the common ground can help. 
+
+*Proposal*: Some "meaning intentions" are irrational. They are irrational because 
+they do not align with what is entailed by (what the speaker justifiably believes 
+about) the common ground. 
+
+> If I justifiably believe that the common ground entails that I meant that
+[your paper is due tomorrow], and if I did intend to mean that [your paper is due tomorrow], 
+then my intentions were rational. (.p 21)
+
+But, clearly, what I justifiably believe about common ground does *not* 
+entail that by "blerb blerb" I meant [your paper is due tomorrow]. I must be aware that the 
+students could not have possibly understood that. So my intention of meaning 
+[your paper is due tomorrow] by making the 
+sound "blerb blerb" was irrational. It does not align with 
+the common ground in the required way. 
+
+
+(d) `r tufte::newthought('Fourth')`: Cheap common ground
+
+The ability if the common 
+to illuminate the relationship between meaning and rationality, 
+however, comes under stress in cases of 
+cheap common ground. 
+
+
+
+
+Belinda and Mark, by accident, happen to jointly accept 
+that $y$ (= The terrorists are about to attack). They come to this joint 
+acceptance as follows. Belinda plays a spy game in which placing a yellow 
+bin accompanied by winking means $y$. She does that because she is bored during the coronavirus 
+pandemic. Unbeknownst to her and by sheer coincidence, Mark, the mailman, is playing the exact same game. He is also bored for the same reason. So when Belinda places a yellow bin and winks in front of Mark, Mark utters "I get it" and winks to mean $y$. Both Belinda and Mark accepts $y$ for the sake of the conversation, but neither believe that the other believes $y$. They have no idea they are playing the same game. 
+
+Do Mark and Belinda share a common ground, namely $y$? Well, according to the definition of common ground as mere 
+joint acceptance, they do. This is cheap common ground: joint acceptance by accident. 
+But they do not share common ground in $y$ 
+according to the definition of common ground as joint belief of joint acceptance.
+
+
+(d) `r tufte::newthought('Finally')`: The problem 
+
+
+Can Mark rationally mean $y$ when he utters 
+'I get it' in response of Belinda's 
+placing a yellow bin? Intuitively, that cannot be rational. 
+But according to the common-ground-as-joint-acceptance it would 
+be rational.^[Can you reconstruct 
+Berstler's reasoning for that conclusion?] So that's a problem!
+
+
+> But once we stop defining the common ground in terms of *belief*, the principled relationship
+between what I mean, what I believe the common ground entails that I mean, and what I would have
+meant, had I been rational, frays to the point of uselessness. Nowhere is this clearer than in cases of
+cheap common ground. (p. 23)
+
+> This, I propose, is why we find cheap common grounds so weird and unintuitive. We are implicitly
+presupposing that the common ground ought to clarify the relationship between what the speaker means
+and what she would be rational to mean. When the common ground comes cheaply, it cannot and does
+not do that. (p. 23)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
