@@ -21,102 +21,108 @@ body{ /* Normal  */
   
 </style>
 
+
+The topic of today's class is the common ground of a conversation---roughly, the beliefs shared by all 
+participants in the conversation.  As a theoretical concept, 
+the common ground helps to answer difficult questions about the nature of meaning, 
+the purpose of speech acts, how communication is possible.
+These are good things. But the common ground can also play pernicious roles--it can 
+help to spread racial hatred and gender subordination. On the good things, 
+we will discuss Berstler's paper against cheap common ground.^[Berstler, Against Cheap Common Ground, *working draft*.]
+On the bad things, we will discuss Langton's paper on hate speech and pornography.^[Langton (2012), Beyond Belief: Pragmatics in Hate Speech and Pornography, in *Speech and Harm: Controversies Over Free Speech*.] 
+
+
+___________________________
+
+
 # Against Cheap Common Ground
 
-----------------
-
-Berlster's paper against cheap common ground shows Stalnaker's most recent definition of 
-common ground in terms of mere joint acceptance runs into trouble: if one accepts an 
-intentionalist view of meaning (which Stalnaker accepts, following Grice), common ground-as-joint-acceptance 
-can no longer explain the relationship between meaning and rationality, and this is particularly clear in cases 
-of cheap common ground. The solution is probably to bring belief back into the definition of common ground. 
-
-Let's consider some of the key moves in the argument. 
+Berstler argues that Stalnaker's most recent definition of 
+the common ground as joint acceptance runs into trouble: it
+cannot explain the relationship between meaning and rationality. 
+This failure is particularly salient in cases 
+of *cheap* common ground. 
 
 
-(a) `r tufte::newthought('First')`: Two definitions
+(a) `r tufte::newthought('First')`: Stalnaker's two definitions
 
 
 
 *Definition 1*: $p$ is common ground in a conversation if and only if the participants in the conversation 
-*jointly believe that they accept* $p$ for the sake of the conversation
+*jointly believe that they accept* $p$ for the sake of the conversation.^[Stalnaker (2002), Common Ground, *Linguistics and Philosophy* 25: 701-721.]
 
 *Definition 2*: $p$ is common ground in a conversation if and only if the participants in the conversation 
-*jointly accept* $p$
+*jointly accept* $p$.^[Stalnaker (2014), *Context*, Oxford University Press.]
 
-What is acceptance? Roughly, one can accept $p$ if they believe $p$ but also if they assume, 
-pretend or behave as though $p$ is true for the sake of the conversation.
-
-
+The second, most recent definition no longer includes 'belief'. The common 
+ground is defined as mere joint acceptance.^[What is acceptance? Roughly, one can accept $p$ if they believe $p$ but also if they assume, pretend or behave as though $p$ is true for the sake of the conversation.]
 
 (b) `r tufte::newthought('Second')`: Theoretical virtues
 
 
-The concept of common ground illuminates a number of question in 
+Why care about the common ground? 
+The concept of common ground illuminates 
+a number of question in 
 philosophy of language, such as
 
-What is it to mean that $p$? 
+What is it for a speaker to mean that $p$? 
 
 > "... in the default case, in order to mean that p, 
 I must intend to make it joint belief that I mean that p.
 Why? This is just the nature of meaning." (p. 18)
 
 Or, how can I make sure my interlocutor understand 
-that, when I say $p$, I actually mean $[p]$? 
+that, when I say '$p$,' I actually mean $p$? 
 
 > "In the default case, when we jointly know we are rational, and
 when I want you to recognize that I mean that p, I can (and usually must) rationally rely on [what] 
-we alreadyjointly believe in order to make my meaning manifest to you. And you may (and usually must) rationally
+we already jointly believe in order to make my meaning manifest to you. And you may (and usually must) rationally
 rely on what we already jointly believe in order to lock onto what I meant." (p. 19) 
 
 Or, when I assert $p$, what do I intend to accomplish?
 
->" ...given the nature of
-coordination and our typical patterns of interests 
-in a conversation, there is generally a principled
-relationship between my speech acts and what we jointly 
-believe. When I assert in a conversation, I
+>" When I assert in a conversation, I
 normally aim to make the contents of my assertion common ground." (p. 19)
 
-
+And if this was not enough, there is more.
 
 (c) `r tufte::newthought('Third')`: Humpty Dumpty
 
 The common ground also clarifies the relationship 
 between meaning and rationality. What does that mean?
 
-If one is an internationalist about maening (like Grice, Stalnaker), could any string of sounds mean 
-anything, say $x$, so long as $x$ is the speaker's *intended* meaning?
+Suppose one is an internationalist about meaning (like Grice, Stalnaker).^[An intentionalist about (linguistic) meaning holds what a speaker means by an utterance $U$ comes down to facts about what the speakers intends to do with $U$.]
+Could any string of sounds mean 
+anything so long as such anything is the speaker's *intended* meaning?
 For example, could I mean [your paper is due tomorrow] by making the 
 sound "blerg blerg" in front of my students as long as [your paper is due tomorrow] is 
-what I intend to mean with the sound "blerg blerg"? This is the Humpty Dumpty problem. 
+what I intend to mean with the sound "blerg blerg"?^[I cannot possibly mean [your paper is due tomorrow] with the sound "blerg blerg" if I am in my right mind. But why not, exactly, if intentionalism about meaning holds? This is the Humpty Dumpty problem.] 
 
-There is something irrational---*linguistically* irrational, if you wish---here. I cannot possibly 
-mean [your paper is due tomorrow] with the sound "blerg blerg" provided I am 
-in my right mind. We need an explanation of why that is.
-The notion of the common ground can help. 
+We need an explanation of why, even an intentionalist about meaning, cannot hold hold that "blerg blerg" could mean 
+[your paper is due tomorrow]. The notion of the common ground can help. 
 
-*Proposal*: Some "meaning intentions" are irrational. They are irrational because 
+*Proposal*: Some "meaning intentions" are irrational--linguistically so, 
+if you wish.  They are irrational because 
 they do not align with what is entailed by (what the speaker justifiably believes 
 about) the common ground. 
 
-> If I justifiably believe that the common ground entails that I meant that
+> "If I justifiably believe that the common ground entails that I meant that
 [your paper is due tomorrow], and if I did intend to mean that [your paper is due tomorrow], 
-then my intentions were rational. (.p 21)
+then my intentions were rational." (.p 21)
 
-But, clearly, what I justifiably believe about common ground does *not* 
-entail that by "blerb blerb" I meant [your paper is due tomorrow]. I must be aware that the 
-students could not have possibly understood that. So my intention of meaning 
+But, under normal circumstances, what I justifiably believe about the common ground does *not* 
+entail that by "blerb blerb" I meant [your paper is due tomorrow].^[Presumably, I must have been aware that the 
+students did not take that as common ground.] So my intention of meaning 
 [your paper is due tomorrow] by making the 
-sound "blerb blerb" was irrational. It does not align with 
-the common ground in the required way. 
+sound "blerb blerb" was irrational. It did not align with (what I justifiably believed 
+about) the common ground in the required way. 
 
 
 (d) `r tufte::newthought('Fourth')`: Cheap common ground
 
-The ability if the common 
-to illuminate the relationship between meaning and rationality, 
-however, comes under stress in cases of 
+Unfortunately, the ability of the common ground
+to illuminate the relation between meaning and rationality, 
+breaks down in cases of 
 cheap common ground. 
 
 
@@ -129,26 +135,21 @@ bin accompanied by winking means $y$. She does that because she is bored during 
 pandemic. Unbeknownst to her and by sheer coincidence, Mark, the mailman, is playing the exact same game. He is also bored for the same reason. So when Belinda places a yellow bin and winks in front of Mark, Mark utters "I get it" and winks to mean $y$. Both Belinda and Mark accepts $y$ for the sake of the conversation, but neither believe that the other believes $y$. They have no idea they are playing the same game. 
 
 Do Mark and Belinda share a common ground, namely $y$? Well, according to the definition of common ground as mere 
-joint acceptance, they do. This is cheap common ground: joint acceptance by accident. 
-But they do not share common ground in $y$ 
-according to the definition of common ground as joint belief of joint acceptance.
+joint acceptance, they do. This is cheap common ground: joint acceptance by accident.^[Note that they do not share common ground in $y$ according to the definition of common ground as joint belief of joint acceptance.]
 
 
 (d) `r tufte::newthought('Finally')`: The problem 
 
 
 Can Mark rationally mean $y$ when he utters 
-'I get it' in response of Belinda's 
-placing a yellow bin? Intuitively, that cannot be rational. 
-But according to the common-ground-as-joint-acceptance it would 
+'I get it' in response to Belinda's 
+placing a yellow bin? That cannot be rational. 
+But according to common-ground-as-joint-acceptance it *could* 
 be rational.^[Can you reconstruct 
 Berstler's reasoning for that conclusion?] So that's a problem!
 
 
-> But once we stop defining the common ground in terms of *belief*, the principled relationship
-between what I mean, what I believe the common ground entails that I mean, and what I would have
-meant, had I been rational, frays to the point of uselessness. Nowhere is this clearer than in cases of
-cheap common ground. (p. 23)
+More generally:
 
 > This, I propose, is why we find cheap common grounds so weird and unintuitive. We are implicitly
 presupposing that the common ground ought to clarify the relationship between what the speaker means
@@ -156,11 +157,78 @@ and what she would be rational to mean. When the common ground comes cheaply, it
 not do that. (p. 23)
 
 
+___________________________
+
+# Beyond Belief
 
 
+Langton is aiming 
+to extent Stalnaker's theory of the common 
+ground 'beyond belief' and 
+in this way illuminate the workings 
+of hate speech and pornography.^[Langton is not concerned with Berstler's fine distinctions between different definitions of the common ground, but might these distinctions make a difference for Langton's project?]
 
 
+## Accomodation 
 
+On Stalnaker's theory of the common ground, sometimes assertions 
+made by a speaker requires an *accommodation*: the common ground must be updated 
+if the participants are to make sense of, or accept,
+the assertion. 
+
+>  If I say, ‘Even Sarah Palin could win’, I rely on a shared belief that she is
+a less than stellar candidate. But more than that, it sometimes happens that I help to
+*create* that shared belief, if it was not shared before—and if nobody blocks my move
+with an indignant ‘What do you mean, even Sarah Palin?’ The beliefs of parties to a
+conversation tend to *accommodate* to whatever is needed to make sense of what is going
+on, thereby building up a ground of common belief that speakers can exploit in what
+they do next with their words. 
+
+
+## Hate Speech and Pornography
+
+Now---even though it might seem unrelated---consider an example of 
+hate speech, like this:
+
+> "They [the Tutsi] are all Inyenzi [cockroaches]. When our armed forces will
+get there, they will get what they deserve. They will not spare anyone since
+everybody turned Inyenzi."^[This is a statement by Valérie Bemeriki, 
+a Rwandan convicted war criminal and journalist.]
+
+Or consider pornography:
+
+>  "Pornography is ‘the undiluted essence of anti-female propaganda’, according to Susan
+Brownmiller.^[Brownmiller (1975), *Against Our Will: Men, Women and Rape*, p. 443.] It ‘depicts women’s degradation’, and ‘in such a way as to endorse the degradation’, according to Helen Longino.^[Longino (1980), Pornography, Oppression and Freedom: A Closer Look, in *Take Back the Night*, p.2 9] It is ‘the graphic sexually explicit
+*subordination* of women through pictures and/or words’, according to Catharine
+MacKinnon.^[McKinnon (1987), Francis Biddle’s Sister, in *Feminism Unmodified*, Harvard University Press, p. 176.] It is ‘a depiction of subordination’ that ‘[tends] to perpetuate
+subordination,’ according to Judge Frank Easterbrook."^[ 771 F.2d 329 (7th Cir. 1985)]
+
+
+Hate speech and pornography can force the common ground to change by 
+exploiting the mechanism of accommodation.
+
+> "even if pornography does not explicitly say that
+women are inferior, or that sexual violence is legitimate, such propositions might be
+presupposed by what pornography explicitly says .... propositions such as ‘when women say no, they mean
+yes’, might become part of the ... ‘common ground’.^[On this point, see   Langton and  West (1999), Scorekeeping in a Pornographic Language Game, *Australasian Journal of Philosophy*, 77:3, pp. 303-319.]
+
+## Extending the theory
+
+Note that Stalnaker's model of accommodation and 
+the common ground only works for beliefs. But hate speech and pornography also bring about feelings and desires:
+
+> "People who consume pornography come to find desirable things they did not
+find desirable before ...People who consume anti-Semitic propaganda don’t just come
+to believe something about Jews: their desires also change—they want to avoid Jews, or
+destroy them."
+
+So here is Langton's sketch of an extension of Stalnaker's model:
+
+> "just as a hearer’s belief can spring into being, after the speaker
+presupposes that belief, so too a hearer’s desire can spring into being, after the speaker
+presupposes the hearer’s desire; and so too, a hearer’s hatred can spring into being, after
+the speaker presupposes that hatred...Speakers invite hearers not only to join
+in a shared belief world, but also a shared desire world, and a shared hate world." 
 
 
 
