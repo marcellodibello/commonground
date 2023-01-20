@@ -190,6 +190,7 @@ they do next with their words."
 Now---even though it might seem unrelated---consider an example of 
 hate speech, like this:
 
+
 > "They [the Tutsi] are all Inyenzi [cockroaches]. When our armed forces will
 get there, they will get what they deserve. They will not spare anyone since
 everybody turned Inyenzi."^[This is a statement by Valérie Bemeriki, 
