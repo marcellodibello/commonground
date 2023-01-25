@@ -26,7 +26,7 @@ The topic of today's class is radical interpretation: what
 it takes to interpret an alien language.
 Last week we discussed how the common ground---a shared set of beliefs---makes successful communication 
 and mutual understanding possible, with positive as well as negative effects (recall the examples of hate speech and pornography). Both the papers we will discuss today are titled 'Radical Interpretation', one by 
-Donald Davidson^[Davidson (1973), Radical Interpretation, *Dialecta* 23(3/4).]
+Donald Davidson^[Davidson (1973), Radical Interpretation, *Dialectica* 23(3/4).]
  and the other by David Lewis.^[Lewis (1974), Radical Interpretation, *Synthese* 23.]
 
 
