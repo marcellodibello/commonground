@@ -1,6 +1,6 @@
 ---
 title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Introduction"
-author: "Marcello Di Bello - ASU - Spring 2022 - Week #1"
+author: "Marcello Di Bello - ASU - Spring 2023 - Week #1"
 output:
   tufte::tufte_html: default
   tufte::tufte_handout: default
