@@ -357,7 +357,7 @@ The first part of the class will consist in a Q&A session with [Elizabeth Povine
 
 *Essential readings*
 
-- Davidson (1973), [On the Very Idea of a Conceptual Scheme](https://www2.southeastern.edu/Academics/Faculty/jbell/conceptualscheme.pdf)
+- Davidson (1973), [On the Very Idea of a Conceptual Scheme](https://www.marcellodibello.com/commonground/readings/DavidsonConceptualSc.pdf)
 (Using a Tarski-style theory of meaning, the paper argues that it is impossible for two languages to be incommensurable)
 
 - Povinelli (2001), [Radical Worlds: The Anthropology of Incommensurability and Inconceivability](https://www.marcellodibello.com/commonground/readings/PovinelliRadicalWorlds.pdf)
