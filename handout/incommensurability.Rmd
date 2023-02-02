@@ -1,0 +1,179 @@
+---
+title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Incommensurability"
+author: "Marcello Di Bello - ASU - Spring 2023 - Week #4"
+output:
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+      background-color:white;
+  }
+  
+</style>
+
+
+The topic of today's class is incommensurability: the existence of concepts, beliefs, worldviews, 
+social practices, institutions, etc. that cannot be reduced to a common metric.^[This is a generic characterization. What is a common metric? As we will see, it is actually quite difficult to define incommensurability.] 
+The untraslatabilility between languages is a form of incommensurability at the linguistic, conceptual level. 
+On this topic, we will discuss Davidson's paper on conceptual schemes. In it, he argues that this form of 
+incommensurability is impossible.^[Davidson (1973), On the Very Idea of a Conceptual Scheme, *Proceedings and Addresses of the American Philosophical Association* 47.] 
+
+Davidson's focus on incommensurability as a linguistic or conceptual phenomenon might be too narrow. Povinelli's paper on the anthropology of incommensurability points out the limitations of Davidson's approach.The topic of incommensurability reaches into the realm of social interactions and political deliberations.^[Povinelli (2001), Radical Worlds: The Anthropology of Incommensurability and Inconceivability, *Annual Review of Anthropology*, 30.]  Here, the question is no longer whether incommensurability is possible, but how the incommensurable is made commensurate.
+
+
+
+----------------
+
+# Davidsons on Conceptual Schemes
+
+Most of Davidson's paper on conceptual schemes is an attempt to articulate what it would mean for two conceptual schemes to be incommensurable. The thought seems intuitive: there might be radically different ways---incommensurable conceptual schemes---to conceive the natural world, society, public institutions, etc.^[Can you think of examples?] But what is a conceptual scheme? What is incommensurability?
+
+As a preliminary step, Davidson seeks a precise formulation of the thesis 
+that there can be incommensurable conceptual schemes. Given a precise formulation, he will apply his (relatively quick) argument that we cannot make sense of incommensurable conceptual schemes. 
+
+
+## Three Steps 
+
+Davidsons proceeds in three steps:
+
+1. The *first* step (p. 7) consists in replacing conceptual schemes with languages and using lack of translatability between languages as a test of incommesurability between conceptual schemes.^[What objections one might raise against the identification of conceptual schemes and languages?]
+
+2. The *second* step is to posit that conceptual schemes must be largely true. They fit experience, though in different ways. If one conceptual scheme were false and the other true, the two schemes would not be incommensurable, but simply differing in truth values.
+
+To see why this second step might be plausible, here are some relevant quotations from 
+Davidson about (a) the need to posit something common outside conceptual schemes; (b)
+the duality of schemes and experience; and (c) the role of truth:
+
+> (a) "It is essential to this idea [=of incommensurability] that there be something neutral and common that lies outside all schemes" (p. 12)
+
+> (b) "The idea is then that something is a language, and associated with a conceptual scheme,...if it stands in a certain relation (predicting, organizing, facing or fitting) to experience (nature, reality, sensory promptings). The problem is to say what the relation is (p. 13)
+
+> (c) "Our attempt to characterize languages or conceptual schemes in terms of the notion of fitting some entity has come down, then, to the simple thought that something is an acceptable conceptual scheme or theory if it is true. Perhaps we better say *largely* true in order to allow sharers of a scheme to differ on details." (p. 16)
+
+So, putting together these two steps, we have: Two conceptual schemes (languages) are incommensurable *if and only if* they 
+are both true and yet not translatable into one another.^[While it makes sense to say that conceptual schemes are true, what does it mean for a language to be true? This question arises because Davidson identifies languages and conceptual schemes.]
+
+3. The *third* and final step is to invoke Taski's theory of truth and convention T that '$s$' is true *if and only if* $p$, where $p$ is a translation of $s$.^[Recall the discussion from last week.] For Davidson, assuming Tarski's theory of truth makes it impossible to have true languages that are also not translatable. Hence, incommensurability is impossible.^[Can you spell out more precisely what the argument is?]
+
+> "Convention T suggests, though it cannot state, an important feature common to all the specialized 
+concepts of truth. It succeeds in doing this by making essential use of the notion 
+of translation into a language we know. Since Convention T embodies our best intuition as to how the concept of truth is used, there does not seem to be much hope for a test that a conceptual scheme is radically different from ours if that test depends on the assumption that we can divorce the notion of truth from that of translation." (p. 17)
+
+## A Caveat
+
+There is a caveat to Davidson's argument, however:
+
+> "we have found no intelligible basis on which it can be said that schemes are different. It would be ... wrong to announce the glorious news that all mankind -- all speakers of language, at least -- share a common scheme and ontology. For if we cannot intelligibly say that schemes are different, neither can we intelligibly say that they are one." (p. 20)^[This comment underscores that Davidson's argument did not show that incommensurability is impossible, but rather, that it is impossible for us to *think* that incommensurability is possible. 
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------
+
+
+
+# Povinelli's Antropology of Incommensurability
+
+
+## Radical Interpretation
+
+The starting point of Povinelli's analysis 
+is Davidson's problem of radical interpretation:^[We discussed radical interpretation last week.]
+
+> "By “radical interpretation,” Davidson means to
+ask how it is possible for speakers to interpret an utterance in the context of radical
+linguistic (and social) alterity." (p. 321)
+
+The problem of radical interpretation arises because of the 
+interdependence between one's meanings and one's beliefs. This interdependence 
+is overcome by positing a near complete agreement 
+between the interpreter and the Other. Citing Davidson: 
+
+> "beyond a point there is no deciding, even in principle, between the view that the
+Other has used words as we do but has more or less weird beliefs, and the view that
+we have translated him wrong. Torn between the need to make sense of a speaker’s
+words and the need to make sense of his patterns of belief, the best we can do
+is choose a theory of translation that maximizes agreement." (p. 322)
+
+This is Davidson's principle of charity. This principle is so fundamental that (again Citing Davidson):
+
+> "if we cannot find a way to interpret the utterances and other behaviors
+of a creature as revealing a set of beliefs largely consistent and true *by our own
+standards*, we have no reason to count that creature as rational, as having beliefs,
+or as saying anything." (p. 322)
+
+
+## Commesuration
+
+What did anthropologists contribute to the debate 
+about incommensurability? For Davidson, incommensurability is a question of fact: whether or not there are languages (conceptual schemes) that are not translatable (not commensurable). Anthropologists have focused on how commensurability operates, in social and political contexts, as an instrument of power. They have focused on how the inconceivable is made conceivable, not so much in the sense that the inconceivable is understood, but rather, in the sense that the inconceivable is brought within the boundaries of the conceivable. This is what Povinelli calls the "practice of commesuration".
+
+
+The world we live is governed 
+by the principles of liberal society, democratic institutions and the free market. 
+We can imagine radically different ways of living and interacting with one another, 
+alternatives to the economic and social structures we live in. Yet, these alternatives 
+seem short lived. 
+
+> Espeland \& Stevens argue that the efficiency of bureaucracies and economic transactions depends on a standardization between disparate things that reduces the relevance of context—or, as they put it, “commensuration transforms qualities into
+quantities, difference into magnitude”^[See Espeland and Stevens (1998), Commensuration as a social process, *Annual Review of Sociology*, 24.] 
+
+Commesuration proceeds almost noticed. Which raises a question:
+
+> "How are these disparate social and cultural worlds made commensurate with the social idea(l) of nationalism and/or civil society without the use of repressive force?" (p. 326)
+
+The answer:
+
+> "The power of a particular form of communication to commensurate morally and epistemologically divergent social groups
+lies at the heart of liberal hopes for a nonviolent democratic form of governmentality." (p. 326)^[For Davidson, postulating nearly complete agreement between interpreter and the Other was a condition for attributing rationality to the Other. Here, commensuration is a condition for peaceful democratic government.]
+
+Povinelli then goes on to explore the idea of public reason and how it operates (drawing from Kant, Rawls, Habermas). Here we are confronted with a puzzle. Public reason is a set of ideals to ensure peaceful deliberations about matters of the public good. These deliberations should be responsive to evidence and arguments provided they are seen as reasonable by those participating in the deliberation. Public reasons presents itself as an inclusive, tolerant deliberative space.
+And yet, it also has a repressive and violent function.^[What are some examples of the repressive function of public reason?] This raises a question:
+
+ > "What seems to be at stake then is how we come to
+characterize moments of social repression and social violence directed at left and
+right radical worlds as moving forward a nonviolent shared horizon, as the peaceful
+proceduralism of communicative reason, rather than as violent intolerance, i.e., the
+pragmatic aspects of communication" (p. 327)
+
+
+The phenomenon described by Povinelli could be called the the peaceful 
+yet violent (or intolerant yet tolerant) repression of the Other. 
+How does it come about? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
