@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  1 FEB 2023 19:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  2 FEB 2023 10:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -763,6 +763,9 @@ LaTeX Warning: Marginpar on page 4 moved.
 LaTeX Warning: Marginpar on page 4 moved.
 
 
+LaTeX Warning: Marginpar on page 4 moved.
+
+
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
@@ -773,8 +776,8 @@ Package rerunfilecheck Info: File `incommensurability.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  13076 strings out of 478994
- 189869 string characters out of 5858184
- 527872 words of memory out of 5000000
+ 189871 string characters out of 5858184
+ 528873 words of memory out of 5000000
  30212 multiletter control sequences out of 15000+600000
  468823 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -784,7 +787,7 @@ exlive/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2
 021/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist
 /fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on incommensurability.pdf (4 pages, 79738 bytes).
+Output written on incommensurability.pdf (4 pages, 80531 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream

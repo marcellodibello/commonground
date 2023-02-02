@@ -36,7 +36,7 @@ Davidson's focus on incommensurability as a linguistic or conceptual phenomenon 
 
 # Davidsons on Conceptual Schemes
 
-Most of Davidson's paper on conceptual schemes is an attempt to articulate what it would mean for two conceptual schemes to be incommensurable. The thought seems intuitive: there might be radically different ways---incommensurable conceptual schemes---to conceive the natural world, society, public institutions, etc.^[Can you think of examples?] But what is a conceptual scheme? What is incommensurability?
+Most of Davidson's paper on conceptual schemes is an attempt to articulate what it would mean for two conceptual schemes to be incommensurable. The thought seems intuitive: there might be radically different ways---incommensurable conceptual schemes---of conceiving the natural world, society, public institutions, etc.^[Can you think of examples?] But what is a conceptual scheme? What is incommensurability?
 
 As a preliminary step, Davidson seeks a precise formulation of the thesis 
 that there can be incommensurable conceptual schemes. Given a precise formulation, he will apply his (relatively quick) argument that we cannot make sense of incommensurable conceptual schemes. 
@@ -56,7 +56,7 @@ the duality of schemes and experience; and (c) the role of truth:
 
 > (a) "It is essential to this idea [=of incommensurability] that there be something neutral and common that lies outside all schemes" (p. 12)
 
-> (b) "The idea is then that something is a language, and associated with a conceptual scheme,...if it stands in a certain relation (predicting, organizing, facing or fitting) to experience (nature, reality, sensory promptings). The problem is to say what the relation is (p. 13)
+> (b) "The idea is then that something is a language, and associated with a conceptual scheme,...if it stands in a certain relation (predicting, organizing, facing or fitting) to experience (nature, reality, sensory promptings). The problem is to say what the relation is." (p. 13)
 
 > (c) "Our attempt to characterize languages or conceptual schemes in terms of the notion of fitting some entity has come down, then, to the simple thought that something is an acceptable conceptual scheme or theory if it is true. Perhaps we better say *largely* true in order to allow sharers of a scheme to differ on details." (p. 16)
 
@@ -124,22 +124,22 @@ standards*, we have no reason to count that creature as rational, as having beli
 or as saying anything." (p. 322)
 
 
-## Commesuration
+## Commensuration
 
 What did anthropologists contribute to the debate 
-about incommensurability? For Davidson, incommensurability is a question of fact: whether or not there are languages (conceptual schemes) that are not translatable (not commensurable). Anthropologists have focused on how commensurability operates, in social and political contexts, as an instrument of power. They have focused on how the inconceivable is made conceivable, not so much in the sense that the inconceivable is understood, but rather, in the sense that the inconceivable is brought within the boundaries of the conceivable. This is what Povinelli calls the "practice of commesuration".
+about incommensurability? For Davidson, incommensurability is a question of fact: whether or not there are languages (conceptual schemes) that are not translatable (not commensurable). Anthropologists have focused on how commensurability operates, in social and political contexts, as an instrument of power. They have focused on how the inconceivable is made conceivable, not so much in the sense that the inconceivable is understood, but rather, in the sense that the inconceivable is brought within the boundaries of the conceivable. This is what Povinelli calls the "practice of commensuration".
 
 
 The world we live is governed 
 by the principles of liberal society, democratic institutions and the free market. 
 We can imagine radically different ways of living and interacting with one another, 
 alternatives to the economic and social structures we live in. Yet, these alternatives 
-seem short lived. 
+seem short lived. Povinelli writes:
 
-> Espeland \& Stevens argue that the efficiency of bureaucracies and economic transactions depends on a standardization between disparate things that reduces the relevance of context—or, as they put it, “commensuration transforms qualities into
-quantities, difference into magnitude”^[See Espeland and Stevens (1998), Commensuration as a social process, *Annual Review of Sociology*, 24.] 
+> "Espeland \& Stevens argue that the efficiency of bureaucracies and economic transactions depends on a standardization between disparate things that reduces the relevance of context—or, as they put it, 'commensuration transforms qualities into
+quantities, difference into magnitude' "^[See Espeland and Stevens (1998), Commensuration as a social process, *Annual Review of Sociology*, 24.] 
 
-Commesuration proceeds almost noticed. Which raises a question:
+Commensuration proceeds almost noticed. Which raises a question:
 
 > "How are these disparate social and cultural worlds made commensurate with the social idea(l) of nationalism and/or civil society without the use of repressive force?" (p. 326)
 
@@ -148,19 +148,28 @@ The answer:
 > "The power of a particular form of communication to commensurate morally and epistemologically divergent social groups
 lies at the heart of liberal hopes for a nonviolent democratic form of governmentality." (p. 326)^[For Davidson, postulating nearly complete agreement between interpreter and the Other was a condition for attributing rationality to the Other. Here, commensuration is a condition for peaceful democratic government.]
 
-Povinelli then goes on to explore the idea of public reason and how it operates (drawing from Kant, Rawls, Habermas). Here we are confronted with a puzzle. Public reason is a set of ideals to ensure peaceful deliberations about matters of the public good. These deliberations should be responsive to evidence and arguments provided they are seen as reasonable by those participating in the deliberation. Public reasons presents itself as an inclusive, tolerant deliberative space.
+Povinelli then goes on to explore the idea of public reason and how it operates (drawing from Kant, Rawls, Habermas). Here we are confronted with a puzzle. Public reason is a set of ideals to ensure peaceful deliberations about matters of the public good. These deliberations should be responsive to evidence and arguments provided these are seen as reasonable by those participating in the deliberation. Public reasons presents itself as an inclusive, tolerant deliberative space.
 And yet, it also has a repressive and violent function.^[What are some examples of the repressive function of public reason?] This raises a question:
 
  > "What seems to be at stake then is how we come to
 characterize moments of social repression and social violence directed at left and
 right radical worlds as moving forward a nonviolent shared horizon, as the peaceful
-proceduralism of communicative reason, rather than as violent intolerance, i.e., the
-pragmatic aspects of communication" (p. 327)
+proceduralism of communicative reason, rather than as violent intolerance" (p. 327)
 
 
 The phenomenon described by Povinelli could be called the the peaceful 
 yet violent (or intolerant yet tolerant) repression of the Other. 
-How does it come about? 
+How does it come about? Reflecting on the work of Richard Rorty and Michael Waltzer, 
+here is Povinelli's conjecture:
+
+> "the message addressing radical
+worlds is 'be other so that we will not ossify, but be in such a way that we are
+not undone, that is make yourself doable for us.' And the message conveys the
+stakes of refusing to be doable, and, thereby, the stakes of forcing liberal subjects
+to experience the intractable impasse of reason as the borders of the repugnant—
+actual legal, economic, and social repression. It is in this way that the late liberal
+diaspora shifts the burden for social commensuration from the place it is generated
+(liberalism) to the place it operates on." (p. 330)^[Can you reconstruct Povinelli's reasoning more in detail, drawing from the examples of Rorty and Walzer as liberal thinkers?]
 
 
 
