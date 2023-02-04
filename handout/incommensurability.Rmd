@@ -2,8 +2,8 @@
 title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Incommensurability"
 author: "Marcello Di Bello - ASU - Spring 2023 - Week #4"
 output:
-  tufte::tufte_handout: default
   tufte::tufte_html: default
+  tufte::tufte_handout: default
 ---
 
 
@@ -34,7 +34,7 @@ Davidson's focus on incommensurability as a linguistic or conceptual phenomenon 
 
 ----------------
 
-# Davidsons on Conceptual Schemes
+# Davidson on Conceptual Schemes
 
 Most of Davidson's paper on conceptual schemes is an attempt to articulate what it would mean for two conceptual schemes to be incommensurable. The thought seems intuitive: there might be radically different ways---incommensurable conceptual schemes---of conceiving the natural world, society, public institutions, etc.^[Can you think of examples?] But what is a conceptual scheme? What is incommensurability?
 
@@ -93,7 +93,7 @@ There is a caveat to Davidson's argument, however:
 
 
 
-# Povinelli's Antropology of Incommensurability
+# Antropology of Incommensurability
 
 
 ## Radical Interpretation
