@@ -383,14 +383,16 @@ The first part of the class will consist in a Q&A session with [Elizabeth Povine
 
 **Week 5: Logic and Argumentation**
 
-**Q&A with Nathan Ballantyne**
-
-The first part of the class will consist in a Q&A session with [Nathan Ballantyne](https://twitter.com/nathanballan), a philosopher at Arizona State University. His paper on the fog of debate is one of the readings assigned for today. *Please come prepared to ask questions.*
-
 The second perspective on the common ground we will examine 
 has to do with logic, reasoning and argumentation. It would seem that, in virtue of sharing certain principles of reasoning, we can debate, disagree and resolve our disagreements. 
 <!--The scholastic philosophers of the Middle Ages used to say "contra impugnantes principia non est disputandum (which can be translated as: against those who reject the principles of logic, there cannot be a discussion). Here, the common ground comprises certain fundamental logical principles and rules of reasing. Such common ground makes rational discussion possible.  --->
 And yet, it is surprising hard to justify even the most basic logical principle of all, the principle of non-contradiction---that one should not assert p and its negation at the same time. And, more recently, some logicians have even come to endorse logical pluralism, the view that in fact there can be a multiplicity of logical principles. <!---If logical pluralism is correct, the validity of a piece of reasoning will vary on a case-by-case basis.  ---> Perhaps, then, we should not aim to find a common ground by attempting to justify logical principles. Turning from logic to argumentation theory, a more feasible approach might be to settle, in a dialogical setting, on argumentative rules that make rational inquiry possible. But what does that require, exactly?
+
+
+**Q&A with Nathan Ballantyne**
+
+The first part of the class will consist in a Q&A session with [Nathan Ballantyne](https://twitter.com/nathanballan), a philosopher at Arizona State University. His paper on the fog of debate is one of the readings assigned for today. *Please come prepared to ask questions.*
+
 
 *Essential readings*
 
