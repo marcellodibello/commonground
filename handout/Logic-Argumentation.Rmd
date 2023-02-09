@@ -1,0 +1,232 @@
+---
+title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Logic and Argumentation"
+author: "Marcello Di Bello - ASU - Spring 2023 - Week #5"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+      background-color:white;
+  }
+  
+</style>
+
+
+In the last three classes, we examined how communication and mutual understanding of what speakers say to one another is possible.^[Here is a summery of what we have gone through. The common ground---as a set of beliefs shared by those partaking in a conversation---is essential to make communication possible ([Week 2](https://www.marcellodibello.com/commonground/handout/communication.html)). Postulating a shared set of beliefs is also essential to overcome radical interpretation, a situation in which one is attempting to interpret someone speaking a foreign language ([Week3 ](https://www.marcellodibello.com/commonground/handout/Radical-Interpretation.html)). The assumption of a shared set of beliefs can be questioned if it is possible for members of different communities to possess conceptual schemes (theories about the world) that are incommensurable to one another. We have seen that incommensurability is not just a semantic question of intertranslatability between languages, but has practical, moral and political implications for how we treat the Other ([Week 4](https://www.marcellodibello.com/commonground/handout/incommensurability.html)).] 
+This week we turn from communication to reasoning, logic and argumentation. Let us assume we can communicate with one another: we speak the same language and understand what the sentences we use mean.  Suppose we engage in a debate with others. We want to persuade them that we are right and they are wrong. How does that work? Two traditions within philosophy can help us: logic and rhetoric (and relatedly, argumentation theory). Logic studies what counts as a good argument---when we can claim that a conclusion follows from premises. Rhetoric studies the effective means of persuading others. The first paper we will read sits in the first tradition;^[Beall and Restall (2000), Logical pluralism, *Australasian Journal of Philosophy* 78 (4)] the second sits more squarely in the second.^[Ballantyne (2022), The Fog of Debate, *Social Philosophy and Policy* 38 (2).]
+
+# Logical Pluralism
+
+The chief subject matter of logic is logical consequence---that is, to spell out under what conditions 
+a conclusion *follows* from  a set of premises.  Here is a template definition of logical consequence:
+
+> "(**V**) A conclusion $A$ follows from premises $\Sigma$ if and only if any case in which
+each premise in $\Sigma$ is true is also a case in which $A$ is true. Or equivalently, there is no case 
+in which each premise in $\Sigma$ is true, but in which $A$ fails to be true." (p. 2)
+
+\noindent
+This definition is just a sketch. We need to fill in the sketch (**V**), 
+and there may be more than one way to do that. *Logical pluralism* is the thesis 
+that there are at least two ways to spell out (**V**) which are  perfectly acceptable. 
+Hence, there is not just one way in 
+which a conclusion logically follows from the premises. 
+
+
+## Example 1
+
+Consider this argument:
+
+> (P) This object is read
+> (C) Thus, this object is colored
+
+\noindent
+Is this argument logically valid? It depends:
+
+> "the answer is *yes* for validity as necessary truth preservation. The answer is *no*
+for the Tarskian account of validity." (p. 5)^[Spell out validity as truth preservation, as opposed to validity in the Tarskian account.] 
+
+\noindent
+The argument is *not* *formally* valid, 
+but it is *materially* valid. It is not formally valid because, merely by looking at the logical form of premise and 
+conclusion, the conclusion does not follow. So, under this interpretation, (**V**) is not satisfied. The argument is materially valid, because it is a necessary fact that anything that is read is also colored. So, under this interpretation, (**V**) is satisfied.
+
+
+## Example 2
+
+Consider the claim that:
+
+> Either it is raining tomorrow or it is not raining tomorrow.
+
+\noindent
+That seems always true. So we could conjecture, for any $P$,
+
+> Either $P$ or $\neg P$
+
+\noindent
+is always true, no matter what. Call this the *principle of excluded middle* (PEM).^[This principle is importantly different from another principle, called the *principle of non-contradiction*, which says: it is never the case that ($P$ and $\neg P$). Aristotle in book 4 of the *Metaphysics* tried to establish that this principle must be true (or cannot be denied). It is unclear whether Aristotle succeeded.].
+But consider this statement:
+
+> Either my best friend is coming or my best friend is not coming
+
+\noindent
+This need not always be true, no matter what. What if you do *not* have a best friend? Then, neither is the case 
+that your best friend is coming nor that they are not coming. 
+You don't have a best friend to begin with.^[This point can be made formally. Define negation as follows: $\neg P$ is true in situation $s$ iff  $P$ is not true in any situation $s'$ compatible with $s$. To invalidate "$P$ or $\neg P$", it is enough to construct a counterexample. Suppose $P$ is false at $s$, but $P$ is true at $s'$ compatible with $s$. Then, neither $P$ nor $\neg P$ is true at $s$, whence "$P$ or $\neg P$" is not true at $s$.]
+
+What does this have to do with logical pluralism? 
+In classical logic, PEM is valid (always true no matter what), but in a non-classical logic, 
+PEM is not valid (not always true no matter what). So is it valid or not? 
+According to logical pluralism, it depends. There is no validity in an absolute and unique sense.^[If logical pluralism is true, there is not just one way in which a conclusion can follow from a set of premises. Does this make reasoning and logic entirely relative and up from  grabs?] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# The Fog of Debate
+
+
+## Conceptual framing
+
+The fog of debate is like the fog of war. In war, soldiers and generals hardly know where the enemy is exactly; what they are doing; how they are going to react. When we debate with others, we are often 
+in a similar fog:
+
+>  When trying to persuade others, we normally believe or presume some answers to these four questions: (i) What
+does our audience think about an issue? (ii) Do they understand our argument? (iii) Would they be justified in accepting its conclusion after they
+understand it? (iv) What does their behavior indicate about their thinking
+about the issue after they hear our argument? When our answers
+believed or presumed are significantly wrong or unreliably formed, we are in the
+fog of debate, as I use the term. (p. 93)
+
+\noindent
+We are not in a fog when 
+these four *clarity conditions* hold:^[We are often mistaken whether we are in the fog or not. We could think we are not in the fog, but we actually are in it full force. Being in the fog and being aware of that fact is perhaps better than being in the fog without being aware of that fact. Why is that?]
+
+> *Standpoint*: We accurately estimate how our audience thinks about an issue before
+we share our argument.
+
+> *Comprehension*: Our audience understands our argument.
+
+> *Force*: Our audience is justified to accept the argument’s conclusion after
+understanding our argument.
+
+> *Feedback*: We accurately interpret our audience’s behavioral reactions to our
+argument (p. 94)
+
+\noindent
+When we debate with others, some of these clarity conditions often fail, 
+if not all of them. The more they fail, the more we are in a fog.^[Contrast 
+this with a debate with Socrates:"He always asks for clarification when he does not understand a premise or an
+inference, using language that leaves us with no doubt about his thinking.
+He always reacts honestly to our arguments. Let’s also suppose we share
+with Socrates all relevant background evidence on whatever issues we
+discuss, and we know that. This means we can evaluate
+our own evidence in order to figure out whether Socrates is justified to accept an argument’s
+conclusion. All of this being so, whenever we try to persuade Socrates, we
+are well positioned to know when Standpoint, Comprehension, Force, and
+Feedback are met." (p. 95)
+]
+
+
+
+## Diagnosis
+
+The clarity conditions fail for many reasons. 
+Their failure can derail our goal 
+of persuading others.
+
+Start with *Standpoint*. Empirical research shows that people tend to overestimate the extent to which others disagree with them, a phenomenon called *false polarization*.^[Tim Kenyon (2014), False Polarization: Debiasing as Applied Social Epistemology, *Synthese* 191.] Once it is manifest we have misconstrued the position of our opponent, this will make it harder to persuade them of our own position. They will likely mistrust us and be less receptive to what we say. 
+
+Next, *Comprehension*. Why is it that often others do not actually understand our argument?
+For practical purposes, we often rely on *argument sketches*, rather than fully worked out arguments.^[Is reliance on argument sketches merely a cognitive shortcut? Or is this about the complexity of subject matter, so that argument sketches are a necessary tool to navigate that complexity?] Using argument sketches can hinder comprehension. Our opponent might see a hole in our argument, while it is only an implicit premise left unsaid in our argument sketch. Or our opponent might fill an implicit premise in the wrong way and then regard the resulting argument as invalid.
+
+
+Next, *Force*. How can we make sure our audience is persuaded by our argument---that our argument has force onto them?
+The problem here is that what would persuade us might not be what would persuade others, 
+and we tend to project ourselves onto others. What else could we do, after all? This is 
+a recipe for disaster:
+
+
+> when trying to calculate
+what others think and feel, we mentally “trade places,”
+imagining ourselves in their situation. Instead of answering a question about them (“What are others justified to believe?”), we answer a question about ourselves (“What would I be justified to believe if I were in others’ situation?”). This shift leads to what psychologists call empathy gaps in perspective-taking, which conceal from us our opponents’ thinking and reasoning. (p. 100)
+
+Finally, *Feedback*. It is not easy to grasp how our opponent reacted to our argument. Were they persuaded or not? Did they change their mind, even so slightly? First, they might give us false or misleading feedback. They might have reasons to do that. They might falsely disagree because they would be embarrassed to admit they were wrong. Or they might falsely agree because they feel they would be punished if they did not show agreement. 
+Second, they might provide us with poor feedback. Third, it might be us who interpret the feedback 
+we receive incorrectly,. More specifically,
+
+> [h]ere are a few possibilities: (i) we uncharitably interpret their words, misconstruing
+their good objection as a bad one; (ii) we cynically interpret their negative
+reactions as an indication they are in fact moved by our reasoning and trying
+to save face; or (iii) we mistake their ambivalent or lukewarm reactions as
+indicating our argument is compelling. (p. 103)
+
+
+## Remedies?
+
+In light of the fog of debate, we might lower our expectations about what debating with others could accomplish.
+Perhaps, we should not aim to persuade others, but simply annoy them or rally those who already think like us. Another policy is to keep trying to put our arguments well the best we can even though we know we 
+won't persuade anyone. But there is a third, more optimistic policy to follow:
+
+> When the enemy is elusive, a military force
+can deploy spies, listening stations, and high-altitude reconnaissance 
+aircraft to identify strategic opportunities and tactical vulnerabilities. 
+Commanders take counsel from intelligence officers, run war-game scenarios,
+and study the history of war. To prepare for conflict, commanders gather
+intelligence. In the shift from arguing to preparing to argue, I envision various kinds of “intelligence gathering ops”
+and “tradecraft.” These would help thinkers
+overcome the fog of debate. (p. 107)
+
+So, the proposal is this: before we go on arguing, we should *prepare* ourselves to argue by studying our opponent. 
+What is an example of this policy?
+
+>  I will describe a technique used by a friend of mine. He is an academic in the United States
+and, like most American academics, he has liberal political opinions. But
+unlike most, my friend has a non-American accent, which lets him pass as a
+tourist. Sometimes, he casually asks people for their thoughts on political
+issues, letting them assume he is unfamiliar with some divisive, hot-button
+affair. In return, he receives reports that other liberal academics are unlikely
+ever to hear from their conservative neighbors. People are candid with my
+friend because they do not attribute to him the biases and defects they
+reactively attribute to PhDs who work in universities. (p. 109)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
