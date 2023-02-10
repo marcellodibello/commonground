@@ -2,8 +2,8 @@
 title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Logic and Argumentation"
 author: "Marcello Di Bello - ASU - Spring 2023 - Week #5"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout: default
+  tufte::tufte_html: default
 ---
 
 
@@ -35,7 +35,7 @@ each premise in $\Sigma$ is true is also a case in which $A$ is true. Or equival
 in which each premise in $\Sigma$ is true, but in which $A$ fails to be true." (p. 2)
 
 \noindent
-This definition is just a sketch. We need to fill in the sketch (**V**), 
+This definition is just a sketch. We need to fill in the sketch, 
 and there may be more than one way to do that. *Logical pluralism* is the thesis 
 that there are at least two ways to spell out (**V**) which are  perfectly acceptable. 
 Hence, there is not just one way in 
@@ -73,20 +73,19 @@ That seems always true. So we could conjecture, for any $P$,
 > Either $P$ or $\neg P$
 
 \noindent
-is always true, no matter what. Call this the *principle of excluded middle* (PEM).^[This principle is importantly different from another principle, called the *principle of non-contradiction*, which says: it is never the case that ($P$ and $\neg P$). Aristotle in book 4 of the *Metaphysics* tried to establish that this principle must be true (or cannot be denied). It is unclear whether Aristotle succeeded.].
-But consider this statement:
+is always true, no matter what. Call this the *principle of excluded middle* (PEM).^[This principle is importantly different from another principle, called the *principle of non-contradiction*, which says: it is never the case that ($P$ and $\neg P$). Aristotle in book 4 of the *Metaphysics* tried to establish that this principle must be true (or cannot be denied). It is unclear whether Aristotle succeeded.] Now consider this statement:
 
 > Either my best friend is coming or my best friend is not coming
 
 \noindent
 This need not always be true, no matter what. What if you do *not* have a best friend? Then, neither is the case 
 that your best friend is coming nor that they are not coming. 
-You don't have a best friend to begin with.^[This point can be made formally. Define negation as follows: $\neg P$ is true in situation $s$ iff  $P$ is not true in any situation $s'$ compatible with $s$. To invalidate "$P$ or $\neg P$", it is enough to construct a counterexample. Suppose $P$ is false at $s$, but $P$ is true at $s'$ compatible with $s$. Then, neither $P$ nor $\neg P$ is true at $s$, whence "$P$ or $\neg P$" is not true at $s$.]
+You don't have a best friend to begin with.^[This point can be made formally. Define negation as follows: $\neg P$ is true in situation $s$ iff  $P$ is not true in any situation $s'$ compatible with $s$. To invalidate '$P$ or $\neg P$', it is enough to construct a counterexample. Suppose $P$ is false at $s$, but $P$ is true at $s'$ compatible with $s$. Then, neither $P$ nor $\neg P$ is true at $s$, whence '$P$ or $\neg P$' is not true at $s$.]
 
 What does this have to do with logical pluralism? 
 In classical logic, PEM is valid (always true no matter what), but in a non-classical logic, 
 PEM is not valid (not always true no matter what). So is it valid or not? 
-According to logical pluralism, it depends. There is no validity in an absolute and unique sense.^[If logical pluralism is true, there is not just one way in which a conclusion can follow from a set of premises. Does this make reasoning and logic entirely relative and up from  grabs?] 
+According to logical pluralism, it depends. There is no validity in an absolute and unique sense.^[If logical pluralism is true, there is not just one way in which a conclusion can follow from a set of premises. Does this make reasoning and logic entirely relative? Does anything go?] 
 
 
 
@@ -118,7 +117,7 @@ fog of debate, as I use the term. (p. 93)
 
 \noindent
 We are not in a fog when 
-these four *clarity conditions* hold:^[We are often mistaken whether we are in the fog or not. We could think we are not in the fog, but we actually are in it full force. Being in the fog and being aware of that fact is perhaps better than being in the fog without being aware of that fact. Why is that?]
+ four *clarity conditions* hold:^[We are often mistaken whether we are in the fog or not. We could think we are not in the fog, but we actually are in it full force. Being in the fog and being aware of that fact is perhaps better than being in the fog without being aware of that fact. Why is that?]
 
 > *Standpoint*: We accurately estimate how our audience thinks about an issue before
 we share our argument.
