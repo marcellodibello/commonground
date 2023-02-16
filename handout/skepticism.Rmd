@@ -2,8 +2,8 @@
 title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Skepticism, Tradition and Common Sense"
 author: "Marcello Di Bello - ASU - Spring 2023 - Week #6"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout: default
+  tufte::tufte_html: default
 ---
 
 
@@ -151,10 +151,5 @@ Second---perhaps most importantly---the indispensability of a principle isn't a 
 
 The third problem is that common sense principles are generic. Common sense might tell us we need to trust observation. Very well, but disagreements that matter aren't usually about whether we should trust observation. Disagreements are more fine-grained than that. They are about to what extent and in what circumstances we should trust observation. 
 
-> The hard questions concern whether we shoud trust observation more or less than other sources of belief in specific context...the hard cases concern what I have called *comparative* fundamental principles. (p.77) 
-
-
-So, if neither tradition nor an appeal to common sense are an adequate 
-response to skepticism, what do we do? We are left empty-handed.^[Lynch in his book has an answer. If you are curious, 
-read chapters 5 and 6.]
+> The hard questions concern whether we shoud trust observation more or less than other sources of belief in specific context...the hard cases concern what I have called *comparative* fundamental principles. (p.77)^[So, if neither tradition nor an appeal to common sense are an adequate response to skepticism, what do we do? We are left empty-handed. Lynch in his book has an answer. If you are curious, read chapters 5 and 6.]
 
