@@ -2,8 +2,8 @@
 title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Skepticism, Tradition and Common Sense"
 author: "Marcello Di Bello - ASU - Spring 2023 - Week #6"
 output:
-  tufte::tufte_handout: default
   tufte::tufte_html: default
+  tufte::tufte_handout: default
 ---
 
 
@@ -29,14 +29,14 @@ What counts as evidence in the first place? What kind of evidence should one tru
 And, more fundamentally, why trust evidence to begin with? We'd better have 
 answers to these questions. 
 
-The first assigned reading for today---"Nothing but Dreams and Smoke"---outlines the skeptical challenge in some detail. The second assigned reading---Reasons End: Tradition and Common Sense---examine two lines of response: tradition and common sense.^[The readings are Chapter 3 and 4 of Michael P. Lynch's book *In Praise of Reason: Why Rationality Matters for Democracy* (MIT Press 2014).] Both responses seem unsatisfactory. So, in facing the skeptic, we are left empty-handed. 
+The first assigned reading for today---"Nothing but Dreams and Smoke"---outlines the skeptical challenge in some detail. The second assigned reading---Reasons End: Tradition and Common Sense---examines two lines of response: tradition and common sense.^[The readings are Chapter 3 and 4 of Michael P. Lynch's book *In Praise of Reason: Why Rationality Matters for Democracy* (MIT Press 2014).] Both responses seem unsatisfactory. So, in facing the skeptic, we are left empty-handed. 
 
 # "Nothing but Dreams and Smoke"
 
 
 ## History
 
-Let's start with history. Skepticism has roots in classical antiquity. A trilemma by **Agrippa** (2nd century AD) is one of the earliest formulation of the skeptical challenge. Since every belief is produced by a method or source (say, memory, perception, experiments, divine inspiration, etc.), there 
+Let's start with some history. Skepticism has roots in classical antiquity. A trilemma by **Agrippa** (2nd century AD) is one of the earliest formulation of the skeptical challenge. Since every belief is produced by a method or source (say, memory, perception, experiments, divine inspiration, etc.), there 
 are three ways to justify the reliability of a method:
 
 i. to appeal to the method itself (circularity)
@@ -46,8 +46,7 @@ ii. to appeal to another method (infinite regress)
 iii. admit the method cannot be justified (basic)
 
 
-No one of these options seems to be promising.^[Each option, however, could be seen 
-as an epistemoliogical strategy: coherentism (embracing circularity), infinitism (embracing infinite regress), foundatioanlism (embracing the fact that some belief are basic).] 
+No one of these options seems to be promising.^[Each option, however, could be developed into a broader epistemological research program: coherentism (embracing circularity), infinitism (embracing infinite regress), foundatioanlism (embracing the fact that some beliefs are basic).] 
 
 Skepticism saw a resurgence in 
 the 16th and 17th century in Europe, in part because of 
@@ -55,17 +54,17 @@ endless religious disagreements and conflicts. The philosopher
 **Montaigne** (1533–1592) saw the challenge clearly:
 
 > If I cannot give reasons for why I think my methods are reliable, then it is 
-not clear how my committments to those methods can be undesrtood as rational. 
+not clear how my committments to those methods can be understood as rational. 
 And that, in turn, raises the question of how even changing your mind 
 about which methods to trust can be a rational process, as opposed to 
-something more like religious conversation. (p. 45)^[There are two problems here. *Problem 1*: how do we justify the reliability of a method we rely on (say empirical observation)? *Problem 2*: if we decide to change a method of inquiry (say from trusting divine revelation to performing scientific experiments), how can we rationally justify this change?]
+something more like religious conversion. (p. 45)^[There are two problems here. *Problem 1*: how do we justify the reliability of a method we rely on (say empirical observation)? *Problem 2*: if we decide to change our method of inquiry (say from trusting divine revelation to performing scientific experiments), how can we rationally justify this change?]
 
 The most well-known response to skepticism was given 
 by **Descartes** (1596–1650):
 
-> the foundation of knowledge, for Descartes, is our priviledge access to the contents of our own minds...
-He looked within himself and found the idea of perfection....So if anythig causes the idea of perfection, it must itself be something perfect...and so a perfect being---God---must exists. And if he exists, and is perfect, then he would not deceive us. So what is clearly and distinctly perceived must really be true. (p. 48)^[This is a very quick 
-summary of Descartes' *Meditation on First Philosophy*.]
+> the foundation of knowledge, for Descartes, is our priviledged access to the contents of our own minds...
+He looked within himself and found the idea of perfection....So if anything causes the idea of perfection, it must itself be something perfect...and so a perfect being---God---must exist. And if he exists, and is perfect, then he would not deceive us. So what is clearly and distinctly perceived must really be true. (p. 48)^[This is a very quick 
+summary of Descartes' *Meditations on First Philosophy*.]
 
 Descartes' method consists in following the guidance of clear and distinct ideas. But the justification of this method runs 
 into a circle (which was the first lemma of Agrippa's trilemma).^[The circle is this: we need to establish the existence of God to ensure that we can trust ideas that appear to us as clear and distinct, and we need to rely on clear and distinct ideas to establish the existence of God.] 
@@ -80,14 +79,14 @@ Perhaps, Descartes' response to skepticism failed because it was too ambitious--
 
 What is the relevance of the skeptical 
 challenge today? To appreciate its relevance, it is better to view skepticism 
-as a challenge directed against our ability to provide reasons, rather than identify reliable methods.^[To motivate this shift---from identifying reliable methods to providing reasons---imagine you are engaged in a debate with someone who believes the earth is flat, denies the efficacy of vaccines, or rejects the theory of evolution. What kind of non-circular reason could you invoke to convince them that they are wrong? See the long example on pp. 53-54 about a young earth creationist.] Then, 
-the skepticism challenge can be put as follows:
+as a challenge directed against our ability to provide reasons, rather than identify reliable methods.^[To motivate this shift---from identifying reliable methods to providing reasons---imagine you are engaged in a debate with someone who believes the earth is flat, denies the efficacy of vaccines, or rejects the theory of evolution. What kind of non-circular reasons could you invoke to convince them that they are wrong? See the long example on pp. 53-54 about a young earth creationist.] Then, 
+the skeptical challenge can be put as follows:
 
 > You can defend a fundamental epistemic principle under challenge only if you can give a reason for that principle. Fundamental epistemic principles can be shown to be true only via circular arguments. Circular arguments can't be used to give reasons for believing  anything. If I don't trust your methods, and therefore 
-accept your principles, your reassuring me that they are reliable because emplying them tells you so won't impress me. Nor should it. (p. 56)
+accept your principles, your reassuring me that they are reliable because employing them tells you so won't impress me. Nor should it. (p. 56)
 
-Here the problem is not so much whether a given method is reliable. Rather, the problem is this: how person $A$ can rationally persuade person $B$, where $A$ follows a method $M$ which $B$ does not follow. Persons $B$ must be rationally persuased about method $M$ by person $A$ via noncircular reasons which $B$ can (and should) recognize as reasons for relying on method $M$.
-The skeptic holds there is no way to answer this problem--this is an imposisble task.
+Here the problem is not so much whether a given method is reliable. Rather, the problem is this: how person $A$ can rationally persuade person $B$, where $A$ follows a method $M$ which $B$ does not follow. Persons $B$ must be rationally persuaded about method $M$ by person $A$ via noncircular reasons which $B$ can (and should) recognize as reasons for relying on method $M$.
+The skeptic holds there is no way to answer this problem--that this is an impossible task.
 
 
 If the skeptic is right, two alarming consequences follow: (1) Disagreement over fundamental epistemic principles cannot be rationally resolved (p. 56). (2) It is hard to see how changing our own minds about 
@@ -116,7 +115,7 @@ as a form of Western tradition:
 This raises a question. When the Western tradition is challenged, how can that challenge be answered?
 Rorty will likely reply that the challenge cannot be answered in a non-circular way---that is, without 
 invoking principles of the Western tradition (i.e. Reason) itself. But here we are back 
-to the fist lemma of Agrippa's trilemma.
+to the first lemma of Agrippa's trilemma.
 
 **Wittgenstein** offers a different perspective (pp. 68-69):
 
@@ -129,7 +128,7 @@ propositions are exempt from doubt, are as it were like hinges on which those tu
  and a heretic. I said I would "combat" the other man---but wouldn't I give him *reasons*? Certainly, but how far do they go? At the end of reasons, comes *persuasion*. (Think of what happens when missionaries convert natives.)^[*ibid*, n.\ 611-612]
  
 So, when reasons end, the "big stick" comes out.^[A Lynch puts it: "You can't just sit 
-around and talk to the Nazis" (p. 69)] Resaons is replaced by persuasion, manipulation, 
+around and talk to the Nazis" (p. 69)] Reason is replaced by persuasion, manipulation, 
 power, brute force.^[This is in line with Povinelli's claim: the liberal who professes to be neutral, tolerant, open to reasons, is actually imposing, by brute force, a one-sided position onto others who disagree.] But this capitulation to power is inconsistent with democratic politics:
 
 > Political claims on you cannot be justified, in a democracti conception of politics, by simply wielding or threatening brute force...Rather, I must try to persuade you that my view is rational. Only then do I treat you as an autonomous being, a being who is capable of judging waht to believe.
@@ -150,7 +149,7 @@ Second---perhaps most importantly---the indispensability of a principle isn't a 
 > If you say that it is self-evident that S is reliable *because* we all must take it for granted that S is reliable, then what do you do if someone challanges you on this "fact"? (p. 76)
 
 
-The third problem is that common sense principles are generic. Common sense might tell us we need to trust observations. Very well, but disagreements that matter aren't usually about whether we should trust observation. Disagreements are more fine-grained than that. They are about to what extent and in what circumstances we should trust observation. 
+The third problem is that common sense principles are generic. Common sense might tell us we need to trust observation. Very well, but disagreements that matter aren't usually about whether we should trust observation. Disagreements are more fine-grained than that. They are about to what extent and in what circumstances we should trust observation. 
 
 > The hard questions concern whether we shoud trust observation more or less than other sources of belief in specific context...the hard cases concern what I have called *comparative* fundamental principles. (p.77) 
 
