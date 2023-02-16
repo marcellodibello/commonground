@@ -2,8 +2,8 @@
 title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Skepticism, Tradition and Common Sense"
 author: "Marcello Di Bello - ASU - Spring 2023 - Week #6"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout: default
+  tufte::tufte_html: default
 ---
 
 
@@ -156,44 +156,6 @@ The third problem is that common sense principles are generic. Common sense migh
 
 
 So, if neither tradition nor an appeal to common sense are an adequate 
-response to skepticism, what do we do?^[Lynch in his book has an answer. If you are curious, 
+response to skepticism, what do we do? We are left empty-handed.^[Lynch in his book has an answer. If you are curious, 
 read chapters 5 and 6.]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
