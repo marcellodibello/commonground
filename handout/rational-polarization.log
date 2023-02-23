@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  22 FEB 2023 23:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  23 FEB 2023 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -775,12 +775,12 @@ Package bibentry Warning: You have used \nobibliography*
 
 [4] (./rational-polarization.aux)
 Package rerunfilecheck Info: File `rational-polarization.out' has not changed.
-(rerunfilecheck)             Checksum: E1C8E8DF65B7FE0F74E77154AC23D164;557.
+(rerunfilecheck)             Checksum: 85BCBDF21B56868336BE217AA578D91B;570.
  ) 
 Here is how much of TeX's memory you used:
  13083 strings out of 478994
- 190013 string characters out of 5858184
- 531992 words of memory out of 5000000
+ 190017 string characters out of 5858184
+ 531994 words of memory out of 5000000
  30214 multiletter control sequences out of 15000+600000
  472342 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -790,7 +790,7 @@ exlive/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2
 021/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist
 /fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on rational-polarization.pdf (4 pages, 85337 bytes).
+Output written on rational-polarization.pdf (4 pages, 85472 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream

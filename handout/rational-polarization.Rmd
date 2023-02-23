@@ -2,8 +2,8 @@
 title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Rational Polarization"
 author: "Marcello Di Bello - ASU - Spring 2023 - Week #7"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout: default
+  tufte::tufte_html: default
 ---
 
 
@@ -32,15 +32,15 @@ in these different opinions is also quite high.
 What explains this phenomenon? Does it occur because of a failure of processing 
 evidence correctly or a failure to gather evidence by one group? 
 We discuss today the possibility of 'rational polarization' by reading 
-Kevin Dorst's paper.^[Kevin Dorst, Rational Polarization
-Forthcoming in *The Philosophical Review*.] 
-Another paper we will keep in the background to inform  the discussion 
-is by Thomas Kelly.^[Kelly (2008),  Disagreement, Dogmatism, and Belief Polarization, *The Journal of Philosophy*, 105(10):611-633.]
+Kevin Dorst's paper.^[Dorst, Rational Polarization
+forthcoming in *The Philosophical Review*.] 
+To inform  the discussion, we will also keep in the background  a paper 
+by Thomas Kelly.^[Kelly (2008),  Disagreement, Dogmatism, and Belief Polarization, *The Journal of Philosophy*, 105(10):611-633.]
 
 
 
 
-# Doorst Rational Polarization
+# Dorst on Rational Polarization
 
 
 
@@ -56,7 +56,7 @@ in them. Combined with the informational traps of the modern internet, we have a
 explanation of the rise of polarization. (p. 2)
 
 One part of this story is empirical, but the other is normative: polarization 
-happens because of irrationality. Kevin Dorst shows that 
+happens because of irrationality. Dorst shows that 
 another story is plausible: people's rationality paired with ambiguity in the evidence they process 
 can explain polarization. Hence, polarization can be rational. 
 
