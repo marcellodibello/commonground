@@ -2,8 +2,8 @@
 title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Bubbles and Chambers"
 author: "Marcello Di Bello - ASU - Spring 2023 - Week #8"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout: default
+  tufte::tufte_html: default
 ---
 
 
@@ -86,7 +86,7 @@ credibility. Echo chambers, on the other hand, work by offering a pre-emptive di
 towards any outside sources. (p. 146)
 
 \noindent
-So echo chamber manages to discredit outside information that goes 
+So echo chambers manage to discredit outside information that goes 
 against the set of beliefs held by people inside the echo chamber. 
 
 Here is one striking way the mechanism 
@@ -149,7 +149,7 @@ other experts, including statisticians, chemists, and the programmers of their d
 software. (p. 151)
 
 \noindent
-So echo chambers, on their face, functions in a
+So echo chambers, on their face, function in a
 reasonable manner. The problem is---presumably---they draw the line between trustworthy and untrustworthy sources 
 the wrong way!^[But how can we tell the *right way* of drawing the line between trustworthy and untrustworthy sources?]
 
