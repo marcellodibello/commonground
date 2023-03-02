@@ -1,0 +1,214 @@
+---
+title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Bubbles and Chambers"
+author: "Marcello Di Bello - ASU - Spring 2023 - Week #8"
+output:
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+      background-color:white;
+  }
+  
+</style>
+
+
+This week we examine information ecosystems that may hamper our abilities to acquire and 
+respond to evidence in an unbiased manner.^[Nguyen (2020), Echo Chambers and Epistemic Bubbles, *Episteme*, 17(2), 141-161. The other reading that will serve as background is Lackey (2013), Disagreement and Belief Dependence: Why Numbers Matter. In Christensen and Lackey, *The Epistemology of Disagreement*, Oxford University Press.] Last week, we looked at how people may polarize about certain issues even though they are rational in how they respond to evidence.^[See Dorst, Rational Polarization
+forthcoming in *The Philosophical Review*.] The readings from this week and last week make clear that responding to evidence rationally---by our own lights---need not bring us closer to the truth. Those trapped in a biased ecosystem of information may process evidence rationally---by their own lights. In the end, how can we be sure we are not ourselves trapped in such ecosystem?
+
+# Echo Chambers and Epistemic Bubbles
+
+
+## Epistemic Bubbles (sec. 1)
+
+
+Here is the definition of an **epistemic bubble**:
+
+> An epistemic bubble is *a social epistemic structure which has inadequate coverage through a process
+of exclusion by omission*. Epistemic bubbles form by leaving out relevant epistemic
+sources, rather than actively discrediting them. (p. 143)
+
+\noindent
+The exclusion of information 
+works by two main mechanisms:
+
+> First, there is an epistemic agent’s own tendency to seek like-minded
+sources. This phenomenon is sometimes called “selective exposure” by social scientists. (p. 143)
+
+> Second, there are the processes by which an epistemic agent’s informational landscape
+is modifed by other agents. This might include, say, systematic censorship or media control by the state or other actors. The most worrisome of these external forces, at the moment, seems to 
+be the *algorithmic personal filtering* of online experiences. (p.  144)
+
+\noindent
+People in epistemic bubbles can continue to assess the evidence they are given 
+properly, without any discernible fault in their own reasoning. Yet they are epistemically deficient in that they are exposed to selective, incomplete evidence. A consequence of this selective 
+exposure is *bootstrapped corroboration*:^[Corroboration boosts one's belief whenever the multiple converging pieces of evidence are probabilistically independent, or if not independent, they are not one the mere copy of the other. See Lackey (2013), Disagreement and Belief Dependence: Why Numbers Matter. In Christensen and Lackey, *The Epistemology of Disagreement*, Oxford University Press.]
+
+> Users of social networks and personalized search technologies will encounter agreement more frequently and so be tempted to over-inflate their epistemic self-confidence. This danger threatens because, in general, corroboration is often a very good reason to increase one’s confidence in the relevant beliefs (p. 144)^[How does bootstrapped corroboration work, exactly?]
+
+\noindent
+Here is an illustration of the problem:
+
+> Suppose I believe that the Paleo diet is the best diet. I proceed to assemble a body of peers who I
+trust precisely because they also believe that Paleo is the best diet. In that case, the existence of perfect agreement on Paleo’s amazingness throughout that group ought to count
+for far less than it might for other groups that I had not assembled on that basis. Even if
+all the group members arrived at their beliefs independently, their agreement is already
+guaranteed by my selection principle. To the degree that I have pre-selected the members
+in my epistemic network based on agreement with some set of beliefs of mine, then their
+agreement with that set of beliefs and any other beliefs that it entails ought to be epistemically discounted. (p. 145)^[Contrast this with climate scientists: "suppose that all scientists agreed that climate change was coming. Their agreement is non-independent – the majority of these scientists have not analysed the data for themselves, but trust the expert specialists in climate change. But still, the weight of numbers matters here because the trusting scientists have good epistemic reasons for picking who to trust." (footnote 4, p 145) What is the difference with the Paleo diet example?]
+
+## Echo chambers (sec. 2)
+
+
+An epistemic bubble is easy to burst: 
+break the mechanism of exclusion of evidence 
+and expose the bubble to the relevant counter evidence. 
+More pernicious are instead **echo chambers**:
+
+> I use “echo chamber” to mean *an epistemic community which creates a significant disparity in trust between members and non-members*. This disparity is created by *excluding non-members through epistemic discrediting*, while simultaneously *amplifying members’ epistemic credentials*. Finally, echo chambers are such that *general agreement with some core set of beliefs is a prerequisite for membership*,
+where those core beliefs include beliefs that support that disparity in trust. (p. 146)^[Why does this definition not include things like academia or the scientific community?]
+
+\noindent
+The difference should be clear:
+
+ > Bubbles restrict access to outsiders, but don’t necessarily change their
+credibility. Echo chambers, on the other hand, work by offering a pre-emptive discredit
+towards any outside sources. (p. 146)
+
+\noindent
+So echo chamber manages to discredit outside information that goes 
+against the set of beliefs held by people inside the echo chamber. 
+
+Here is one striking way the mechanism 
+of discrediting can work:
+
+> echo chambers ... contain what I’ll call a *disagreement-reinforcement mechanism*. Members can be
+brought to hold a set of beliefs such that the existence and expression of contrary beliefs
+reinforces the original set of beliefs and the discrediting story. (p. 147)^[How does disagreement reinforcement work, exactly? Can you give an example?]
+
+\noindent
+The mechanism of disagreement reinforcement 
+is the inversion of the mechanism of bootstrapped corroboration
+in epistemic bubbles:
+
+> In corroborative bootstrapping, the mistake is to treat problematically dependently
+selected insiders as if they were independent, and thus overweight their testimony. When
+an echo chamber uses a conspiracy theory in this manner, they are attributing a problematic form of non-independence to outsiders who are actually independent, and thereby underweighting outside testimony. An echo chamber here works by discrediting the apparent independence of, say, different climate change scientists by claiming that all their various testimonies are problematically derived from a single source.  (p. 148)
+
+## Post-truth (Sec. 3)
+
+The concept of an echo chamber, as distinct from an epistemic bubble, 
+has significant explanatory power, for example, in understanding the 
+phenomenon of so-called post-truth.
+
+Post-truth cannot 
+be explained by epistemic bubbles:
+
+> Since epistemic bubbles work only via coverage gaps, they offer little in the way of
+explanation for why an individual would reject clear evidence when they actually do
+encounter it. Coverage gaps cannot explain how somebody could, say, continue to
+deny the existence of climate change when actually confronted with the overwhelming
+evidence. One would be tempted, then, to accuse climate change deniers of some kind of
+brute error. (p. 150)
+
+\noindent
+But post-truth can be explained by echo chambers:
+
+> echo chambers offer an explanation of the phenomenon without resorting
+to attributions of brute irrationality. Climate change deniers have entered an epistemic
+structure whereby all outside sources of evidence have been thoroughly discredited.
+Entering that epistemic structure might itself involve various epistemic mistakes and
+vices – but here the story can be one of the slow accumulation of 
+minor mistakes, which gradually embed the believer in a self-reinforcing, 
+internally coherent, but ultimately misleading epistemic structure. (p. 151)
+
+\noindent
+So it would be too simplistic to say that climate change deniers---or pick your favorite post-truth position, flat-earth, vaccine skepticism, etc.---cannot respond to evidence rationally. They do by their own lights---given the "truth indicators" they trust. 
+
+Echo chambers sustain themselves by drawing a line between trustworthy 
+sources and untrustworthy ones. Crucially, drawing this line is necessary given the complex 
+information society we live in. We cannot examine first-hand every source of information. 
+We must trust some sources and distrust others:
+
+> Except for empirical evidence I myself have gathered, all other presentations of evidence rely on trust. My belief in the reality of climate change depends on enormous amounts of institutional trust. I have
+not gathered the climate change evidence myself; I mostly just trust science journalists
+who, in turn, trust institutional credentialing systems. Even if I had been on, say, a core
+sampling expedition to the Arctic, I would be unable to process that information for
+myself, or even vet whether somebody else has properly processed it. Even the climatologist who actually processes that information must also depend on trusting a vast array of
+other experts, including statisticians, chemists, and the programmers of their data analysis
+software. (p. 151)
+
+\noindent
+So echo chambers, on their face, functions in a
+reasonable manner. The problem is---presumably---they draw the line between trustworthy and untrustworthy sources 
+the wrong way!^[But how can we tell the *right way* of drawing the line between trustworthy and untrustworthy sources?]
+
+## Escape (Sec. 4)
+
+The final question is, how could one escape an echo chamber? How can people trapped in an echo chamber realistically manage to escape it? Exposure to contrary evidence would not work, because of the discrediting mechanism that sustains echo chambers. Particularly difficult is the case of those who have grown up in echo chambers.
+
+The story of a former neo-Nazi leader 
+Derek Black is instructive. 
+The first thing is that Derek 
+underwent a *social epistemic rebooting*, which is a suspension of 
+the "credentialing system" operating within his echo chamber:^[Two questions. First: How does this differ from Descartes' infamous *epistemic rebooting*? Second: what role does the "commutative evidence principle" play in making this social rebooting possible? On the commutativity principle, see the reading from last week: Kelly (2008),  Disagreement, Dogmatism, and Belief Polarization, *The Journal of Philosophy*, 105(10):611-633.]
+
+> When Black left the movement, he went through a
+years-long process of self-transformation. He had to completely abandon his belief system,
+and he spent years re-building a world-view of his own, immersing himself broadly and
+open-mindedly in everything he’d missed (p. 158)
+
+Second, to make this social rebooting feasible, 
+there should be a turning point that disrupts the credentialing system 
+that sustains the echo chamber. In the 
+case of Black, that turning point was this:
+
+> Matthew Stevenson, a Jewish fellow undergraduate, began to invite
+Black to his Shabbat dinners. Stevenson was unfailingly kind, open, and generous, and
+he slowly earned Black’s trust. This eventually lead to a massive upheaval for Black – a
+slow dawning realization of the depths to which he had been systematically misled.
+Black went through a profound transformation and is now an anti-Nazi spokesperson.
+The turning point seems to be precisely that Stevenson, an outsider, gained Black’s
+trust.  (p. 158)
+
+\noindent
+This should not be surprising. Echo chamber sustain themselves by discrediting external 
+sources. When an external source becomes trustworthy by a member of the echo chamber, the internal discrediting mechanism breaks down:
+
+ > Echo chambers work by a manipulation of trust. Thus, the route to undoing their infuence is not through direct exposure to supposedly neutral facts and information; those sources have been pre-emptively undermined.
+It is to address the structures of discredit – to work to repair the broken trust between echo
+chamber members and the outside social world. (p. 161)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
