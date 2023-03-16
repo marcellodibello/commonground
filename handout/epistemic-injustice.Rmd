@@ -1,0 +1,263 @@
+---
+title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Epistemic Injustice"
+author: "Marcello Di Bello - ASU - Spring 2023 - Week #9"
+output:
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+      background-color:white;
+  }
+  
+</style>
+
+
+This week we discuss epistemic injustice. This expression refers to situations in which certain people---because of their identity (gender, race. etc.)---are excluded from knowledge production and inquiry, and this exclusion is unwarranted and harmful.^[This injustice  is called *epistemic* because it limits someone's participation in epistemic practices and cannot be fully explained by non-epistemic considerations, such as material disadvantage, physical harm or discrimination.]
+
+Following the work of Miranda Fricker, two types of epistemic injustice can be distinguished: (1) testimonial injustice and (2) hermeneutical injustice. We will focus on the latter but also briefly discuss the former.
+Testimonial injustice occurs when a speaker is afforded limited credibility
+because of a prejudice against their identity (gender, race, etc.). Hermeneutical injustice, instead, 
+occurs when a speaker's assertions are regarded as unintelligible, again 
+because of an identity-based prejudice.^[The distinction is drawn in Miranda Fricker (2007), *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford University Press. We will read chapter 7 on hermeuntical injustice.]
+
+
+
+
+
+
+
+
+
+# Hermeneutical injustice
+
+
+## Motivating the concept (Sec. 7.1)
+
+An important part of being human is the ability to communicate 
+with others and be understood by others. This communication can 
+be mundane, but also deep and personal. When someone is not able to 
+communicate  meaningful experiences and be understood, 
+their humanity, self-knowledge and self-realization 
+is under threat (more on this later). We could blame this inability on 
+the person itself---their inability to communicate---or we could look 
+at the power structures of society that hinder understanding:
+
+>  the powerful tend to have
+appropriate understandings of their experiences ready to draw on as they
+make sense of their social experiences, whereas the powerless are more
+likely to find themselves having some social experiences through a glass
+darkly, with at best ill-fitting meanings to draw on in the effort to render
+them intelligible.(p. 148)
+
+For example, imagine a woman who was the target of sexual harassment in a male-dominated workplace at a time when the concept "sexual harassment" did not even exist. She would be unable to communicate in terms legible by others---if they are not other women also subject to harassment---what happened to her, even though she would experience tremendous distress and harm.^[See the example of Camita Wood on pp. 149--150.]
+
+The inability to communicate and be understood by others 
+is particularly  harmful to the harassee:
+
+> the harassee’s cognitive disablement is seriously
+disadvantageous to her. The cognitive disablement prevents her from
+understanding a significant patch of her own experience: that is, a
+patch of experience which it is strongly in her interests to understand,
+for without that understanding she is left deeply troubled, confused,
+and isolated, not to mention vulnerable to continued harassment. Her
+hermeneutical disadvantage renders her unable to make sense of her
+ongoing mistreatment, and this in turn prevents her from protesting it,
+let alone securing effective measures to stop it. (p. 151)
+
+Fricker draws heavily from the history of marginalization of women and gay men, but examples can be drawn from 
+individuals who belong to any minoritized group.^[Can you think of other examples, say involving race? What are analogies and difference?]
+
+
+## Defining the concepts (Sec. 7.2)
+
+Hermeneutical injustice stems from the hermeneutical marginalization 
+ of certain social groups who are partially or totally excluded from the construction of meanings and 
+concepts used to describe the human experience.
+As a consequence of this marginalization, certain experiences will be described in 
+ways that reflect the perspective of the dominant groups:
+
+>  for instance, sexual harassment as flirting, rape in marriage as non-rape, post-natal depression as hysteria, reluctance to work family-unfriendly hours as unprofessionalism,
+and so on (p. 155)
+
+In light of hermeneutical marginalization, here is 
+a definition of hermeneutical injustice:
+
+> the injustice of having some significant area of one’s social experience
+obscured from collective understanding owing to persistent and wide-ranging
+hermeneutical marginalization. (p.154)
+
+\noindent
+Instead of hermeneutical marginalization, we can speak of 
+identity prejudice, which is one possible mechanism driving hermeneatical 
+marginalization.^[Can hermeneutical marginalization happen without identity prejudice?] So a slightly different definition of hermeneutical injustice goes like this:
+
+> the injustice of having some significant area of one’s social experience obscured
+from collective understanding owing to a structural identity prejudice in the
+collective hermeneutical resource. (p. 155)
+
+\noindent
+A third definition goes like this:
+
+> the injustice of having some significant area of one’s social experience
+obscured from collective understanding owing to
+hermeneutical marginalization. (p.158)
+
+\noindent
+Here the only difference is that the hermeneutical marginalization need not be persistent 
+and wide-ranging. So hermeneutical injustice can be *systemic* or *incidental*.^[An example of incidental hermeneutical injustice is Jose's case on pp. 156-157.] Only systemic hermeneutical injustice correlates 
+with larger trends in society:
+
+> in such [systemic] cases the hermeneutical
+marginalization is part of a more general susceptibility to different forms
+of social marginalization, so that any given hermeneutical injustice
+incurred is likewise part of a more general susceptibility to different
+kinds of injustice. (pp. 159)
+
+\noindent
+Hermeneutical injustice, in the systemic case, will tend to compound 
+testimonial injustice. So the victim of epistemic injustice will not be understood (hermeneutical injustice) and their testimony will not be considered credible (testimonial injustice):^[What is, exactly, the difference between hermenutical and testimonial injustice?]
+
+> If they try to articulate a scantly understood
+experience to an interlocutor, their word already warrants a low prima
+facie credibility judgement owing to its low intelligibility. But if the
+speaker is also subject to an identity prejudice, then there will be a
+further deflation. In such a case, the speaker is doubly wronged: once by
+the structural prejudice in the shared hermeneutical resource, and once
+by the hearer in making an identify-prejudiced credibility judgement (p. 159)
+
+
+## The wrong of hermeneutical injustice (sec. 7.3)
+
+The harms of hermenutical injustice can be numerous.
+First, the primary harm is someone's exclusion from contributing to the process of 
+knowledge production:^[This is not exclusion from the knowledge production of, say, cancer research or space exploration due to lack of appropriate qualifications. Rather, it is exclusion from the creation of shared concepts for understanding the human experience.]
+
+
+> the subject is rendered unable to make communicatively
+intelligible something which it is particularly in his or her interests to be
+able to render intelligible ... the primary harm
+of (the central case of ) hermeneutical injustice concerns exclusion from
+the pooling of knowledge owing to structural identity prejudice in the
+collective hermeneutical resource. (p. 162)
+
+
+Second, there are also secondary practical harms. 
+Failure to make oneself intelligible 
+to others may hinder one's material 
+life prospects in different ways: quality of 
+life, family relations, job prospects, 
+professional development, access to welfare benefits, etc. 
+Secondary harm can also be epistemic, not only material. For example, 
+if one is not understood, one can start loosing epistemic confidence 
+in one's ability to understand the world.^[From p. 163: "loss of epistemic confidence might hinder
+one’s epistemic career ... it can cause literal loss of
+knowledge ... may prevent one from gaining new knowledge, and
+more generally ... it is likely to stop one gaining certain important
+epistemic virtues, such as intellectual courage."]
+
+Third, hermeneutical injustice can also hinder 
+one's ability of self-knowledge and self-understanding:
+
+> The primary harm of hermeneutical injustice, then, is to be understood 
+... also in terms of the very
+construction (constitutive and/or causal) of selfhood. In certain social
+contexts, hermeneutical injustice can mean that someone is socially
+constituted as, and perhaps even caused to be, something they are
+not, and which it is against their interests to be seen to be. (p. 168)^[Seethe examples on pp. 164--165.]
+
+
+
+It is instructive to compare the harms of 
+hermeneutical injustice and testimonial injustice:
+
+> The wrong of testimonial injustice is inflicted individual to individual, so
+that there are immediate questions to be answered concerning the
+hearer’s culpability or non-culpability and, more generally, concerning what virtue it is desirable to cultivate in ourselves as hearers. By contrast, hermeneutical injustice is not inflicted by any agent, but
+rather is caused by a feature of the collective hermeneutical 
+resource—--a one-off blind spot (in incidental cases), or (in systematic cases) a lacuna generated by a structural identity prejudice in the hermeneutical repertoire. Consequently, questions of culpability do not arise in the
+same way. (p. 168)
+
+
+## The virtue of hermeneutical justice (Sec. 7.4)
+
+
+How can we counter hermeneutical injustice? What does hermeneutical 
+justice look like?
+
+> The form the virtue of hermeneutical justice must take, then,
+is an alertness or sensitivity to the possibility that the difficulty one’s
+interlocutor is having as she tries to render something communicatively
+intelligible is due not to its being a nonsense or her being a fool,
+but rather to some sort of gap in collective hermeneutical resources.
+The point is to realize that the speaker is struggling with an objective
+difficulty and not a subjective failing. (p. 169)
+
+This sensitivity should guide the hearer to form a counterfactual 
+interpretative maxim along the lines: what would the speaker be saying in an environment 
+that was not affected by hermeneutical marginalization.^[How does this interpretative maxim 
+compare to Davidson's principle of charity? Note that this context-sensitive virtue 
+contrasts with blanketed policy of epistemic affirmative action:"a policy applied to speakers simply in
+virtue of their membership of some negatively stereotyped or powerless
+group would not be justified: the speaker may be a woman, but the
+fact that she is white and middle-class may mean that there is no
+hermeneutical gap depriving her of the expressive resources she needs,
+in the context, to render herself intelligible. I therefore suggest that the
+best way to honour the compensatory idea is in the form of a capacity
+for indefinitely context-sensitive judgement—in the form, then, of
+a virtue." (p. 171)]
+
+
+The virtuous hearer will do a number of things, depending on the circumstances. 
+When time and resources permit, the virtuous hearer does two apparently contradictory things: 
+being less critical of what the other speaker says, but also seek on their 
+own corroborating evidence for what the speaker says:
+
+> it is rational for him to drop the presumption against
+acceptance, and also to assume some increased burden of seeking
+corroborating evidence. These two norms are clearly part and parcel
+of the context-sensitive judgements made by the hermeneutically just
+hearer. (p. 171)
+
+\noindent
+When there is no time for researching corroborating evidence, the virtuous hearer should 
+keep an open mind and not doubt the speaker's credibility upfront, simply because it 
+seems to make little sense.
+
+In the end, the hope is that:
+
+> Even though this virtue can only mitigate, rather
+than pre-empt, any given instance of hermeneutical injustice, none
+the less the collective exercise of the virtue could ultimately lead to
+the eradication of hermeneutical injustice.(p. 174)^[Fricker, however, also adds immediately after: "This
+cheering reflection needs, however, to be tempered with the thought
+that hermeneutical marginalization is first and foremost the product
+of unequal relations of social power more generally, and as such is
+not the sort of thing that could itself be eradicated by what we do
+as virtuous hearers alone." (p. 174)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
