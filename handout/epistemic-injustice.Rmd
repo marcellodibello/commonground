@@ -49,7 +49,7 @@ be mundane, but also deep and personal. When someone is not able to
 communicate  meaningful experiences and be understood, 
 their humanity, self-knowledge and self-realization 
 is under threat (more on this later). We could blame this inability on 
-the person itself---their inability to communicate---or we could look 
+the person---their inability to communicate---or we could look 
 at the power structures of society that hinder understanding:
 
 >  the powerful tend to have
@@ -75,7 +75,7 @@ ongoing mistreatment, and this in turn prevents her from protesting it,
 let alone securing effective measures to stop it. (p. 151)
 
 Fricker draws heavily from the history of marginalization of women and gay men, but examples can be drawn from 
-individuals who belong to any minoritized group.^[Can you think of other examples, say involving race? What are analogies and difference?]
+individuals who belong to any minoritized group.^[Can you think of other examples, say involving race? What are analogies and differences?]
 
 
 ## Defining the concepts (Sec. 7.2)
@@ -114,7 +114,7 @@ hermeneutical marginalization. (p.158)
 
 \noindent
 Here the only difference is that the hermeneutical marginalization need not be persistent 
-and wide-ranging. So hermeneutical injustice can be *systemic* or *incidental*.^[An example of incidental hermeneutical injustice is Jose's case on pp. 156-157.] Only systemic hermeneutical injustice correlates 
+and wide-ranging. So hermeneutical injustice can be *systemic* or *incidental*.^[An example of incidental hermeneutical injustice is Joe's case on pp. 156-157.] Only systemic hermeneutical injustice correlates 
 with larger trends in society:
 
 > in such [systemic] cases the hermeneutical
@@ -151,14 +151,14 @@ the pooling of knowledge owing to structural identity prejudice in the
 collective hermeneutical resource. (p. 162)
 
 
-Second, there are also secondary practical harms. 
+In addition, there are also secondary practical harms. 
 Failure to make oneself intelligible 
 to others may hinder one's material 
 life prospects in different ways: quality of 
 life, family relations, job prospects, 
 professional development, access to welfare benefits, etc. 
 Secondary harm can also be epistemic, not only material. For example, 
-if one is not understood, one can start loosing epistemic confidence 
+if one is not understood, one can start losing epistemic confidence 
 in one's ability to understand the world.^[From p. 163: "loss of epistemic confidence might hinder
 one’s epistemic career ... it can cause literal loss of
 knowledge ... may prevent one from gaining new knowledge, and
@@ -203,7 +203,7 @@ The point is to realize that the speaker is struggling with an objective
 difficulty and not a subjective failing. (p. 169)
 
 This sensitivity should guide the hearer to form a counterfactual 
-interpretative maxim along the lines: what would the speaker be saying in an environment 
+interpretative maxim along the lines: think what the speaker would be saying in an environment 
 that was not affected by hermeneutical marginalization.^[How does this interpretative maxim 
 compare to Davidson's principle of charity? Note that this context-sensitive virtue 
 contrasts with blanketed policy of epistemic affirmative action:"a policy applied to speakers simply in
@@ -217,7 +217,6 @@ for indefinitely context-sensitive judgement—in the form, then, of
 a virtue." (p. 171)]
 
 
-The virtuous hearer will do a number of things, depending on the circumstances. 
 When time and resources permit, the virtuous hearer does two apparently contradictory things: 
 being less critical of what the other speaker says, but also seek on their 
 own corroborating evidence for what the speaker says:

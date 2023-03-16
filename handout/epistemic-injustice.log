@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  15 MAR 2023 17:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  16 MAR 2023 13:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -754,7 +754,7 @@ LaTeX Warning: Marginpar on page 3 moved.
 LaTeX Warning: Marginpar on page 4 moved.
 
 
-Overfull \hbox (7.90971pt too wide) in paragraph at lines 341--344
+Overfull \hbox (7.90971pt too wide) in paragraph at lines 340--343
 \T1/pplj/m/n/10 vir-tu-ous hearer should keep an open mind and not doubt the sp
 eaker's 
  []
@@ -784,7 +784,7 @@ exlive/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2
 021/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist
 /fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on epistemic-injustice.pdf (4 pages, 80422 bytes).
+Output written on epistemic-injustice.pdf (4 pages, 80353 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
