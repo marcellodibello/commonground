@@ -1,0 +1,217 @@
+---
+title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Overlapping Consensus"
+author: "Marcello Di Bello - ASU - Spring 2023 - Week #10"
+output:
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+      background-color:white;
+  }
+  
+</style>
+
+
+Today's topic is *political liberalism*. This is the view that (i) citizens are free and equal and thus the exercise of state coercive power should be justified to them in ways they can reasonably accept, and (ii) since people reasonably disagree about the good life, the state should not impose on its citizens a particular view of the good life, but rather, it should only secure fair conditions of cooperation so that citizens can pursue their own conception of the good life.^[These claims are defended most famously in the 1993 book *Political Liberalism* by John Rawls.] Political liberalism thus understood differs from *liberal perfectionism*, the view that political action should enable citizens to pursue valid conceptions of the good life and discourage evil ones.^[See for example, Joseph Raz (1996), *The Morality of Freedom*, Oxford: Clarendon Press.] 
+
+# Political liberalism: internal and external
+
+The puzzle for political liberalism is this: if pluralism about different conceptions of the good life is an undeniable fact of liberal societies, how can political liberalism be justified to all citizens? Jonathan Quong -- whose book we discuss today^[Quong (2020), *Liberalism Without Perfectionism*, Oxford University Press. We'll focus on chapter 10 in particular.] -- puts it as follows:
+
+>  Since citizens seem to disagree about so much, how can we be confident that a liberal conception of justice
+can be publicly justified to such a diverse constituency? (p. 5)
+
+\noindent
+There are two ways to understand this puzzle. *Externally*, the puzzle is, how can liberalism be justified to all, even the illiberal citizens? Quong does not address this external question. Rather, his focus is on the justification of political liberalism in a pluralist society in which the citizens already subscribe to basic liberal principles. More specifically:
+
+> The aim is ... to understand what kinds of arguments, if any, citizens already committed to certain
+basic liberal norms can legitimately offer to one another. By ‘basic liberal norms’
+I mean fairly abstract values such as the idea of persons as free and equal, or a general
+commitment to fairness in the distribution of goods or advantages amongst citizens.
+... Political liberalism, on my account, is thus a
+theory that explains how the public justification of political power is possible
+amongst an idealized constituency of persons who are committed to certain fundamental, but fairly abstract, liberal values. (p. 5)
+
+\noindent
+This is an *internal* conception of political liberalism. This rather modest view 
+of liberalism can seem too weak to some:
+
+>  Some people may find this rather large assumption to be deeply frustrating. The real issue, they will
+complain, is whether we ought to be liberals at all. A book that purports to be
+about liberal political philosophy surely should start by providing some kind of
+justification of liberalism when compared to non-liberal alternatives. (p. 8)
+
+\noindent
+Quong, however, believes the external conception of liberalism is an 
+overreach:
+
+> I have my doubts as to whether it makes any sense to claim that liberalism
+can or must be justifiable to all points of view, including illiberal groups like
+Nazis, other racists, or religious fundamentalists ... I therefore agree with Burton Dreben when he
+says, ‘sometimes I am asked, when I go around speaking for Rawls, What do you
+say to an Adolf Hitler? The answer is [nothing]. You shoot him’. (p. 8)
+
+
+
+# Unreasonable citizens
+
+Let's now focus on Chapter 10 of Quong's book 
+on unreasonable citizens. They are those to whom 
+the principles of the liberal state cannot be justified.
+More specifically, unreasonable citizen are those who deny 
+at least one of the following three tenets:
+
+> (a)that political society should be a fair system of social cooperation for mutual
+benefit, (b) that citizens are free and equal, and (c) the fact of reasonable
+pluralism. Similarly, one qualifies as unreasonable if one accepts these ideals,
+but fails to accord them deliberative priority in one’s practical reasoning. (p. 291)^[Use these three 
+criteria to find examples of unreasonable citizens. 
+Do these examples fit your intuitions of unreasonable citizens?]
+
+With this definition in place, we should ask: To what extent should the liberal 
+state tolerate unreasonable citizens? In particular, Quong explores two questions 
+about how the liberal state should respond to unreasonable citizens. 
+The first question is:
+
+> are unreasonable
+citizens entitled to the same liberal rights and benefits as other, reasonable citizens? (p. 290)
+
+\noindent
+The answer to this question is yes (See 10.1 and 10.2). 
+This claim does not seem very controversial, so we'll set it aside 
+and focus on the second, more controversial question:
+
+> are there special circumstances where the state would
+be justified in infringing the rights of unreasonable 
+citizens, although it would be impermissible to do so to reasonable citizens? (p. 290)
+
+\noindent 
+Quong thinks the answer should be yes. This answer seems quite radical.^[What difference does it make, exactly, that this answer only holds within an *internal* conception of political liberalism?] 
+We will summarize his argument below (10.3 and 10.4).
+
+# The argument for containement 
+
+The question whether the rights of unreasonable citizens 
+can be infringed by the liberal state should be made precise. 
+What would that infringement be like? Rawls famously talks about 'containment', but the word 
+is still too generic. Here is Quong's more precise definition:
+
+>  The containment of unreasonable doctrines can thus be defined in the following way: any policy whose primary
+intention is to undermine or restrict the spread of ideas that reject the fundamental
+political values, that is, (a) that political society should be a fair system of social
+cooperation for mutual benefit, (b) that citizens are free and equal, and (c) the
+fact of reasonable pluralism. (p. 299)
+
+\noindent
+Note the reference to the containment of unreasonable *doctrines*, 
+not unreasonable *people* as such. The phrase 'unreasonable citizens' is for Quong just 
+a shorthand for unreasonable views, doctrines or ideas.^[The distinction is important: "Strictly speaking, therefore, it is not the unreasonable *citizen* who is excluded by public reason, but rather unreasonable *views or
+claims*. For simplicity and ease of exposition, however, I will refer to unreasonable citizens, but we should always bear in mind that this term refers to certain aspects of a person’s beliefs or behaviour, rather than referring to a clearly identifiable class of real people" (p. 291)]
+
+## Threat to stability
+
+The argument for containment of unreasonable people (that is, their unreasonable views) 
+consists of two parts. The first part is this. The spread of 
+unreasonable views poses a threat to the stability of a well-ordered society:
+
+>  It is therefore essential that doctrines
+which deny the freedom and equality of persons, or the idea of society as a fair
+system of cooperation, not become so prevalent that they threaten to undermine
+the fundamental ideals of a well-ordered liberal regime. History tells us that
+regimes where these basic liberal ideals are not firmly entrenched have been
+vulnerable to gross violations of human rights and other serious injustices. (p. 300)
+
+\noindent
+The next part of the argument consists in showing that 
+the threat to stability is strong enough to outweigh 
+other reason for tolerance towards unreasonable citizens.^[As I interpret it, the challenge here is to show that the balance of reasons for/against intolerance against unreasonable citizens tips in favor of intolerance.] 
+
+Quong gives the example (p. 301) of a private education system that inculcates illiberal principles to 
+its student---principles against liberal principles such as (a) society as a fair system of cooperation, (a) freedom and equality of citizens, (c) the fact of reasonable pluralism---even though from an academic point of view the students perform very well.  Since this private education system is a threat to the liberal order, 
+the liberal state is entitled to 'contain' this illiberal education system.^[Is the proposal here that the school should be closed or its curriculum changed to align with liberal principles?]
+
+The most pressing objection here is this:
+
+> what if a few unreasonable groups persist in reasonably just liberal
+democratic societies? In countries like Canada, Great Britain, or the United States
+such fringe groups cannot plausibly be seen as real threats to political stability. (p. 303)
+
+\noindent
+So, if minority groups are small or fringe enough, they would not be a threat to the liberal order, and thus there would be no ground for intolerance towards them. Quong grants the force of this objection. He seems to accept that intolerance is only justified when the liberal order is under an *existential threat*:
+
+> In deciding whether the goal of
+containment does justify rights infringements of the sort considered here, we
+should assess how real the threat is to the liberal democratic order. (p. 304)
+
+\noindent
+More generally, there should also be a presumption against intolerance which remains---as it were---an *extrema ratio*, *ultima spes*, *refugium peccatorum*:
+
+> the practical application of the containment argument should always be tempered by a strong
+presumption in favour of non-interference. My aim in this section has not been to
+deny the practical dangers that this principle might involve, but rather to
+demonstrate its justifiability at the level of principle. (p. 305)
+
+
+# Is there is a right to be unreasoable? No
+
+The containment argument is strengthen by the argument that unreasonable people 
+do not have a right to be unreasonable, even though they might have a right 
+to pursue wrong actions.^[The right to pursue wrong actions is defended By Jeremy Waldron (1981), A right to Do wrong, *Ethics*, 92(1), pp. 21-39.] So do unreasonable people have a right to be unreasonable---do 
+Nazis have a right to spread Nazi ideology in the name of the right to free speech?
+
+Quong holds that the Nazi have no right to spread illiberal doctrines in the name of the right to free speech.^["Nazis want to use their right to free speech to make speeches inciting others to suppress the free
+speech rights of the communists. If we think that the Nazis really are exercising
+their right to free speech, then it seems we must balance this right against the
+probability that it will result in the suppression of the communists’ similar right
+in order to make our decision." (p. 310)] 
+The key idea is that spreading unreasonable views---say, via a school system---is likely to 
+undermine the very system of rights and freedoms that 
+the liberal state is meant to uphold. For Quong, this is not just an empirical, 
+but a conceptual difficulty: 
+
+> the Nazis cannot be coherently understood as exercising a liberal right at
+all, if we understand such rights to be grounded in the ideal of society as a fair
+system of social cooperation between free and equal citizens, each of whom are
+owed a reasonable justification for the exercise of political power. (p. 310)] 
+
+\noindent
+In other words, I cannot coherently be protected by the right to free speech 
+if my exercise of this right is intended to undermine the very 
+right that I am invoking.^[Does it make a difference if the Nazis are spreading Nazi ideas not because they truly believe such ideas, but in the name of pluralism? In this case, Quong would not object to spreading Nazis ideas. Is this correct?] 
+
+However, the fact that citizens have no right to be unreasonable does not 
+entail *ipso facto* that unreasonable views must be automatically contained, 
+all the time in every case. This will largely depend on how serious 
+a threat they pose for the liberal state:
+
+> The state should only intervene in the lives of its citizens when it has 
+good reasons to do, and so even though there is no right to behave unreasonably, 
+there is also often no reason to intervene (pp. 311-312)^[Compare this with Rawls's remark that "Let us suppose, then, that the intolerant sect has no title to complain of intolerance. We still cannot say that tolerant sects have the right to suppress them . . . For justice is infringed whenever equal liberty is denied *without sufficient reason*" (cited on p. 312 of Quong's book)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
