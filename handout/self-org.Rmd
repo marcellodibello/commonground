@@ -50,7 +50,7 @@ of political justice grounded in an overlapping consensus look like?
 In short, this overlapping consensus contains two key tenets: (a) citizens are free and equal; and (b) a political society is a fair system of social cooperation. The problem of political justice, then, is the problem of specifying 
 the fair terms of social cooperation between free and equal citizens. 
 
-Rawls does not say how this overlapping consensus comes about, however. He conjectures that, in a democratic liberal society such as ours, an overlapping consensus will emerge and stabilize over time. There might still be unreasonable citizens who hold views that are incompatible with the overlapping consensus---say, they think citizens are not equal, or they think that a political society should not be a fair system of cooperation---but they will tend to reside on fringes. Some philosophers in the Rawlsian tradition, such as Jonathan Quong, argue that the state can legitimately suppress unreasonable views when they pose an existential threat to the liberal state.^[See chapter 10 of Quong, *Liberalism without Perfectionism*, Oxford University Press.] 
+Rawls does not say how this overlapping consensus comes about, however. He conjectures that, in a democratic liberal society such as ours, an overlapping consensus will emerge and stabilize over time. There might still be unreasonable citizens who hold views that are incompatible with the overlapping consensus---say, they think citizens are not equal, or they think that a political society should not be a fair system of cooperation---but they will tend to reside on the fringes. Some philosophers in the Rawlsian tradition, such as Jonathan Quong, argue that the state can legitimately suppress unreasonable views when they pose an existential threat to the liberal state.^[See chapter 10 of Quong, *Liberalism without Perfectionism*, Oxford University Press.] 
 
 # I/we believe we ought
 
@@ -95,7 +95,7 @@ This is an empirical question that
 cannot be theorized from the armchair. As apparent in the quotation, 
 Gaus's moral pluralism is modeled along two key dimensions. They can be spelled out thusly:
 
-(i) each agent assigns an *inherent* preference score, say between 0 and 10, to moral rules $R_i$'s, where the score is inherent in the sense that it does not take into account whether other agents share the same assessment for the rule in question (denote this by $\mu_A(R_i)$, with $A$ the agent in question and $R_i$ the given moral rule);
+(i) each agent assigns an *inherent* preference score, say between 0 and 10, to moral rules $R_i$'s, where the score is inherent in the sense that it does not take into account whether other agents share the same assessment of the rule in question (denote this by $\mu_A(R_i)$, with $A$ the agent in question and $R_i$ the given moral rule);
 
 (ii) each agent assigns a *relational* preference weight^[Gaus focuses on four paradigmatic relational weighting preferences, which he calls: quasi-Kantian; linear agents; moderately conditional agents; highly conditional cooperators; see Figure 4 on page 13.] between 0 and 1 to moral rules $R_i$'s, where the weight depends on how many other people share the same assessment of the rule (denote this by $w_{B(n)}(R_i)$ where $B$ is the agent in question, $R_i$ the given moral rule, $n$ the number of agents who agree with agent $B$ about $R_i$).
 
@@ -128,7 +128,7 @@ preferring the former and others preferring the latter.
 \vspace{2mm}
 \noindent
 *Model I - fully random:* People  randomly assign scores $\mu$ between 0 and 10 to $R_1$ and $R_2$.
-Agents are randomly assigned one of the four weighing types. 
+Agents are randomly assigned one of the four weighting types. 
 The starting point is an almost even split, where 51 people prefer 
 $R_2$ and the rest prefer $R_1$. In this model, after a few iterations, 
 everybody ends up preferring $R_2$.^[See Figure 5, p. 17. The omission of highly conditional cooperators from the simulation slowed down the process of convergence, but did not make it impossible; see Figure 6, p. 18]
