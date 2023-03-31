@@ -1,9 +1,9 @@
 ---
 title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Political Liberalism"
-author: "Marcello Di Bello - ASU - Spring 2023 - Week #10"
+author: "Marcello Di Bello - ASU - Spring 2023 - Week #11"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout: default
+  tufte::tufte_html: default
 ---
 
 
