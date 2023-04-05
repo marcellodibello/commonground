@@ -1,0 +1,213 @@
+---
+title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Individualism and Conflict"
+author: "Marcello Di Bello - ASU - Spring 2023 - Week #13"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+      background-color:white;
+  }
+  
+</style>
+
+
+Political philosophy, in the analytic tradition, is often concerned with freedom (liberty, autonomy, self-realization) and equality (fairness, distributive justice). For one thing, the lack of a common ground 
+can be viewed as a lack of equality -- deep disparities in income and wealth entrench other divisions between people, in  lifestyles, health, education, political ideals, etc. On the other, freedom (of thought, religious association, commerce, etc.) can also drive societal divisions. 
+
+In the last two classes, we focused on the first of these  values, liberty. If people are allowed to freely pursue their own conception of the good life, reasonable pluralism, as John Rawls calls it, will be inevitable. The question, then, is how to develop a conception of political justice (and thus also a conception of equality) that is compatible with the fact of reasonable pluralism.
+
+Rawls's answer is the notion of an overlapping consensus---a conception of political justice that reasonable people share. This conception, in a nutshell, consists in the idea of a society governed by rules for fair cooperation among free and equal citizens.^[John Rawls (1987), The Idea of an Overlapping Consensus, *Oxford Journal of Legal Studies*, 7(1)].  Gerard Gaus---whose work we read last time^[See, in particular, Gaus (2017), Self-organizing moral systems: Beyond social contract theory, *Philosophy, Politics and Economics*, 17(2). See also Gaus (2018), The Complexity of a Diverse Moral Order, *The Georgetown Journal of Law \& Puplic Policy*, 16(S)}.]---thought that political liberalism a la Rawls is too restrictive and does not recognize the value of moral diversity in society. Gaus argues that a morally diverse society is still likely to converge on certain social rules, but not because this convergence is imposed top-down by philosophical theorizing, but rather, it emerges spontaneously bottom-up. 
+
+
+# Freedom, equality, community
+
+
+Today we read Waheed Hussain's work.^[Waheedn Hussain, Pitting People Against Each Other, *Philosophy \& Public Affairs*, 48(1), 79-113.] Besides freedom and equality, political philosophy---Hussain argues---should also take seriously the threat of 'pitting people against each other'. He worries that our competitive society threatens the values of community, understood as a web of social relations in which people care for one another in a non-competitive environment. Focusing excessively on freedom and equality, political philosophy in the analytic tradition has lost sight of the value of community. This is the basic claim:
+
+> A society’s basic institutions can
+mistreat people in various ways: for example, institutions can fail to 
+provide people with fundamental rights and freedoms, or they can unfairly
+advantage some people over others. But in addition, institutions can mistreat
+people by defining a normative framework in which the only way for one
+person to secure an important good is by formulating and successfully carrying out a plan that interferes with some other person’s formulating and successfully carrying out a plan to secure an important good. That is, institutions
+can define a framework in which people have to struggle against each other
+or, as I will put it, institutions can “pit people against each other.” (p. 79-80)
+
+
+## The physics department hypothetical (Sec. II, III, IV, V)
+
+
+As is often the case in analytic philosophy, the argument begins with a stylized example used to pump our intuitions. This is the example:
+
+> Physics Department. A physics department has two tenure-track assistant professors, A and B. Each one works in a separate subfield and has a position with a separate “line.” According to the rules, A will get tenure if she makes a significant contribution to the field, regardless of what happens to B. And B will get tenure if she makes a significant contribution to the field, regardless of what happens to A. The department gives no one any guarantee that the rules won’t change, just as many other department policies might change. Given their talents and the
+state of the field, A and B each has a 50% chance of getting tenure.
+
+> One day, the department institutes a new arrangement. The new
+arrangement collapses the two lines into one, so either A or B will get
+tenure, depending on who makes the more important contribution. If
+A gets tenure, B will not. If B gets tenure, A will not. Given their talents
+and the state of the field, A and B each has a 50% chance of getting
+tenure. 
+
+> Call the first tenure scheme “S1” and the second “S2.” (p. 87)
+
+\noindent
+The intuition here should be that the second tenure scheme S2 has a distinctive moral defect compared to the first tenure scheme S1, even though the chances of success in the two schemes for the two candidates are exactly the same.^[
+Another, perhaps more dramatic scenario, Hussai uses is this: "Suppose a Roman emperor throws two citizens into a gladiatorial arena. There is only one exit. The emperor does not tell anyone what to do, but announces a rule:
+“two men enter; one man leaves.” As the first citizen starts toward the door, he knows that he is effectively damaging his fellow citizen’s prospects for escape, but what can he do? When the second citizen sees the first heading for the door, instead of welcoming the possibility of his compatriot escaping, he starts running for the exit himself. As they both race to the door, they are each responding to the very powerful reasons that
+the institution creates for them to act with a kind of disregard for the other
+person and his projects. As some would say, the arrangement sets the
+stage for “man’s alienation from his fellow man.” (p. 89)]
+So the challenge is to account for this intuition---that is, to articular a theory that explains the intuition.
+
+Hussen then proceeds to test possible explanations for why scheme S2 is distinctively morally problematic.
+He goes through a number of possibilities: feelings (Sec. III), fairness (Sec. IV) and face-to-face interactions (Sec. V). He finds them all unsatisfactory.^[See the counterexamples to these proposals, specifically, physics department (b) on page 90, physics department (c) on page 91, and physics department (d) on page 92.] 
+
+
+# The estrangement account (Sec. I, VI, VII)
+
+What is Hussein's own account for why the tenure scheme S2 is distinctively morally problematic? It is  *the estrangement account*. To understand the account, a few pieces of terminology are important.
+
+## Terminology (Sec I, VI)
+
+
+- *solidaristic association*: "an association governed by a relational ideal
+that requires members to care for each other in a certain way. With
+respect to carrying out some abstract project P: each member must give
+the successes and failures of any other member a functional role in her
+practical reasoning that is similar to the functional role that her own successes and failures should play in her practical reasoning." (p.95)^[What are some examples of solidaristic associations?]
+
+- *estrangement*: two people are estranged when, even though they are members of a solidaristic
+association, they do care for one another, say because of indifference or even enmity (p. 96).
+
+
+- *rivalry-Defining Arrangement (RDA)*: a social institution regulated by rules such that 
+participants can only carry out their aspirations by interfering with others carrying out their
+own aspirations.^[More specifically: "a social institution is an RDA
+when its rules have a structure such that (given normal background
+conditions and full publicity) an association of rational individuals,10
+respecting the rules in their thought and conduct would find that there
+are at least two members of the community, A and B, such that A’s formulating and carrying out a plan to realize A’s aspirations within the framework of the rules would interfere with B’s formulating and successfully carrying out a plan to realize B’s aspirations within the framework of the rules."(p. 83)]
+
+- *substantially engulfing institution*: the rules of the institution regulate access to fundamental goods (say health care, education) and leaving the institution is nearly impossible^[More precisely: "(a) the rules are supposed to determine access to important goods that all members of the association have reason to want and (b) the association is
+of a kind such that there is a normative expectation that members are seriously constrained in terms of their liberty to exit or dissolve the association." (p. 85)]
+
+## The account (Sec, VI)
+
+Hussein's Estrangement Account is then the following:
+
+> If a substantially engulfing RDA defines obligations for an association X
+and X is solidaristic, then the RDA must not be structured in such a way
+that full adherence to the rules ... would
+create reasons for estrangement among members that are both serious
+and bear on the form of solidarity required among them as members of X. (p. 97)
+
+\noindent
+So, on this account, estrangement between people is not in itself a morally bad thing. 
+Estrangement among members of a solidaristic association need not be morally bad either. 
+What makes estrangement morally bad, on this account, is that 
+(a) the people are part of a solidaristic association which is (b) substantially engulfing. 
+The physics department example satisfies all these conditions.^[Can you spell out why, exactly?]
+
+
+## Labor market (Sec. VII)
+
+Does this account generalize to other cases? It does, for example, the labor market:
+
+> In the high stakes labor market, citizens get access to health care by
+securing a market income and buying private insurance for themselves.
+Under normal conditions (i.e., short of full employment), each citizen
+secures health care for herself by formulating and carrying out a plan that
+will interfere with her fellow citizens’ efforts to secure health care for
+themselves. As such, the arrangement creates powerful reasons for
+estrangement among citizens with respect to the pursuit of health care—
+and, by extension, the pursuit of the PSG of opportunity. (p. 100)^[What are PSGs? "PSGs are a set of abstract goods—i.e., liberty, opportunity, authority, income and wealth, and the social bases of self-respect—that could serve
+most any citizen’s interest in being able to rationally form, revise, and pursue a conception of the good." (p. 99)]
+
+\noindent
+More generally, this is the upshot:
+
+> we can see how the Estrangement Account can make up
+for the shortcomings of the standard liberal egalitarian view of institutional morality. The standard view focuses on two principles: liberty and equality (or fairness). But these principles alone cannot explain why substantially engulfing RDAs are sometimes morally defective in virtue of
+their rivalry-defining character. What is missing is the concern for creating
+reasons for estrangement: the major background institutions of a liberal
+democracy are morally defective not only when they violate liberty or
+equality (or fairness) but also when they create serious reasons for
+estrangement among citizens with respect to the common good—i.e., the
+pursuit of PSGs. (p. 100-101)
+
+
+# Implications (Sec. VIII)
+
+An interesting implication of  Hussain's estrangement account is that it can guide
+the design of social institutions. Two design principles are worth considering:
+
+(P1) keep relevant goods out of the sphere of competition
+
+(P2) lower the stakes in the competition for relevant goods 
+
+\noindent
+An example of (P1) is a non-competitive testing regime for 
+university admission, which is still selective and meritocratic.^["The rules of a noncompetitive testing regime begin by setting a basic standard for college admission, such as a minimum score on a standardized test 
+(e.g., the SAT) or a minimum high-school grade point average.
+The standard is set high enough that many students (perhaps most) will
+not meet it, but the rules say that any student who meets the standard will
+get a spot somewhere in the higher education system, regardless of how
+well other students do." (p. 103)]
+An example of (P2) is a system that allocates health care on competitive basis but guarantees 
+a minimum level of access for everybody.^["On the one hand, it could incorporate an upper limit on the quality of insurance and health services that people can buy with their employment
+income. On the other hand, it could incorporate a Medicare system that
+guarantees a minimum level of access to health care unconditionally,
+thereby setting a lower threshold below which labor market outcomes
+would not affect access. With a “ceiling” and “floor” in place, the competitive arrangement would create reasons for estrangement, but these reasons would not be too serious." (p. 106)]   
+
+
+# An objection (Sec. IX)
+
+Some will object that meeting the demands of the Estrangement Account might require foregoing greater overall societal welfare, which would then be detrimental to everybody. Here is Hussein's response:
+
+> institutional morality is not fundamentally about welfare or well-being. A preferential
+hiring scheme that excludes women or minorities from positions of
+authority might actually increase economic output and generate more
+resources for all citizens to enjoy, even those in the excluded groups.
+Nonetheless, an arrangement along these lines would be morally defective. 
+.... The requirements of institutional morality are often best understood in
+terms of a way of citizens relating to each other based on the possibility of
+mutual justification on reasonable terms. But some requirements of 
+institutional morality are best understood in terms of a way of citizens relating
+to each other that is rooted in a more concrete and specific relationship.
+... According to the Estrangement Account, the relational ideal
+for citizens requires a form of solidarity, not unlike the solidarity required
+among neighbors or professional colleagues (p. 108-109)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
