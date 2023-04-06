@@ -2,8 +2,8 @@
 title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Individualism and Conflict"
 author: "Marcello Di Bello - ASU - Spring 2023 - Week #13"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout: default
+  tufte::tufte_html: default
 ---
 
 
@@ -22,18 +22,22 @@ body{ /* Normal  */
 </style>
 
 
-Political philosophy, in the analytic tradition, is often concerned with freedom (liberty, autonomy, self-realization) and equality (fairness, distributive justice). For one thing, the lack of a common ground 
-can be viewed as a lack of equality -- deep disparities in income and wealth entrench other divisions between people, in  lifestyles, health, education, political ideals, etc. On the other, freedom (of thought, religious association, commerce, etc.) can also drive societal divisions. 
+Political philosophy is often concerned with freedom (liberty, autonomy, self-realization) and equality (fairness, distributive justice). For one thing, the lack of a common ground 
+can be viewed as lack of equality -- deep disparities in income and wealth entrench divisions between people, in  lifestyles, health, education, political ideals, etc. On the other, freedom (of thought, religious association, commerce, etc.) can also drive societal divisions.^[The tension itself between liberty and equality can also be the primary cause for the lack of a common ground: "the specificity of
+modern democracy as a new political form of society ... lays precisely in the tension between the democratic logic of
+equality and the liberal logic of liberty. It is a tension that we should
+value and protect, rather than try to resolve, because it is constitutive
+of pluralist democracy." Chapter 9, p. 150, of Chantal Mouffe (1993), *The Return of the Political*, Verso.  ] 
 
 In the last two classes, we focused on the first of these  values, liberty. If people are allowed to freely pursue their own conception of the good life, reasonable pluralism, as John Rawls calls it, will be inevitable. The question, then, is how to develop a conception of political justice (and thus also a conception of equality) that is compatible with the fact of reasonable pluralism.
 
-Rawls's answer is the notion of an overlapping consensus---a conception of political justice that reasonable people share. This conception, in a nutshell, consists in the idea of a society governed by rules for fair cooperation among free and equal citizens.^[John Rawls (1987), The Idea of an Overlapping Consensus, *Oxford Journal of Legal Studies*, 7(1)].  Gerard Gaus---whose work we read last time^[See, in particular, Gaus (2017), Self-organizing moral systems: Beyond social contract theory, *Philosophy, Politics and Economics*, 17(2). See also Gaus (2018), The Complexity of a Diverse Moral Order, *The Georgetown Journal of Law \& Puplic Policy*, 16(S)}.]---thought that political liberalism a la Rawls is too restrictive and does not recognize the value of moral diversity in society. Gaus argues that a morally diverse society is still likely to converge on certain social rules, but not because this convergence is imposed top-down by philosophical theorizing, but rather, it emerges spontaneously bottom-up. 
+Rawls's answer is the notion of an overlapping consensus---a conception of political justice that reasonable people share. This conception, in a nutshell, consists in the idea of a society governed by rules for fair cooperation among free and equal citizens.^[John Rawls (1987), The Idea of an Overlapping Consensus, *Oxford Journal of Legal Studies*, 7(1)].  Gerard Gaus---whose work we read last time---thought that political liberalism a la Rawls is too restrictive and does not recognize the value of moral diversity in society. Gaus argues that a morally diverse society is still likely to converge on certain social rules, not because this convergence is imposed top-down by philosophical theorizing, but rather, it emerges spontaneously bottom-up.^[See Gaus (2017), Self-organizing Moral Systems: Beyond Social Contract theory, *Philosophy, Politics and Economics*, 17(2) and Gaus (2018), The Complexity of a Diverse Moral Order, *The Georgetown Journal of Law \& Public Policy*, 16(S).] 
 
 
 # Freedom, equality, community
 
 
-Today we read Waheed Hussain's work.^[Waheedn Hussain, Pitting People Against Each Other, *Philosophy \& Public Affairs*, 48(1), 79-113.] Besides freedom and equality, political philosophy---Hussain argues---should also take seriously the threat of 'pitting people against each other'. He worries that our competitive society threatens the values of community, understood as a web of social relations in which people care for one another in a non-competitive environment. Focusing excessively on freedom and equality, political philosophy in the analytic tradition has lost sight of the value of community. This is the basic claim:
+Today we read Waheed Hussain's work. Besides freedom and equality, political philosophy---Hussain argues---should also take seriously the threat of 'pitting people against each other'.^[Waheedn Hussain, Pitting People Against Each Other, *Philosophy \& Public Affairs*, 48(1), 79-113. It is worth keeping in mind, however, Mouffe's  penetrating critique of political liberalism in Chapter 9 of her *The Return of the Political* (see earlier footnote). Mouffe underscores the inherent conflictual nature of politics---the we/them relation---which political liberals (Ralws, etc.) tend to overlook and disguise under the label of 'unreasonable conflict'.] He worries that our competitive society threatens the values of community, understood as a web of social relations in which people care for one another in a non-competitive environment. Focusing excessively on freedom and equality, political philosophy in the analytic tradition has lost sight of the value of community. This is the basic claim:
 
 > A society’s basic institutions can
 mistreat people in various ways: for example, institutions can fail to 
@@ -77,7 +81,7 @@ He goes through a number of possibilities: feelings (Sec. III), fairness (Sec. I
 
 # The estrangement account (Sec. I, VI, VII)
 
-What is Hussein's own account for why the tenure scheme S2 is distinctively morally problematic? It is  *the estrangement account*. To understand the account, a few pieces of terminology are important.
+What is Hussein's own account for why the tenure scheme S2 is distinctively morally problematic? It is  the *Estrangement Account*. To understand the account, a few pieces of terminology are important.
 
 ## Terminology (Sec I, VI)
 
@@ -89,10 +93,10 @@ the successes and failures of any other member a functional role in her
 practical reasoning that is similar to the functional role that her own successes and failures should play in her practical reasoning." (p.95)^[What are some examples of solidaristic associations?]
 
 - *estrangement*: two people are estranged when, even though they are members of a solidaristic
-association, they do care for one another, say because of indifference or even enmity (p. 96).
+association, they do not care for one another, say because of indifference or even enmity (p. 96).
 
 
-- *rivalry-Defining Arrangement (RDA)*: a social institution regulated by rules such that 
+- *rivalry-defining arrangement (RDA)*: a social institution regulated by rules such that 
 participants can only carry out their aspirations by interfering with others carrying out their
 own aspirations.^[More specifically: "a social institution is an RDA
 when its rules have a structure such that (given normal background
@@ -100,7 +104,7 @@ conditions and full publicity) an association of rational individuals,10
 respecting the rules in their thought and conduct would find that there
 are at least two members of the community, A and B, such that A’s formulating and carrying out a plan to realize A’s aspirations within the framework of the rules would interfere with B’s formulating and successfully carrying out a plan to realize B’s aspirations within the framework of the rules."(p. 83)]
 
-- *substantially engulfing institution*: the rules of the institution regulate access to fundamental goods (say health care, education) and leaving the institution is nearly impossible^[More precisely: "(a) the rules are supposed to determine access to important goods that all members of the association have reason to want and (b) the association is
+- *substantially engulfing institution*: the rules of the institution regulate access to fundamental goods (say health care, education) and leaving the institution is nearly impossible.^[More precisely: "(a) the rules are supposed to determine access to important goods that all members of the association have reason to want and (b) the association is
 of a kind such that there is a normative expectation that members are seriously constrained in terms of their liberty to exit or dissolve the association." (p. 85)]
 
 ## The account (Sec, VI)
@@ -117,7 +121,7 @@ and bear on the form of solidarity required among them as members of X. (p. 97)
 So, on this account, estrangement between people is not in itself a morally bad thing. 
 Estrangement among members of a solidaristic association need not be morally bad either. 
 What makes estrangement morally bad, on this account, is that 
-(a) the people are part of a solidaristic association which is (b) substantially engulfing. 
+(a) the reasons for estrangement are serious and (b) the people are part of a solidaristic association which is (c) substantially engulfing. 
 The physics department example satisfies all these conditions.^[Can you spell out why, exactly?]
 
 
@@ -150,7 +154,7 @@ pursuit of PSGs. (p. 100-101)
 
 # Implications (Sec. VIII)
 
-An interesting implication of  Hussain's estrangement account is that it can guide
+An interesting implication of  Hussain's Estrangement Account is that it can guide
 the design of social institutions. Two design principles are worth considering:
 
 (P1) keep relevant goods out of the sphere of competition
@@ -175,7 +179,7 @@ would not affect access. With a “ceiling” and “floor” in place, the comp
 
 # An objection (Sec. IX)
 
-Some will object that meeting the demands of the Estrangement Account might require foregoing greater overall societal welfare, which would then be detrimental to everybody. Here is Hussein's response:
+Some will object that meeting the demands of the Estrangement Account might require foregoing greater overall societal welfare. Here is Hussein's response:
 
 > institutional morality is not fundamentally about welfare or well-being. A preferential
 hiring scheme that excludes women or minorities from positions of
