@@ -1,0 +1,220 @@
+---
+title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Trust and Civility"
+author: "Marcello Di Bello - ASU - Spring 2023 - Week #14"
+output:
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+      background-color:white;
+  }
+  
+</style>
+
+Say a society is deeply divided on fundamental issues: abortion, immigration, climate change, race and discrimination, etc. Say these divisions hinder or even paralyze political decision-making. How should this predicament be addressed? Should all views be tolerated and discussed in the hope of reaching a consensus? Should some views be silenced? 
+
+We have discussed different approaches. The first is to draw a sharp line between reasonable and unreasonable views: unreasonable views should not be tolerated.^[Jonathan Quong (2011), *Liberalism Without Perfectionism*, Oxford University Press. See chapter 10 in particular.] Instead of banning unreasonable views, another option is to embrace moral diversity and let a self-organizing moral order emerge.^[See Gaus (2017), Self-organizing moral systems: Beyond social contract theory, *Philosophy, Politics and Economics*, 17(2). See also Gaus (2018), The Complexity of a Diverse Moral Order, *The Georgetown Journal of Law \& Puplic Policy*, 16(S)}.] Third, limits can be placed on market-driven social arrangements that exasperate rivalry and pit people against one another.^[Waheedn Hussain, Pitting People Against Each Other, *Philosophy \& Public Affairs*, 48(1), 79-113.] Fourth is the recognition that politics is inherently conflictual and that reasonable disagreement is---to put it bluntly---a harmful delusion.^[Chantal Mouffe, *The Return of the Political*, in particular Chapter 9.]  
+
+Today we look at these questions through moral, not political lenses, focusing on the moral virtue of civility. Civility may help to foster dialogue between people with radically different views.^[Cheshire Calhoun (2000), `The Virtue of Civility', *Philosophy \& Public Affairs*, 29(3),
+251-275. The other reading for today that takes a more markedly moral perspective 
+focuses on the virtue of trust: Vallier (2019),   *Must Politics Be War?*, Oxford University Press. See, in particular, 'Moral Peace and Social Trust' (Chapter 1) and 'Public Justification' (Chapter 3).]
+
+
+
+
+# A moral virtue? (Sec. I)
+
+That civility should be considered a moral virtue is controversial: 
+
+> reasons for discounting civility as a moral virtue or
+ demoting it to a derivative moral virtue depends on a different understanding of what civility is: (1) a set of class-demarcating behaviors; (2) a  morally uncritical conformity to socially established rules of respect, tolerance, etc.; (3) an equivalent to one or more items on the familiar philosophical list of moral virtues" (p. 254)
+
+\noindent
+We will see, however, that once we understand what civility consists in, 
+its distinct moral role becomes apparent. 
+
+
+
+# Political and Polite Civility (Sec. II)
+
+What is civility, then? Political and polite civility are two starting points 
+to think about what civility requires of us. 
+
+Political civility is closely associated with tolerance---or more specifically, the acceptance of the fact of  pluralism which is characteristic of liberal-democratic societies.  Following Rawls, political civility will require that participants in political deliberations about questions of basic justice refrain from appealing to their own comprehensive doctrines because others might disagree with them.
+
+On the other end, polite civility comprises a plethora of social rules and good manners, say, rules  about  respect towards others. Here are some examples:
+
+ > respecting others' life plans by, for instance, waiting one's turn in line, keeping appointments, not
+ treating others' time as though it were less important than one's own, not
+ hogging the road, replying to invitations, not overstaying visits, and graciously accepting gifts rather than asking if they might be exchanged. In  little ways, all of these actions acknowledge the value of others' lives (p. 258)
+ 
+ Both political and political civility identify civility with attitudes of respect, 
+ tolerance and considerateness towards others. So is civility simply
+ the exercise of respect, tolerance and considerateness?
+ 
+ 
+ 
+# What's disinctive about civility (Sec. III)
+
+
+The virtue of civility---Calhoun argues---consists in the *display* 
+of respect, tolerance or considerateness. It is not the exercise 
+of respect, tolerance or considerateness themselves. 
+
+> By'displaying' respect, tolerance, and considerateness,
+ I have in mind acts that the target of civility might reasonably interpret
+ as making it clear that I recognize some morally considerable fact about
+ her that makes her worth treating with respect, considerateness, and tol-
+ erance. (p. 259)
+ 
+\noindent  
+The function of civility is to 
+*communicate* to others that we wish to respect, 
+be tolerant or considerate towards them. But how can we communicate to others 
+our commitments to respect, tolerance or considerateness? 
+How can we make sure that others understand that we intend to be 
+respectful, tolerant or considerate towards them?^[A parallel could be drawn here between civility and the notion of the common ground of a conversation by Robert Stalnaker. See Stalnaker (2002), Common Ground, *Linguistics and Philosophy* 25: 701-721; also
+Stalnaker (2014), *Context*, Oxford University Press. The common ground of a conversation makes it possible to communicate to others what we intend to say and be sure that others will understand that this is what we intend to communicate to them. "[W]hen I want you to recognize that I mean that p, I can (and usually must) rationally rely on [what] we already jointly believe in order to make my meaning manifest to you. And you may (and usually must) rationally
+rely on what we already jointly believe in order to lock onto what I meant." (Berstler, Against Cheap Common Ground, *working draft*, p. 19)"]
+
+
+One option could be to simply be respectful, tolerant or considerate. But this would not work.
+Others might not share the same standards 
+for respect, tolerance or considerateness that we hold true. 
+So we might very well be respectful, tolerant or considerate towards them 
+without being able to communicate this fact to them. 
+
+According to Calhoun, what civility requires is that we follow 
+established rules of conduct---rules that 
+are understood as such by everybody:
+
+
+> Only because there are such generally
+ agreed upon, often codified, social rules for what counts as respectful,
+ considerate, and tolerant behavior can we successfully communicate our
+ moral attitudes toward others. Those rules create a common language for
+ conveying the attitudes of respect, willingness to tolerate differences, and
+ consideration. (p. 260)
+
+
+Perhaps surprisingly, one can be disrespectful, intolerant or inconsiderate 
+without being uncivil---without failing to communicate
+respect, tolerance and considerateness towards others:
+
+ > Consider conducting a discrete adulterous affair; making racist, sexist, or
+ other demeaning comments about one's coworker behind her back; or
+ engaging in discriminatory hiring practices that are carefully hidden
+ from job candidates. Because the targets of disrespect, inconsiderateness, 
+ and intolerance are kept ignorant of how they are being treated,
+ there is no uncivil display to the target. (p. 262)
+ 
+\noindent 
+ Conversely, one can be actually respectful, tolerant or considerate 
+ towards others without being civil:
+ 
+ 
+ >Think, for example, of the person who carefully skirts his neighbor's lawn while sarcastically 
+ declaring, "Don't worry, I won't step on your precious grass"; or the
+ employer who carefully follows affirmative action guidelines but who
+ tells the new employee, "You know you only got this job because you're
+ black"; or the partygoer who rues his own self-restraint by announcing, "I
+ guess I won't tell that (sexist) joke since I know you gals don't have a sense
+ of humor." (p. 261)
+ 
+
+These are all examples---it seems---in which civility need not require respect, tolerance or considerateness, or conversely, respect, tolerance or considerateness need not require civility. But a sharper distinction can also be drawn. Civility and being respectful, tolerant and considerate 
+ can come into open conflict:
+ 
+> [C]onsider how opening doors for women has
+ been, and continues to be, a socially conventional way of displaying re-
+ spect for women. In many social environments, any man who plunges
+ ahead first through a doorway will be interpreted as rudely displaying a
+ disrespectful attitude. Yet such ladies-first policies, one might think (as
+ most feminists now do), are not really respectful. They are rooted in 
+ demeaning assumptions about women's weakness and need for male 
+ protection. (p. 261-263)^[
+  Or here is another example: "consider the fact that asking people to closet
+ a nonheterosexual identity (at work, church, family gatherings, the military, 
+ and the like) generally does not violate our social norms for tolerance. 
+ Thus the military could seriously present its Don't Ask, Don't Tell
+ policy as a tolerant one. In short, pressuring people to stay closeted is
+ generally not uncivil. Yet such don't-tell policies, one might think, are not
+ really tolerant. They are rooted in demeaning assumptions about gay
+ men's and lesbians' moral depravity and sexual licentiousness." (p. 263)]
+ 
+ \noindent
+ When civility and genuine virtue or justice come into conflict,
+ this is a moral conflict. Competing moral demands are made on us:
+ 
+>  In morally imperfect worlds, correctly treating others and communicating 
+respectful moral attitudes are often two different activities. Conse-
+ quently, our final judgments about what to do in such imperfect worlds
+ will often involve weighing two competing moral considerations: (1) the
+ value of successfully communicating basic moral attitudes (civility), and
+ (2) the importance of treating people with genuine respect, tolerance,
+ and considerateness. (p. 264)
+ 
+ 
+# Bounds of Civility (Sec. IV)
+ 
+If civility requires adherence to existing social rules, one wonders whether this adherence should be limited especially in case existing rules are outdated, oppressive, outright unjust and discriminatory. What are the bounds of civility?
+ Setting bounds to civility, say in terms of adherence to social rules so long as they are not openly unjust (unreasonable, immoral, repugnant, etc.) may seem an attractive option. But Calhoun argues that setting such boundaries will undermine the vital function that civility plays in our social lives. 
+ 
+ > A principal point of having norms of civility is to regulate discussion of 
+ controversial subjects so that dialogue
+ among those who disagree will continue rather than break down. .... civility 
+ norms regulate discussion by requiring all parties equally to respond with respect 
+ toward the same set of positions that are on the table for discussion regardless of what they may privately 
+ think about those positions. In other words, civility norms bar dialogue 
+ participants from exercising their own individual judgment about
+ what views are utterly contemptible, intolerable, and not 
+ worth a respectful hearing (p. 269)
+ 
+It is still possible for some views to be off the table, but not for reasons that have to do with individual judgments.^["There may, of course, be positions that are off the table;
+ but here again they will get off the table not because you or I happen to
+ think they aren't owed a civil response. If they get off the table, it will be
+ in a way that equally exempts everyone from civilly responding to the
+ same set of positions." (p. 269) Question: don't individual judgments and actions influence 
+ which positions get off the table?]
+The decision of what is not owed a civil response must be determined socially:
+ 
+> We need not respond civilly to a view or behavior once there is social closure on its 
+intolerability. At that point, civility would not further the work of enabling
+ the nonlike-minded to continue political dialogue or social interaction. However, 
+ when there is social dispute over the tolerability of a view or behavior, 
+ being civil has a point. (p. 271)
+
+\noindent
+It is not the intrinsic moral character of a view that makes it worth of a civil response or not, but rather, the social role that the view plays in a historically situated moment. Views that we might find morally repulsive are still owed a civil response so long as they are live options for debate, as a matter of historical fact in a society.^["Given extensive social disagreement over the moral status of homosexuality, for example, civility may re quire what, from one's own socially critical moral viewpoint, seems excessive accommodation to prejudice. This suggests that standards of
+ civility may directly conflict with morally admirable refusals to dignify
+ what, in one's own best judgment, is morally intolerable. They may thus
+ require foregoing speaking and acting with moral integrity" (p. 273)]
+
+
+Now, if a morally repulsive view should still be owed a civil response, how can civility be a moral virtue?
+Morality and civility seem to enter into open conflict. This objection, however, rests 
+on a narrow view of morality:
+
+> morality calls on us not just to be critically reflective, to
+ search for moral justifications, and to enact what we take to be the most
+ defensible moral views. It also calls on us to aim for mutual agreement on
+ moral norms. Indeed, it is hard to imagine a commitment to morality that
+ isn't also a commitment to seeing that that morality gets instantiated in
+ our social world. Reaching real mutual agreement (as opposed to hypothetical 
+ agreement in, say, an original position) requires regulating moral
+ dialogue so that conversations do not break down. (p. 273)
+ 
+ \noindent
+ Civility, then, is that moral virtue that allows morality to be instantiated 
+ in our social world through mutual agreement.^[Somewhat simplistically, morality can be understood as twofold: (1) the problem of finding out what's right or wrong;  and (2) the problem of coordinating people who may have different views about what's right or wrong. Civility addresses the coordination problem.]
+ 
