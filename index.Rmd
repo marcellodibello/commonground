@@ -283,6 +283,9 @@ included in the course materials.
 
 **Week 1: Introduction**
 
+
+
+
 The need for a common ground can manifest itself in different areas of human engagement. We will focus on four in particular: communication, reasoning, rational inquiry about the world, and political deliberation. These four areas fall (roughly) within the purview of four sub-disciplines of philosophy: philosophy of language; logic and argumentation theory;  epistemology and philosophy of science; and finally, value theory, including moral, social and political philosophy. To these four, we will add a fifth area of investigation, what we might call the question of inclusion and belonging. 
 
 The readings in this course are organized systemically to cover different areas of philosophy. In the first class meeting, however, we will read beyond philosophy. We will 
@@ -290,6 +293,9 @@ consider a family of explanations for why our society is divided and polarized, 
 They all place blame, to different degrees, on individualism and the loss of a sense of community. These explanations are not meant to be exhaustive or definitive, but simply a starting point for the conversation. We will return back to them throughout the course. The philosophical readings that follow about questions of language, logic and reasoning, rational inquiry and political deliberation can all be situated within these overarching explanations. 
 
 *Essential readings*
+
+- [Week 1 - handout](https://www.marcellodibello.com/commonground/handout/introduction.html) 
+
 
 - Rodgers (2011), The Rediscovery of the Market (Chapter 2 of [The Age of Fracture](https://www.hup.harvard.edu/catalog.php?isbn=9780674064362)) - *Check Canvas*
 
@@ -313,6 +319,8 @@ The first part of the class will consist in a Q&A session with [Sam Berstler](ht
 
 
 *Essential readings*
+
+- [Week 2 - handout](https://www.marcellodibello.com/commonground/handout/communication.html)  
 
 - Berstler (2021), [Against Cheap Common Ground](https://drive.google.com/file/d/1nxdga6D6m7QZfTggEY-JMcutWtAScBQn/view)
 
@@ -338,6 +346,8 @@ language so that you could not understand what they say? This is the problem of 
 
 
 *Essential readings*
+
+- [Week 3 - handout ](https://www.marcellodibello.com/commonground/handout/Radical-Interpretation.html) 
 
 - Davidson (1973), [Radical Interpretation](https://www.marcellodibello.com/commonground/readings/DavidsonRadicalInt.pdf)
 
@@ -366,6 +376,8 @@ The first part of the class will consist in a Q&A session with [Elizabeth Povine
 
 
 *Essential readings*
+
+- [Week 4 - handout](https://www.marcellodibello.com/commonground/handout/incommensurability.html)  
 
 - Davidson (1973), [On the Very Idea of a Conceptual Scheme](https://www.marcellodibello.com/commonground/readings/DavidsonConceptualSc.pdf)
 (Using a Tarski-style theory of meaning, the paper argues that it is impossible for two languages to be incommensurable)
@@ -405,9 +417,9 @@ The first part of the class will consist in a Q&A session with [Nathan Ballantyn
 
 *Essential readings*
 
+- [Week 5 - handout](https://www.marcellodibello.com/commonground/handout/Logic-Argumentation.html) 
 
 - Beall and Restall (2000), [Logical pluralism](https://consequently.org/papers/pluralism.pdf)
-
 
 - Ballantyne (2022), [The Fog of Debate](https://www.dropbox.com/s/y03w1gq60saq9dm/Ballantyne_FogOfDebate_2022.pdf?dl=0)
 
@@ -440,6 +452,8 @@ Instead of attempting to ground our epistemology from first principles, the comm
 
 *Essential readings*
 
+- [Week 6 -handout](https://www.marcellodibello.com/commonground/handout/skepticism.html) 
+
 - Lynch (2012), Nothing but Dreams and Smoke and Reasons Ends: Tradition and Common Sense (Chapters 3 and 4 of [In Praise of Reason](https://mitpress.mit.edu/9780262526050/in-praise-of-reason/))  - *Check Canvas*
 
 
@@ -467,6 +481,8 @@ The first part of the class will consist in a Q&A session with [Kevin Dorst](htt
 
 *Essential readings*
 
+-  [Week 7 - handout](https://www.marcellodibello.com/commonground/handout/rational-polarization.html) 
+
 - Kelly (2008), [Disagreement, Dogmatism, and Belief Polarization](http://www.princeton.edu/~tkelly/BF2.pdf)
 
 - Dorst (2022), [Rational Polarization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3918498)
@@ -489,6 +505,8 @@ Attitude Polarization](https://www.marcellodibello.com/commonground/readings/Bia
 Another explanation for belief polarization is that---because of the structure of information cascading on social media---people will have selective access to information and inhabit epistemic bubbles and echo chambers (though the two are different). Echo chambers and bubbles are failures of common ground in the sense that people do not share the same evidence. Given these circumstances, then, belief polarization is inevitable, and in many ways, unsurprising. The cure is simple: escape your epistemic bubble and echo chamber; go talk to those with whom you disagree; etc. As we will see, though, it is much harder to escape an echo chamber than an epistemic bubble. 
 
 *Essential readings*
+
+- [Week 8 - handout](https://www.marcellodibello.com/commonground/handout/bubbles-chambers.html) 
 
 - Nguyen, [Echo Chambers and Epistemic Bubbles](https://www.marcellodibello.com/commonground/readings/ChambersBubbles.pdf)
 
@@ -518,6 +536,8 @@ Another explanation for belief polarization is that---because of the structure o
 Epistemic bubbles and echo chambers are ecosystems of information, with their own internal rules and regulations. They constitute, in some sense, a common ground, at least for those inside them. A common ground, then, can also exclude, and perhaps it needs to exclude in order to include. So what happens when some people---along with their knowledge, evidence, testimony, experience---are excluded? Recently, a number of philosophers within the analytic tradition have theorized about "epistemic injustice"in various forms: testimonial, hermeneutical, oppressive. Long before these discussions in analytic philosophy, one of the foundational texts of post-colonial theory took up the question whether certain voices are systematically excluded from the conversation---and cannot even articulate their position. 
 
 *Essential readings*
+
+- [Week 10 - handout](https://www.marcellodibello.com/commonground/handout/epistemic-injustice)  
 
 - Fricker (2007), Hermeneutical Injustice (Chapter 7 of [Epistemic Injustice](https://academic.oup.com/book/32817)) - *Check Canvas*
 
@@ -550,6 +570,8 @@ The first part of the class will consist in a Q&A session with [Jonathan Quong](
 
 *Essential readings*
 
+- [Week 11 - handout](https://www.marcellodibello.com/commonground/handout/political-liberalism.html)
+
 - Rawls (1992), The Idea of an Overlapping Consensus and The Idea of Public Reason (lectures IV and VI of [Political Liberalism](http://cup.columbia.edu/book/political-liberalism/9780231130899)) - *Check Canvas*
 
 - Quong (2010), Unreasonable Citizens (Chapter 10 of [Liberalism without Perfection](https://academic.oup.com/book/12006)) - *Check Canvas*
@@ -581,6 +603,8 @@ The idea of an overlapping consensus presupposes that there is a minimal, essent
 
 *Essential readings*
 
+- [Week 12 - handout](https://www.marcellodibello.com/commonground/handout/self-org.html) 
+
  -  Gaus (2018), [Self-Organizing Moral Systems: Beyond Social Contract
 Theory](http://www.gaus.biz/Gaus-Self-organizing.pdf)
 
@@ -601,6 +625,8 @@ worth exploring here. First, an individualistic, competition-driven market logic
 against the background of enmity.
 
 *Essential readings*
+
+- [Week 13 -handout](https://www.marcellodibello.com/commonground/handout/individualism.html) 
 
 -  Hussain (2020), [Pitting People Against Each Other](https://www.researchgate.net/publication/339349346_Pitting_People_Against_Each_Other)
 
@@ -625,6 +651,8 @@ underscore that attitudes toward each other---not only an agreement about conten
 The first part of the class will consist in a Q&A session with [Cheshire Calhoun](https://en.wikipedia.org/wiki/Cheshire_Calhoun), a moral and political philosopher at Arizona State University whose work on the virtue of civility is one of the readings assigned for today. *Please come prepared to ask questions.*
 
 *Essential readings*
+
+- [Week 14 - handout](https://www.marcellodibello.com/commonground/handout/trust-civility.html) 
 
 - Vallier (2019), Moral Peace and Social Trust (Chapter 1) and Public Justification (Chapter 3) of [Must Politics Be War?](https://www.kevinvallier.com/wp-content/uploads/2016/11/MPBW_v2.pdf)
 
