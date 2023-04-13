@@ -2,8 +2,8 @@
 title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- Trust and Civility"
 author: "Marcello Di Bello - ASU - Spring 2023 - Week #14"
 output:
-  tufte::tufte_html: default
   tufte::tufte_handout: default
+  tufte::tufte_html: default
 ---
 
 
@@ -64,7 +64,7 @@ On the other end, polite civility comprises a plethora of social rules and good 
  
  
  
-# What's disinctive about civility (Sec. III)
+# What's distinctive about civility (Sec. III)
 
 
 The virtue of civility---Calhoun argues---consists in the *display* 
