@@ -1,0 +1,86 @@
+---
+title: "[The Common Ground](https://www.marcellodibello.com/commonground/) -- The End"
+author: "Marcello Di Bello - ASU - Spring 2023 - Week #16"
+output:
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+      background-color:white;
+  }
+  
+</style>
+
+
+# A definition
+
+What is the common ground? The word 'common ground' can mean many different things. But, in general, 
+it refers to a set of beliefs, values, principles, or attitudes that a group of people have in common. 
+
+Here are some examples. Following Stalnaker, the common ground of a conversation is the set of beliefs that the participants in the conversation share.^[Stalnaker (2002), Common Ground, *Linguistics and Philosophy* 25: 701-721.] Following Rawls, the common ground of political decision-making (the 'overlapping consensus') is the shared set of liberal values---such as equality and freedom---that reasonable citizens or elected representatives share.^[John Rawls (1993), *Political Liberalism*. See [Week 11 - handout](https://www.marcellodibello.com/commonground/handout/political-liberalism) ]
+In the scientific community, the common ground is a shared set of definitions and methods by which scientific inquiry is carried out and its success adjudicated. And so on. The word 'common ground' is sufficiently general to encompass different things such as shared rules about road traffic or shared values by which people lead their lives.
+
+The concept of a common ground can be studied---as we did in this seminar---from many different angles.
+Below are gathered a few sparse, scattered and unorganized thoughts about recurrent themes we encountered. 
+The discussion focuses mostly on topics in philosophy of language and epistemology. It neglects social, ethical and political questions. So this is an incomplete survey of the themes we discussed in our seminar. 
+
+# Conversations
+
+ Let's begin with communication. Without a common ground---a set of beliefs that the interlocutors share---no communication would be possible. When I say 'Can you please open the door?', I am presupposing that the person I am addressing shares many beliefs with me, say, that doors can be opened; that they have a handle you can grab on; etc. In fact, it would be quite an undertaking to explain what it takes to open a door to someone who has never seen one.
+
+The common ground of a conversation is not, however, a fixed set of beliefs. It can change over time: some beliefs become shared and others drop out. The common ground can also be different from one conversation to another. And it need not be unique: the same conversation can in principle be associated with multiple common grounds. The common ground can also be uncertain. If I say---*it was a fun night*---and you respond---*it really was*---then it is now common ground that it was a fun night. But what does the 'it' refer to? One interlocutor might think about the swim they had in the university pool. The other might think of the concert they went to. Later bits of the conversation will likely resolve this uncertainty. 
+
+Finally, the common ground of a conversation need not be characterized solely in 
+terms of shared beliefs. It may also pick out shared sentiments, feelings, inclinations, attitudes, 
+habits that interlocutors share. How to work out this more expansive conception of the common ground is an open question.^[Langton (2012), Beyond Belief: Pragmatics in Hate Speech and Pornography, in *Speech and Harm: Controversies Over Free Speech*. See [Week 2 - handout](https://www.marcellodibello.com/commonground/handout/communication.html).] 
+
+
+
+
+
+
+#  Conceptual schemes 
+
+The common ground of a conversation is usually a rather circumscribed matter: it is between a limited number of people, in isolated moments in space and time. But we can think of a conversation in a more extended sense, as what characterizes the spirit of a time or the core beliefs of a society. Call this a *conceptual scheme*, a set of well-entrenched beliefs shared by members of a society, or sizable subgroups in a society, over extended periods of time. 
+
+Could it be that conceptual schemes thus understood are incommensurable to one another? In other words, could it be that different societies (or subgroups within a society) developed sets of well-entrenched beliefs that have little or nothing in common with one another? One reason to answer in the negative is this: we form beliefs by interacting with the world around us, and since the world we interact with is largely the same, we will form largely similar beliefs. So, incommensurable conceptual schemes seem unlikely. On the other, people who grew up in different times and places---even within the same society---will look at the world in different ways and then could develop radically different beliefs. So incommensurable conceptual schemes are entirely possible.^[See Davidson (1973), Radical Interpretation, *Dialectica* 23(3/4) and Davidson (1973), On the Very Idea of a Conceptual Scheme, *Proceedings and Addresses of the American Philosophical Association* 47. On the other hand, see Povinelli (2001), Radical Worlds: The Anthropology of Incommensurability and Inconceivability, *Annual Review of Anthropology*, 30. See [Week 3 - handout](https://www.marcellodibello.com/commonground/handout/Radical-Interpretation) and [Week 4 - handout](https://www.marcellodibello.com/commonground/handout/incommensurability.html).] 
+
+To be sure, the question of incommensurable conceptual schemes might seem overly rigid and simplistic. It assumes---or tacitly suggests---that conceptual schemes are fixed and unique. This need not be. Just as the common ground of a conversation can change, so can the conceptual schemes adopted in a society (or by sizable subgroups in it). And just as people in a conversation might be engaged with multiple common grounds, so people in a society might inhabit multiple, perhaps overlapping conceptual schemes. 
+
+Given this more flexible and fluid notion of a conceptual scheme, one wonders whether the idea of a practice is more apt---where a practice is a set of patterned behaviors and habits informed by shared principles, norms and values.^[Adherence to a practice---or set of rituals---might have moral value in itself. See Cheshire Calhoun (2000), `The Virtue of Civility', *Philosophy \& Public Affairs*, 29(3),
+251-275 and  [Week 14 - handout](https://www.marcellodibello.com/commonground/handout/Radical-Interpretation).]
+
+
+# Disagreement 
+
+The idea of a common ground or the question whether incommensurable conceptual schemes are possible is helpful in analyzing the notion of disagreement. This is a topic we did not discuss much in the seminar, but perhaps we should have. There is no doubt that, in our society, different people hold different beliefs about fundamental questions: the environment, the labor market, abortion, immigration, race, freedom of speech; etc. But how should we interpret this fact? At first blush, people seem to disagree radically about important questions.  Yet their beliefs---while different on their face---could be largely convergent. It is a genuine empirical question whether people disagree as much as we think they do. 
+
+Still, the notion of disagreement is difficult to make sense of. People disagree whenever they assert contradictory propositions. Now, such disagreement already presupposes a great deal of shared beliefs on which those who disagree antecedently agree. Disagreement would not be possible without a common ground. Suppose I assert $p$, and $p$ acquires its meaning in light of certain other beliefs I am presupposing. Then, whoever does not share my own presuppositions would not be able to understand $p$ and thus would not even be able to disagree with $p$.  So the idea of radical disagreement should be disambiguated. How should we understand radical disagreement about, say, abortion? Does it take place against a common ground of shared well-entrenched beliefs (a shared conceptual scheme) or do those who engage in the debate talk past each other because they cannot even understand each other? Whichever side we take here does not seem inconsequential. 
+
+
+# Evidence and bounded resources 
+
+
+We need not settle whether incommensurable conceptual schemes are ultimately possible. But we could propose the following hypothesis. If we all had infinite time, energy and resources---if we could all experience the world in all its multiple aspects---then it is unlikely incommensurable conceptual schemes would arise. But the fact is, we are bounded  by time, place, and resources. 
+
+This brings us to the question of how we investigate the world and form beliefs about it. We are able to receive inputs through our senses and gather data via complex scientific studies and experiments. We can process these inputs in the form of evidence, then reason and draw conclusions, and finally make decisions.  This is not necessarily a linear process: conclusions we draw from evidence may influence our decisions, and our decisions may influence the evidence we consider. 
+
+Our bounded nature will affect how we process evidence, draw inferences and make decisions. Here are some examples. The order in which we are presented pieces of information may affect the conclusion we draw: the same information broken down into pieces and presented in different orders could lead to radically different conclusion.  This outcome might very well be required by rationality itself, not the result of irrationality or bias.^[Kelly (2008),  Disagreement, Dogmatism, and Belief Polarization, *The Journal of Philosophy*, 105(10):611-633 and [Week 7 - handout](https://www.marcellodibello.com/commonground/handout/rational-polarization.html)] 
+
+Or we might process evidence rationally and carefully, and yet end up with radically different beliefs from others who also process the evidence they receive rationally and carefully. How so? Quite simply, we are exposed to different evidence---we all live, in one way or another, in epistemic bubbles. 
+
+In addition, when we examine information presented to us, we need criteria by which we can judge its trustworthiness. We cannot afford to examine any potentially relevant piece of information that is thrown our way. We have limited time. So, we rely on a 'credibility assessment' to filter out some information as untrustworthy and focus instead on the trustworthy information. This process of filtering---what gives rise, at the extreme, to echo chambers^[See Nguyen (2020), Echo Chambers and Epistemic Bubbles, *Episteme*, 17(2), 141-161 and [Week 8 - handout](https://www.marcellodibello.com/commonground/handout/bubbles-chambers.html)]---is not irrational. It is a way to navigate information and cope with our bounded resources. 
+
+So, radical disagreements might very well be a bi-product of forming beliefs bout the world having only limited resources. And to make this hypothesis more palatable, we should move away from a belief- or evidence-centric conception. We navigate world through evidence, belief, desires, attitudes, habits, principles, values, etc.
+So, the hypothesis is this: radical disagreements arise as we navigate the world having only limited resources.
+
